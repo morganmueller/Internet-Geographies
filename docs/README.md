@@ -1,7 +1,6 @@
 # Internet Geographies
 ### **Eugene Lang College of Liberal Arts <br> Code as Liberal Art, Spring 6022**
 
-
 [**Link to the course listing**<br> **Category**: 4 Credits, Elective<br>
 <br>](https://courses.newschool.edu/courses/LCOD2123/)
 
@@ -13,19 +12,19 @@
 * Github Repo:
   * [Internet Geographies Github Repo](https://github.com/all-maps-lie/all-maps-lie-2020)
 * Course Materials Are.na:
-    * [Internet Geographies Course Readings, Resources, & Learning Materials](https://www.are.na/morgan-mueller/internet-geographies)
+  * [Internet Geographies Course Readings, Resources, & Learning Materials](https://www.are.na/morgan-mueller/internet-geographies)
 
 ## COURSE DETAILS
 
-| Info | Detail | 
-| :-----   | -------  |       
+| Info | Detail |
+| :-----   | -------  |
 | Instructor| [Morgan Mueller](https://morganmueller.xyz) | 
-| Instructor Email | muelm658@newschool.edu | 
+| Instructor Email | muelm658@newschool.edu |
 | Instructor Github | [@morganmueller](https://github.com/morganmueller) | 
-| Class Day | Monday, Wednesday   | 
-| Class Time      | 4:00pm - 5:40pm | 
-| Class Room      | Room **1102**, 6 East 16th Street, Manhattan | 
-| Class Dates     | Jan 24 - May 16 | 
+| Class Day | Monday, Wednesday   |
+| Class Time      | 4:00pm - 5:40pm |
+| Class Room      | Room **1102**, 6 East 16th Street, Manhattan |
+| Class Dates     | Jan 24 - May 16 |
 
 ### OFFICE HOURS
 
@@ -92,7 +91,7 @@ And it will probably remain so for the rest of the course. I expect things to ch
 * Understand what core infrastructures make up the internet and how they affect the fundamental nature of our technologically driven 
 globe.
 * Become familair with the "art of noticing" and develop strategies to tune into generally overlooked details and components of internet infrastructure.
-* learn basics of creating web maps using Leaflet and D3 (Inside or outside of Observabele)
+* learn basics of creating web maps using Leaflet, D3, and other tools (Inside or outside of Observabele)
 * practice collecting and geocoding spatial data
 * Explore various kinds of media (artworks, documentaries, interactive maps, exhibitions) as a way to think through key concepts expolored 
 in this course.
@@ -110,7 +109,7 @@ This section will be updated with the reading presentation groups once they have
 Prior to each week I will upload slides, code examples, resources and more to the relevant page.
 
 | GO TO  |  DATE  | SECTION | GROUP PRESENTATION |
-| :----         |  ----  | ---- | ---- | 
+| :----         |  ----  | ---- | ---- |
 | [WEEK 01](weeks/week_01.md) | Jan 24 & 26 | A Tangible Internet | None |
 | [WEEK 02](weeks/week_02.md) | Jan 31 & Feb 2 | A Tangible Internet | None |
 | [WEEK 03](weeks/week_03.md) | Feb 07 &  09 | A Tangible Internet | **TBD** |
@@ -253,10 +252,11 @@ __ASSIGNED__
     * [Shannon Mattern, “Infrastructural Tourism,” Places Journal, July 2013](https://placesjournal.org/article/infrastructural-tourism/#footnote_15)
     * [Jeremy Crampton, John Krygier, "An Introduction to Critical Cartography", July 2010](https://www.are.na/block/14630024)
     * [Adam Rothstein, "How to See Infrastructure: A Guide for Seven Billion Primates", July 2015](https://rhizome.org/editorial/2015/jul/2/how-see-infrastructure-guide-seven-billion-primate/)
+    * [Andrew Blum, "Tubes", 2012, Chapter 1](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
 
 * **SMALL ASSIGNMENT**
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
-    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to reseach the componenets and learn how they are incorporated into the larger netowrked system. We will be 
+    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to reseach the componenets and learn how they are incorporated into the larger networked environment. We will disucss our findings in next week's class!
 
 * **OPTIONAL READING**
     * [Surya Mattu & Ingrid Burrington, "The Physical Internet"](http://networks.land/reference/physical/)
@@ -268,7 +268,7 @@ __ASSIGNED__
     * [Map Maker Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)
 
 ##### Wednnesday, January 26th
-* Introducion to web mapping with Javascript (Javascript Basics and Using Observable)
+* Introducion to web mapping with Javascript (Javascript Basics in Observable)
 __ASSIGNED__
 * Project 1 (Public Data Mapping), **Due Feb 23**
 
@@ -281,13 +281,15 @@ __ASSIGNED__
     * [Paul Dourish, "Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet"](https://dourish.com/publications/2015/NotTheInternet.pdf)
     * [Lisa Parks, "Around the Antenna Tree: The politics of Infrastructural Visibility" ](http://www.flowjournal.org/2009/03/around-the-antenna-tree-the-politics-of-infrastructural-visibilitylisa-parks-uc-santa-barbara/)
     * [Shannon Mattern, "Where Code Meets Concrete", Sep 2019](https://urbanomnibus.net/2019/09/where-code-meets-concrete/)
-    * [Zach Blas, "Contra-Internet", June 2016](https://www.e-flux.com/journal/74/59816/contra-internet/)
+    * [Andrew Blum, "Tubes", 2012, Chapter 2](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
 
 * **READING DUE WEDNESDAY**
     * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 
 * **OPTIONAL READING**
     * [Greta Byrum, "Building the People's Internet"](https://urbanomnibus.net/2019/10/building-the-peoples-internet/)
+    * [Zach Blas, "Contra-Internet", June 2016](https://www.e-flux.com/journal/74/59816/contra-internet/)
+
 
 * **RESOURCES**
     * [Ingrid Burrington, "Seeing Networks"](http://seeingnetworks.in/nyc/)   
@@ -304,7 +306,6 @@ __ASSIGNED__
 
 __ASSIGNED__
 * **READING**
-    * [Andrew Blum, "Tubes"]
     * [Shannon Mattern, "Cloud and Field"](https://placesjournal.org/article/cloud-and-field/)
     * [Jennifer Gabrys, "Becoming Planetary", Oct 2018](https://www.are.na/block/7025809)
 * **WATCH**
@@ -321,6 +322,7 @@ __ASSIGNED__
 ## Section - A Tangible Internet
 #### Week 4 – Undersea Networks & Terrestrial Cables
 ##### Monday, February 14th
+
 __ASSIGNED__
 * **READING**
     *  [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
@@ -331,17 +333,24 @@ __ASSIGNED__
     * [Surfacing](http://www.surfacing.in/) 
 
 ##### Wednesday, February 16th
-D3.js overview, Continued work on web mapping fundamentals
+* D3.js overview and in class exercise 
+* Continued work on web mapping fundamentals
 
 ## Section - A Tangible Internet
-#### Week 5 - Data Centers 
-##### Monday, February 21st
 
+#### Week 5 - Data Centers 
+
+##### Monday, February 21st 
+
+**NO CLASS**
+* I still strongly recommend this week's readings and listening assignments!
 __ASSIGNED__
 * **READING**
     * [Ingrid Burrington,"Why Amazon's Data Centers Are Hidden in Spy Country](https://www.theatlantic.com/technology/archive/2016/01/amazon-web-services-data-center/423147/)
     * [Julia Velkova, "Data Centers as Impermanent Infrastructures"](https://culturemachine.net/vol-18-the-nature-of-data-centers/data-centers-as-impermanent/)
     * [Ned Rossiter,"Imperial Infrastructures and Asia beyond Asia: Data Centres, State Formation and the Territoriality of Logistical Media"](https://twentynine.fibreculturejournal.org/wp-content/pdfs/FCJ-220NedRossiter.pdf)
+    * [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1)
+
 * **LISTENING**
     If you can, listen to all three episodes, otherwise I would recommend the first and third episode.
     * [Data Center Industrial Complex Podcast](https://www.youtube.com/playlist?list=PLx7HtJGIlJ0HUvFkUpYxJwZEExpVNQAS1)
@@ -350,19 +359,17 @@ __ASSIGNED__
     A lot of great pieces in this volume of the journal! I would recommend pieces by Matt Parker, Vikki Mayer, and Anthony M Levenda/Dillon Mahmoudi
     * [Culture Machine Vol. 18](https://culturemachine.net/vol-18-the-nature-of-data-centers/)
 
-* **SMALL ASSIGNMENT**
-    For Next Monday, come to class with some notes on at least two art works from the Critical Studies of the Cloud collection. We will begin the class by discussing 
-    how artists have been able to critique internet infrastructures in different and oftentimes subversive ways to academics and journalists.
-    *  [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1)
-
 ##### Wednesday, February 23rd
 * **PROJECT 1 DUE**
 * **Guest Speaker: Ingrid Burrington**
+* **SMALL ASSIGNMENT**
+    For Next Monday, come to class with some notes on at least two art works from the [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1) collection. We will begin the class by discussing 
+    how artists have been able to critique internet infrastructures in different and oftentimes subversive ways to academics and journalists.
 
 ## Section - Supply Chains
 #### Week 6 - Rethinking Containerization
-##### Monday, February 28th
 
+##### Monday, February 28th
 __ASSIGNED__
 * **READING**
     * [Anna Tsing, "Supply Chains and the Human Condition", 2009 ](https://www.are.na/block/14670672)
@@ -373,7 +380,7 @@ __ASSIGNED__
 [James Smith and Jeffrey Mantz, “Do Cellular Phones Dream of Civil War?"](https://www.are.na/block/14670532)
 
 ##### Wednesday, March 2nd
-* Data Visualization with D3.js (Beyond Mapping)
+* Data Visualization with D3 & Vega (Beyond Mapping)
 
 __ASSIGED__
 * Project 2 (Visualizing a Collection), **Due March 23**
@@ -398,7 +405,7 @@ __ASSIGNED__
     [Supply-Chains.us](https://www.supply-chains.us/)
 
 ##### Wednesday, March 9th
-* Data Visualization with D3.js Continued
+* Data Visualization Continued
 * Remote Sensing & GIS Techniques
 
 ## SPRING BREAK
@@ -411,20 +418,23 @@ __ASSIGNED__
 ## Section - Supply Chains
 #### Week 9 - Politics of Production
 ##### Monday, March 21st
+
 __ASSIGNED__
 * **READING**
 * [Lisa Nakamura, "Economies of Digital Production in East Asia"](http://static1.1.sqspcdn.com/static/f/707453/11409674/1301102745057/Media-Fields-2-Nakamura.pdf?token=XCUcazisBv2ZLAhbvcr58wwJJek%3D)
 * [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://apjjf.org/2013/11/32/Mark-Selden/3981/article.html)
 
 ##### Wednesday, March 23rd
+
 * **PROJECT 2 DUE**
 * Project Presentations and Critique
-**Guest Speakers: [Miriam Matthiessen](https://miriammatthiessen.com/) & [Anne Lee Steele](https://aleesteele.com/)**
+* Remote Sensing Tools and Techniques
+<!-- **Guest Speakers: [Miriam Matthiessen](https://miriammatthiessen.com/) & [Anne Lee Steele](https://aleesteele.com/)** -->
 __ASSIGNED__
 * Project 3 (DIY Map Tile Visualization), **Due April 13**
 
 
-## Section - Mining & Extraction
+## Section - Mining & Extractionmain
 #### Week 10 - Elements of the Internet
 ##### Monday, March 28th
 __ASSIGNED__
@@ -440,8 +450,7 @@ __ASSIGNED__
 
 ##### Wednesday, March 30th
 * Using Javascript to work with landsat bands 
-* More on remote sensing 
-* Vector v. Rastor Tiles 
+* Vector Tiles v. Rastor Tiles 
 __ASSIGNED__
 * **SMALL ASSIGNMENT**
     * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring to class next Monday.
@@ -470,7 +479,6 @@ __ASSIGED__
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 
 ##### Wednesday, April 13th
-* Moving away from Observable
 * Advanced Mapping techniques with D3.js and Keppler.gl
 * Keppler.gl mapping exercise
 
@@ -492,7 +500,6 @@ __ASSIGNED__
 ##### Wednesday, April 20th
 **PROJECT 3 DUE**
 Project Presentations and Critique
-
 
 ## Section - Waste & Disposal
 #### Week 14 - Second Lives

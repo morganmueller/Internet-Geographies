@@ -5,7 +5,7 @@
     * [Week 2](weeks/week_02.md)
 
 * Projects
-    * Project 1
+* Project 1
     * Project 2
     * Project 3
     * Final Project/Paper
@@ -13,4 +13,3 @@
 * Guides
 
 * Resources
-
