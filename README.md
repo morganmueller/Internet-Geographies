@@ -10,7 +10,7 @@
 * Course Website:
   * [Internet Geographies](https://all-maps-lie-2020.netlify.com/#/)
 * Github Repo:
-  * [Internet Geographies Github Repo](https://github.com/all-maps-lie/all-maps-lie-2020)
+  * [Internet Geographies Github Repo](https://github.com/morganmueller/Internet-Geographies)
 * Course Materials Are.na:
   * [Internet Geographies Course Readings, Resources, & Learning Materials](https://www.are.na/morgan-mueller/internet-geographies)
 
