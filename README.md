@@ -8,7 +8,7 @@
 ## COURSE WEBSITE & QUICK LINKS
 
 * Course Website:
-  * [Internet Geographies](https://all-maps-lie-2020.netlify.com/#/)
+  * [Internet Geographies](https://internet-geographies.netlify.app/)
 * Github Repo:
   * [Internet Geographies Github Repo](https://github.com/morganmueller/Internet-Geographies)
 * Course Materials Are.na:
@@ -26,7 +26,7 @@
 | Class Room      | Room **1102**, 6 East 16th Street, Manhattan |
 | Class Dates     | Jan 24 - May 16 |
 
-### OFFICE HOURS
+## OFFICE HOURS
 
 Office hours are by appointment. Please see the office hour offerings.
 
@@ -48,21 +48,20 @@ Discussion and reading will explore various ways that infrastructure occupies, t
 ## COURSE STRUCTURE
 Our course will be organized as a hybrid theory/practice seminar, meaning that your coursework will be comprised of both the kind of textual engagement (reading and writing) typical of a liberal arts seminar, as
 well as hands-on work building and making examples of the objects and technologies that we will be reading about. Typically we will spend Mondays discussing the readings, screenings, examples, and concepts of
-that week. Wednesdays will usually (but not always) be dedicated to project work: I will lead a technical tutorial during class time and will often supplement this with online materials (video or lecture notes) that you can
-refer back to when you are working on technical projects after class. See the course schedule below for daily plans, and always check the website for any changes or updates.
+that week. Wednesdays will usually (but not always) be dedicated to project work: I will lead a technical tutorial during class time and will often supplement this with online materials (video or lecture notes) that you can refer back to when you are working on technical projects after class. See the course schedule below for daily plans, and always check the website for any changes or updates.
 
 ## EVALUATION & GRADING
 
-Students will be evaluated on effort, personal progress and growth, class participation, assignments, and the final paper/project. It is understood that this course will be technically and conceptually challenging, therefore your effort, curiosity, and engagement is of utmost importance. 
+Students will be evaluated on effort, personal progress and growth, class participation, assignments, and the final paper/project. It is understood that this course will be technically and conceptually challenging, therefore your effort, curiosity, and engagement is of utmost importance.
 
-### GRADE CALCULATION:
+## GRADE CALCULATION:
 
 Here is a basic breakdown of graded tasks along that trajectory:
 * 10% Attendance/Participation
 * 15% Reading Responses
 * 15% Discussion Lead
 * 5% Small Assignments
-* 30% Technical Projects 
+* 30% Technical Projects
     * 10% Project 1
     * 10% Project 2
     * 10% Project 3
@@ -72,14 +71,12 @@ Here is a basic breakdown of graded tasks along that trajectory:
 ## EXPECTATIONS AND WORKLOAD
 You can expect to have a few assigned readings and or videos to watch each week (these are marked as readings underneath each Monday class heading - any resources marked optional are not mandatory but are typically relevant and quite informative.) You must complete all readings prior to class, and come ready to participate in discussion. Details for how to submit assignments will be given in class.
 
-### READING RESPONSES
+## READING RESPONSES
 Starting in week 2, choose five readings from the syllabus and write a 250-word reading response to each. Upload your response to the online class forum by 11pm the night before class to give everyone else enough time to read your work! Reading responses are discussion aids to be shared with the class. These responses are to demonstrate your engagement with the course material. You may choose to write about a specific passage or image in the reading, compare the reading to previous readings, or perhaps even diagram the structure of the argument.
 
-### DISCUSSION LEAD
+## DISCUSSION LEAD
 During our first meeting, you will sign up to co-lead two reading discussions of your choice. For each Monday meeting thereafter, I will begin by mapping out the week's theme within a
-broader field, cultural context, or contemporary debate, highlighting key interventions and implications. Your team will then follow with a 20-minute presentation involving close
-readings and analysis of the text/s. In your presentation, please (1) specify key figures and keywords, (2) draw out main arguments and structure, (3) note methods and sources
-used, and (4) finally, raise discussion points/questions, and/or a class exercise. Kindly email me your presentation outline by 7pm the day before.
+broader field, cultural context, or contemporary debate, highlighting key interventions and implications. Your team will then follow with a 20-minute presentation involving close readings and analysis of the text/s. In your presentation, please (1) specify key figures and keywords, (2) draw out main arguments and structure, (3) note methods and sources used, and (4) finally, raise discussion points/questions, and/or a class exercise. Kindly email me your presentation outline by 7pm the day before.
 
 **Addendum**: There are a few weeks where full books will be assigned for reading. During those weeks the expectation will be that everyone reads the introduction and conclusion. I will then assign each reading group a chapter to read. During the following class's meeting each group will give a brief (5-10 minute) presentation on their assigned chapter of the book so the class will cumulatively have a grasp of major themes of the work. 
 
@@ -88,23 +85,21 @@ And it will probably remain so for the rest of the course. I expect things to ch
 
 ## LEARNING OUTCOMES
 
-* Understand what core infrastructures make up the internet and how they affect the fundamental nature of our technologically driven 
-globe.
+* Understand what core infrastructures make up the internet and how they affect the fundamental nature of our technologically driven globe.
 * Become familair with the "art of noticing" and develop strategies to tune into generally overlooked details and components of internet infrastructure.
 * learn basics of creating web maps using Leaflet, D3, and other tools (Inside or outside of Observabele)
 * practice collecting and geocoding spatial data
-* Explore various kinds of media (artworks, documentaries, interactive maps, exhibitions) as a way to think through key concepts expolored 
-in this course.
-* Read about different physical aspects of the internet and the sources of "friction" that 
+* Explore various kinds of media (artworks, documentaries, interactive maps, exhibitions) as a way to think through key concepts expolored in this course.
+* Read about different physical aspects of the internet.
 * Conduct individual research and engage in group discussion on specific components of the physical internet.
 * To be critical of the internet and its various workings.
-
 
 ## READING PRESENTATION GROUPS
 
 This section will be updated with the reading presentation groups once they have been assigned
 
 ## WEEKLY SCHEDULE
+
 ### (subject to revision)
 Prior to each week I will upload slides, code examples, resources and more to the relevant page.
 
@@ -114,7 +109,7 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | [WEEK 02](weeks/week_02.md) | Jan 31 & Feb 2 | A Tangible Internet | None |
 | [WEEK 03](weeks/week_03.md) | Feb 07 &  09 | A Tangible Internet | **TBD** |
 | [WEEK 04](weeks/week_04.md) | Feb 14 &  16 | A Tangible Internet |  **TBD** |
-| [WEEK 05](weeks/week_05.md) | Feb 21 &  23 | A Tangible Internet | **TBD** |
+| [WEEK 05](weeks/week_05.md) | <s>Feb 21</s> &  23 | A Tangible Internet | **TBD** |
 | [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | Supply Chains | **TBD** |
 | [WEEK 07](weeks/week_07.md) | Mar 07 & 09 | Supply Chains  | **TBD** |
 | [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None|
@@ -128,11 +123,11 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | [WEEK 16](weeks/week_16.md) | May 09 & 11  | **Last Week of Classes**  | **TBD**|
 | [WEEK 17](weeks/week_17.md) | May 16  | **FINAL PROJECTS/PAPERS DUE** |  None |
 
-## Assignments
+## PROJECTS
 
-The course is structured around **three technical projects**,  a few **small assignements**, and a  **final paper or project**. Each project is described in detail in the linked project brief pages. 
+The course is structured around **three technical projects**,  a few **small assignements**, and a  **final paper or project**. Each project is described in detail in the linked project brief pages.
 
-Each project must be accompanied with a write-up detailing methodologies, resources utilized (can include technologies used, code pulled from elsewhere online, and anything that inspired you), setbacks, and documentation throughout the course of the project. This write-up is for me to get a sense of what the goal of the project was and to see what challenges you overcame while creating it. Feel free to use whatever tool you are most comfortable with for the write-up. For instance if you have a website and want to create a blog for each project that's great! You can also submit a word doc or PDF if you prefer. 
+Each project must be accompanied with a write-up detailing methodologies, resources utilized (can include technologies used, code pulled from elsewhere online, and anything that inspired you), setbacks, and documentation throughout the course of the project. This write-up is for me to get a sense of what the goal of the project was and to see what challenges you overcame while creating it. Feel free to use whatever tool you are most comfortable with for the write-up. For instance if you have a website and want to create a blog for each project that's great! You can also submit a word doc or PDF if you prefer. On days that projects are due we will plan on spending the first 30-45 minutes of class presenting projects and giving constructive group feedback on them.
 
 | ASSIGNMENT  |  DUE DATE  | TITLE | 
 | :----         |  ----  | ---- |
@@ -142,7 +137,7 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 | [Project 4](./assignments/final-project.md) | May 16 | Final Project/Paper  |
 
 
-### LATE ASSIGNMENTS:
+## LATE ASSIGNMENTS:
 
 The general policy is that **late assignments will not be reviewed**. 
 
