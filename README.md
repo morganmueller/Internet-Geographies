@@ -236,8 +236,8 @@ http://www.newschool.edu/provost/course-evaluations-student-instructions.pdf
 ## COURSE SCHEDULE
 
 ## Section - A Tangible Internet
-#### Week 1 – Course Introductions and Overview (**ONLINE**)
-##### Monday, January 24th
+### Week 1 – Course Introductions and Overview (**ONLINE**)
+#### Monday, January 24th
 * Introduction to the course
 * Choose Presentation Groups  
 * In class exercise 
@@ -262,14 +262,14 @@ __ASSIGNED__
 * **RESOURCES**
     * [Map Maker Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)
 
-##### Wednnesday, January 26th
+#### Wednnesday, January 26th
 * Introducion to web mapping with Javascript (Javascript Basics in Observable)
 __ASSIGNED__
 * Project 1 (Public Data Mapping), **Due Feb 23**
 
 ## Section - A Tangible Internet
-#### Week 2 – "Digital" Frictions (**ONLINE**)
-##### Monday, January 31th
+### Week 2 – "Digital" Frictions (**ONLINE**)
+#### Monday, January 31th
 * Reading Discussion
 __ASSIGNED__
 * **READING**
@@ -290,14 +290,14 @@ __ASSIGNED__
     * [Ingrid Burrington, "Seeing Networks"](http://seeingnetworks.in/nyc/)   
     * [James Bridle, "Citizen Ex](http://citizen-ex.com/stories)
 
-##### Wednnesday, February 2nd
+#### Wednnesday, February 2nd
 * Introduction to Web Mapping Continued (Leaflet.js & Mapbox) 
 * In class implosion exercise
 
 
 ## Section - A Tangible Internet
-#### Week 3 – Scales, Spatialization, & Sensing
-##### Monday, February 7th
+### Week 3 – Scales, Spatialization, & Sensing
+#### Monday, February 7th
 
 __ASSIGNED__
 * **READING**
@@ -310,13 +310,13 @@ __ASSIGNED__
     * [Keller Easterling, "Extrastatecraft", 2014](https://www.are.na/block/2831126)
     * [Nabil Hassein, "Computing, climate change, and all our relationships", 2018](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships)
 
-##### Wednesday, February 9th
+#### Wednesday, February 9th
 * Overview of publically available data and how to clean data if necessary
 * Using publically available data sets for mapping
 
 ## Section - A Tangible Internet
-#### Week 4 – Undersea Networks & Terrestrial Cables
-##### Monday, February 14th
+### Week 4 – Undersea Networks & Terrestrial Cables
+#### Monday, February 14th
 
 __ASSIGNED__
 * **READING**
@@ -327,15 +327,15 @@ __ASSIGNED__
     abstract network diagrams and very specific refernece images and cable maps.
     * [Surfacing](http://www.surfacing.in/) 
 
-##### Wednesday, February 16th
+#### Wednesday, February 16th
 * D3.js overview and in class exercise 
 * Continued work on web mapping fundamentals
 
 ## Section - A Tangible Internet
 
-#### Week 5 - Data Centers 
+### Week 5 - Data Centers 
 
-##### Monday, February 21st 
+#### Monday, February 21st 
 
 **NO CLASS**
 * I still strongly recommend this week's readings and listening assignments!
@@ -354,7 +354,7 @@ __ASSIGNED__
     A lot of great pieces in this volume of the journal! I would recommend pieces by Matt Parker, Vikki Mayer, and Anthony M Levenda/Dillon Mahmoudi
     * [Culture Machine Vol. 18](https://culturemachine.net/vol-18-the-nature-of-data-centers/)
 
-##### Wednesday, February 23rd
+#### Wednesday, February 23rd
 * **PROJECT 1 DUE**
 * **Guest Speaker: Ingrid Burrington**
 * **SMALL ASSIGNMENT**
@@ -362,9 +362,10 @@ __ASSIGNED__
     how artists have been able to critique internet infrastructures in different and oftentimes subversive ways to academics and journalists.
 
 ## Section - Supply Chains
-#### Week 6 - Rethinking Containerization
 
-##### Monday, February 28th
+### Week 6 - Rethinking Containerization
+
+#### Monday, February 28th
 __ASSIGNED__
 * **READING**
     * [Anna Tsing, "Supply Chains and the Human Condition", 2009 ](https://www.are.na/block/14670672)
@@ -374,7 +375,7 @@ __ASSIGNED__
 * **OPTIONAL READING**
 [James Smith and Jeffrey Mantz, “Do Cellular Phones Dream of Civil War?"](https://www.are.na/block/14670532)
 
-##### Wednesday, March 2nd
+#### Wednesday, March 2nd
 * Data Visualization with D3 & Vega (Beyond Mapping)
 
 __ASSIGED__
@@ -384,8 +385,10 @@ __ASSIGED__
     * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Wednesday to discuss.
 
 ## Section - Supply Chains
-#### Week 7 - Trade & Capitalist Expansion
-##### Monday, March 7th
+
+### Week 7 - Trade & Capitalist Expansion
+
+#### Monday, March 7th
 
 __ASSIGNED__
 * **READING**
@@ -399,27 +402,32 @@ __ASSIGNED__
 * **RESOURCES**
     [Supply-Chains.us](https://www.supply-chains.us/)
 
-##### Wednesday, March 9th
+#### Wednesday, March 9th
+
 * Data Visualization Continued
 * Remote Sensing & GIS Techniques
 
 ## SPRING BREAK
-#### Week 8 - No Class
+
+### Week 8 - No Class
+
 <s>Monday, March 14th</s>
 
 
 <s>Wednesday, March 16th</s>
 
 ## Section - Supply Chains
-#### Week 9 - Politics of Production
-##### Monday, March 21st
+
+### Week 9 - Politics of Production
+
+#### Monday, March 21st
 
 __ASSIGNED__
 * **READING**
 * [Lisa Nakamura, "Economies of Digital Production in East Asia"](http://static1.1.sqspcdn.com/static/f/707453/11409674/1301102745057/Media-Fields-2-Nakamura.pdf?token=XCUcazisBv2ZLAhbvcr58wwJJek%3D)
 * [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://apjjf.org/2013/11/32/Mark-Selden/3981/article.html)
 
-##### Wednesday, March 23rd
+#### Wednesday, March 23rd
 
 * **PROJECT 2 DUE**
 * Project Presentations and Critique
@@ -430,8 +438,11 @@ __ASSIGNED__
 
 
 ## Section - Mining & Extractionmain
-#### Week 10 - Elements of the Internet
-##### Monday, March 28th
+
+### Week 10 - Elements of the Internet
+
+#### Monday, March 28th
+
 __ASSIGNED__
 * **READING**
     * [Francis Tseng, "Inside-Out: Renewable energy, the future of mining, and the re-localization of harm"](https://reports.phenomenalworld.org/inside-out/)
@@ -443,7 +454,7 @@ __ASSIGNED__
 * **RESOURCES** 
     * [https://publiclab.org/](https://publiclab.org/)
 
-##### Wednesday, March 30th
+#### Wednesday, March 30th
 * Using Javascript to work with landsat bands 
 * Vector Tiles v. Rastor Tiles 
 __ASSIGNED__
@@ -451,35 +462,43 @@ __ASSIGNED__
     * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring to class next Monday.
 
 ## Section - Mining & Extraction
-#### Week 11 - Resource Lives
-##### Monday, April 4th
+
+### Week 11 - Resource Lives
+
+#### Monday, April 4th
+
 __ASSIGNED__
 * **READING**
    * [Colin Kinniburgh, Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On, 2014](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on)
    * [Sandro Mezzadra & Brett Neilson, "Extraction, Logistics, Finance"](https://www.radicalphilosophy.com/article/extraction-logistics-finance)
 * Final Project/Paper Proposals, **Due April 15th by 11pm**
 
-##### Wednesday, April 6th
+#### Wednesday, April 6th
+
 * Creating custom tiles
 * Working with MapboxGLSL
 * Custom tile exercise
- 
+
 ## Section - Mining & Extraction
-#### Week 12 - Not Rare Earth?
-##### Monday, April 11th
+
+### Week 12 - Not Quite Rare Earth
+
+#### Monday, April 11th
 **FINAL PROJECT PROPOSALS DUE**
 
 __ASSIGED__
 * **READING**
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 
-##### Wednesday, April 13th
+#### Wednesday, April 13th
 * Advanced Mapping techniques with D3.js and Keppler.gl
 * Keppler.gl mapping exercise
 
 ## Section - Waste & Disposal
-#### Week 13 - Narratives of Waste and Disposal
-##### Monday, April 18th
+
+### Week 13 - Narratives of Waste and Disposal
+
+#### Monday, April 18th
 
 __ASSIGNED__
 * **READING**
@@ -492,13 +511,13 @@ __ASSIGNED__
 * **RESOURCES**
 [Reassembling Rubbish Project](https://scalar.usc.edu/works/reassembling-rubbish/index)
 
-##### Wednesday, April 20th
+#### Wednesday, April 20th
 **PROJECT 3 DUE**
 Project Presentations and Critique
 
 ## Section - Waste & Disposal
-#### Week 14 - Second Lives
-##### Monday, April 25th
+### Week 14 - Second Lives
+#### Monday, April 25th
 **Guest Speaker: TBD**
 __ASSIGNED__
 * **READING**
@@ -506,34 +525,34 @@ __ASSIGNED__
     * IF THERE IS TIME [Josh Lepawsky, "Reassembling Rubbish](https://mitpress.mit.edu/books/reassembling-rubbish)
 * **WATCH**
     * [Jennifer Baichwal, "Manufactured Landscapes", 2006](https://archive.org/details/ManufacturedLandscapes_201902)
-##### Wednesday, April 27th
+#### Wednesday, April 27th
 * Creative Mapping exercise & mapping as art practice
 
 ## Section - Waste & Disposal
-#### Week 15 - What Does Waste Tell Us?
-##### Monday, May 2nd
+### Week 15 - What Does Waste Tell Us?
+#### Monday, May 2nd
 __ASSIGNED__
 * **READING**
     * [Dietmar Offenhuber, "Waste Is Information", 2017, Part 1 (21-87)](https://www.are.na/block/5979636)
 * **OPTIONAL READING**
     * [Ingrid Burrington, "Light Industry: Toxic Waste and Pastoral Capitalism", 2016](https://www.are.na/block/14699927)
-##### Wednesday, May 4th
+#### Wednesday, May 4th
 In Class Work Session
 
 ## Section - Wrapping Up
-#### Week 16 - indigeneity & Criticality of Infrastructure
+### Week 16 - indigeneity & Criticality of Infrastructure
 **I am available for extra office hours this week for any last minute assistance needed.**
-##### Monday, May 9th
+#### Monday, May 9th
 
 __ASSIGNED__
 * **READING**
     * [Ellyn Gaydos, "In the Shadow of Big Blue", 2019](https://logicmag.io/nature/in-the-shadow-of-big-blue/)
     * [Winona Laduke, Deborah E. Cowen, "Beyond Wiindigo Infrastructure, April 2020](https://read.dukeupress.edu/south-atlantic-quarterly/article-abstract/119/2/243/164111/Beyond-Wiindigo-Infrastructure?redirectedFrom=fulltext)
-##### Wednesday, May 11th
+#### Wednesday, May 11th
 In Class Work Session
 
 ## Final Week
-##### Week 17- Final Projects/Papers Due
+### Week 17- Final Projects/Papers Due
 
-##### Monday, May 16th
+#### Monday, May 16th
 **Projects/Papers due by 11pm**
