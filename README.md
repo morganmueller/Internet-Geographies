@@ -1,4 +1,5 @@
 # Internet Geographies
+
 ### **Eugene Lang College of Liberal Arts <br> Code as Liberal Art, Spring 6022**
 
 [**Link to the course listing**<br> **Category**: 4 Credits, Elective<br>
