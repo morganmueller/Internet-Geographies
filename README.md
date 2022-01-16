@@ -115,13 +115,13 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None|
 | [WEEK 09](weeks/week_09.md) | Mar 21 & 23 | Supply Chains  | **TBD**|
 | [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Mining & Extraction  | **TBD**|
-| [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction   | **TBD** |
+| [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | **TBD** |
 | [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | **TBD** |
 | [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Waste & Disposal | **TBD** |
 | [WEEK 14](weeks/week_14.md) | APR 25 & 27 | Waste & Disposal | **TBD** |
-| [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Beyond the "Internet" | **TBD** |
+| [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Waste & Disposal | **TBD** |
 | [WEEK 16](weeks/week_16.md) | May 09 & 11  | **Last Week of Classes**  | **TBD**|
-| [WEEK 17](weeks/week_17.md) | May 16  | **FINAL PROJECTS/PAPERS DUE** |  None |
+| [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 16  | **FINAL PROJECTS/PAPERS DUE** |  None |
 
 ## PROJECTS
 
@@ -204,6 +204,7 @@ Student code of conduct
 https://www.newschool.edu/student-conduct/
 
 ## INCLUSION & RESPECT
+
 The following is modified from The New School’s declaration on maintaining a safe and respectful learning
 environment: In this class we are dedicated to creating a welcoming environment for all members of the
 university community inclusive of race, ethnicity, national origin, culture, language, gender and gender
@@ -217,9 +218,10 @@ If you experience anything in the classroom that undermines these values – or 
 do to better cultivate inclusivity and respect – please feel free to let me know. Likewise, if you are facing
 personal challenges inside or outside the classroom that are impacting your class performance, I’m happy
 to speak with you about strategies of accommodation, and to help you find the appropriate support
-resources at the university. (This text is appropriated from Rory Solomon, who appropriated it from Professor Shannon Mattern.)
+resources at the university. (This text is appropriated from Ingrid Burrington, who appropriated it from Professor Rory Solomon, who appropriated it from Professor Shannon Mattern.)
 
 ## STUDENT COURSE RATINGS
+
 During the last two weeks of the semester, students are asked to provide feedback for each of their
 courses through an online survey. They cannot view grades until providing feedback or officially declining
 to do so. Course evaluations are a vital space where students can speak about the learning experience. It
@@ -540,7 +542,9 @@ __ASSIGNED__
 In Class Work Session
 
 ## Section - Wrapping Up
+
 ### Week 16 - indigeneity & Criticality of Infrastructure
+
 **I am available for extra office hours this week for any last minute assistance needed.**
 #### Monday, May 9th
 
