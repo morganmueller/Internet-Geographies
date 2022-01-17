@@ -403,7 +403,7 @@ __ASSIGNED__
     * **WATCH**
         * [Allan Sekula, "The Forgotten Space"](https://vimeo.com/ondemand/theforgottenspace/466339682)
 * **RESOURCES**
-    [Supply-Chains.us](https://www.supply-chains.us/)
+    [Supply-Chains.us (Miriam Matthiessen & Anne Lee Steele)](https://www.supply-chains.us/)
 
 #### Wednesday, March 9th
 
