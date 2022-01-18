@@ -372,7 +372,7 @@ __ASSIGNED__
 __ASSIGNED__
 * **READING**
     * [Anna Tsing, "Supply Chains and the Human Condition", 2009 ](https://www.are.na/block/14670672)
-    * [Joe Allen,"Studying Logistics](https://www.jacobinmag.com/2015/02/logistics-industry-organizing-labor/)
+    * [Joe Allen, "Studying Logistics"](https://www.jacobinmag.com/2015/02/logistics-industry-organizing-labor/)
     * [Mirim Posner, "See No Evil"](https://logicmag.io/scale/see-no-evil/)
 
 * **OPTIONAL READING**
