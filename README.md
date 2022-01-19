@@ -313,6 +313,10 @@ __ASSIGNED__
     * [Keller Easterling, "Extrastatecraft", 2014](https://www.are.na/block/2831126)
     * [Nabil Hassein, "Computing, climate change, and all our relationships", 2018](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships)
 
+* **RESOURCES**
+    * [Trevor Paglen, "The Other Night Sky](https://paglen.studio/2020/05/22/the-other-night-sky/)
+
+
 #### Wednesday, February 9th
 * Overview of publically available data and how to clean data if necessary
 * Using publically available data sets for mapping
@@ -324,11 +328,13 @@ __ASSIGNED__
 __ASSIGNED__
 * **READING**
     *  [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
-
-* **RESOURCES**
     Explore the accompanying website to "The Undersea Network." Be sure to note the choices made in representing relevant information and how the authors chose to move between
     abstract network diagrams and very specific refernece images and cable maps.
-    * [Surfacing](http://www.surfacing.in/) 
+* **RESOURCES**
+
+    * [Surfacing](http://www.surfacing.in/) <br>
+    * [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)
+    * [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
 
 #### Wednesday, February 16th
 * D3.js overview and in class exercise 
@@ -399,7 +405,7 @@ __ASSIGNED__
 * **WATCH**
     * [Laleh Khalili, "Sinews of War and Trade, SOAS, University of London"](https://www.youtube.com/watch?v=xmnwdbW2NIM&t=1439s)
 
-* **OPTIONAL**
+* **OPTIONAL VIEWING**
     * **WATCH**
         * [Allan Sekula, "The Forgotten Space"](https://vimeo.com/ondemand/theforgottenspace/466339682)
 * **RESOURCES**
