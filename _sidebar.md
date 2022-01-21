@@ -13,3 +13,4 @@
 * Guides
 
 * Resources
+    * [Mapping/Data Resources](resources/mapping_and_data.md)
