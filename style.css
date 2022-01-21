@@ -1,17 +1,15 @@
 :root {
     --base-font-size: 14px;
-    --theme-color   : purple;
+    --theme-color   : rgba(128, 21, 128, 0.899);
 
 
     /* Links */
     --link-color: rgba(0, 0, 0, 1);
-    --link-color--hover: rgba(189, 144, 233, 0.865);
+    --link-color--hover: rgba(128, 21, 128, 0.899);
 
     /* Nav Links */
-    --sidebar-nav-strong-padding: 0.25em 0.25em;
-    --sidebar-nav-strong-color: blue;
-    --sidebar-nav-link-color--active: rgba(189, 144, 233, 0.865);
-    --sidebar-nav-link-padding: 0.3em 0.1em;
+    --sidebar-nav-link-color--active: rgba(128, 21, 128, 0.899);
+    --sidebar-nav-link-padding: 0.3em 0.3em;
   }
 
 
