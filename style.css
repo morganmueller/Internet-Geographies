@@ -9,7 +9,7 @@
 
     /* Nav Links */
     --sidebar-nav-strong-padding: 0.25em 0.25em;
-    --sidebar-nav-link-color--hover: rgba(97, 194, 157, 0.865);
+    --sidebar-nav-link-color--active: rgba(97, 194, 157, 0.865);
     --sidebar-nav-link-padding: 0.3em 0.1em;
   }
 
