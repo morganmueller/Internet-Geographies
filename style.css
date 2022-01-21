@@ -1,4 +1,15 @@
 :root {
     --base-font-size: 14px;
     --theme-color   : purple;
+
+
+    /* Links */
+    --link-color: rgba(0, 0, 0, 1);
+    --link-color--hover: rgba(189, 144, 233, 0.865);
+
+    /* Nav Links */
+    --sidebar-nav-link-border-color--hover: rgba(189, 144, 233, 0.865);
+    --sidebar-nav-link-padding: 0.3em 0.1em;
   }
+
+
