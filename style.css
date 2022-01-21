@@ -10,6 +10,7 @@
     /* Nav Links */
     --sidebar-nav-link-color--active: rgba(128, 21, 128, 0.899);
     --sidebar-nav-link-padding: 0.3em 0.3em;
+    --sidebar-nav-link-margin: .5em .5em;
   }
 
 
