@@ -1,10 +1,10 @@
 # Mapping & Data Resources
 While this course emphasises a fifty percent time allotment of technical mapping work it is virtually impossible to cover every aspect of web mapping in a single semester. With that being the case I greatly recoommend checking out and becoming familiar with the resources listed below; many of which are pulled from
 lists compiled by Ingrid Burrington in a previuos iteration of this course. Others are from [Joey k. Lee's All Maps Lie](https://all-maps-lie-2020.netlify.app/) course taught at NYU ITP. The rest are tools and resources I've used in the past and find beneficial.
-</br>
+<br>
 For an fantastically dense and materiaally rich compilation of tools, resources, guides, and basically everything needed to have a foundational understanding of cartography I highly recommend doing a deep dive into Joey's Course linked above!
 
-## Infrastructure*y Spatial Data Sources
+## Infrastructure-y Spatial Data Sources
 * [Submarine Cable Map geojson from TeleGeography](https://raw.githubusercontent.com/telegeography/www.submarinecablemap.com/master/public/api/v2/cable/cable*geo.json): Same data as seen on [submarinecablemap.com](http://submarinecablemap.com)
 * [Internet Exchange Map geojson from TeleGeography](https://raw.githubusercontent.com/telegeography/www.internetexchangemap.com/master/public/api/v2/buildings.geojson): Same data as seen on [internetexchangemap.com](http://internetexchangemap.com)
 * [ITU Infrastructure Map](https://www.itu.int/itu*d/tnd*map*public/): Raster tiles but relatively easy to copy
@@ -41,7 +41,6 @@ For an fantastically dense and materiaally rich compilation of tools, resources,
 * [Anatomy of a Web Map](http://maptime.io/anatomy-of-a-web-map/#0) // This is more instructional than anything but gives a great overview of the web mapping stack!
 * a [comprehensive list](https://macwright.com/lonlat/) of which data formats do it as "[lat,lon]" and which ones do it as "[lon, lat]"
 
-
-## Map Projections
-
+### Map Projections
+[Projection Breakdown PDF](https://www.humbleisd.net/cms/lib2/TX01001414/Centricity/Domain/3635/Map%20Projections.pdf)
 [D3 Every Map Projection Project](https://bl.ocks.org/mbostock/29cddc0006f8b98eff12e60dd08f59a7)

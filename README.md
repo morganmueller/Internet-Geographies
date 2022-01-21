@@ -31,9 +31,9 @@
 
 Office hours are by appointment. Please see the office hour offerings.
 
-| Info | Details | 
-| :---  | ---   | 
-| Office Hours    | [6:30pm-8:30pm, MON & WED or By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
+| Info | Details |
+| :---  | ---   |
+| Office Hours    | [6:30pm-8:30pm, Mon & Wed or By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
 | Location | **In Person TBD**, via Zoom or Google Hangouts |
 
 * NOTE: If you can't make those times, please send me an email and we can chat at another time or via video conference.

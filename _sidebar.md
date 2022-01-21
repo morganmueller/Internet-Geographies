@@ -10,9 +10,9 @@
     * Project 3
     * Final Project/Paper
 
-* Guides
 
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)
     * [Mapping Projects & Artworks](resources/mapping_and_data.md)
+    <!-- * [Readings & Other Beneifical Works](resources/readings) -->
 
