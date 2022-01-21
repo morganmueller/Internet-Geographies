@@ -14,3 +14,5 @@
 
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)
+    * [Mapping Projects & Artworks](resources/mapping_and_data.md)
+
