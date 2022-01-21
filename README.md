@@ -82,6 +82,7 @@ broader field, cultural context, or contemporary debate, highlighting key interv
 **Addendum**: There are a few weeks where full books will be assigned for reading. During those weeks the expectation will be that everyone reads the introduction and conclusion. I will then assign each reading group a chapter to read. During the following class's meeting each group will give a brief (5-10 minute) presentation on their assigned chapter of the book so the class will cumulatively have a grasp of major themes of the work. 
 
 ## THIS SYLLABUS IS IN FLUX
+
 And it will probably remain so for the rest of the course. I expect things to change as we get a sense of our shared goals, and an ideal pace of learning. The material covered in this course consists of both formal academic scholarship and more informal works and resources. As such I will treat this syllabus as a living document in which shared resources will be archived and made accessable to those in the class and any other curious parties. Please check in here regularly.
 
 ## LEARNING OUTCOMES
@@ -138,7 +139,7 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 | [Project 4](./assignments/final-project.md) | May 16 | Final Project/Paper  |
 
 
-## LATE ASSIGNMENTS:
+## LATE ASSIGNMENTS
 
 The general policy is that **late assignments will not be reviewed**. 
 
@@ -274,6 +275,7 @@ __ASSIGNED__
 ### Week 2 – "Digital" Frictions (**ONLINE**)
 #### Monday, January 31th
 * Reading Discussion
+
 __ASSIGNED__
 * **READING**
     * [Paul Dourish, "Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet"](https://dourish.com/publications/2015/NotTheInternet.pdf)
