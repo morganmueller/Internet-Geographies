@@ -19,7 +19,7 @@
 
 | Info | Detail |
 | :-----   | -------  |
-| Instructor| [Morgan Mueller](https://morganmueller.xyz) | 
+| Instructor| [Morgan Mueller](http://morganmueller.xyz) | 
 | Instructor Email | muelm658@newschool.edu |
 | Instructor Github | [@morganmueller](https://github.com/morganmueller) | 
 | Class Day | Monday, Wednesday   |
@@ -73,17 +73,21 @@ Here is a basic breakdown of graded tasks along that trajectory:
 You can expect to have a few assigned readings and or videos to watch each week (these are marked as readings underneath each Monday class heading - any resources marked optional are not mandatory but are typically relevant and quite informative.) You must complete all readings prior to class, and come ready to participate in discussion. Details for how to submit assignments will be given in class.
 
 ## READING RESPONSES
-Starting in week 2, choose five readings from the syllabus and write a 250-word reading response to each. Upload your response to the online class forum by 11pm the night before class to give everyone else enough time to read your work! Reading responses are discussion aids to be shared with the class. These responses are to demonstrate your engagement with the course material. You may choose to write about a specific passage or image in the reading, compare the reading to previous readings, or perhaps even diagram the structure of the argument.
+Starting in week 2, choose five readings from the anywhere in the syllabus and write a 250-word reading response to each. Upload your response to the shared class google doc by 11pm the night before the next Monday clss to give everyone else enough time to read your work! Reading responses are discussion aids to be shared with the class. These responses are to demonstrate your engagement with the course material. You may choose to write about a specific passage or image in the reading, compare the reading to previous readings, or perhaps even diagram the structure of the argument.
 
 ## DISCUSSION LEAD
-During our first meeting, you will sign up to co-lead two reading discussions of your choice. For each Monday meeting thereafter, I will begin by mapping out the week's theme within a
-broader field, cultural context, or contemporary debate, highlighting key interventions and implications. Your team will then follow with a 20-minute presentation involving close readings and analysis of the text/s. In your presentation, please (1) specify key figures and keywords, (2) draw out main arguments and structure, (3) note methods and sources used, and (4) finally, raise discussion points/questions, and/or a class exercise. Kindly email me your presentation outline by 7pm the day before.
+
+During our first meeting, you will sign up to co-lead two reading discussions of your choice. For each Monday meeting thereafter, I will begin by mapping out the week's theme within a broader field, cultural context, or contemporary debate, highlighting key interventions and implications. Your team will then follow with a 20-minute presentation involving close readings and analysis of the text/s. In your presentation, please (1) specify key figures and keywords, (2) draw out main arguments and structure, (3) note methods and sources used, and (4) finally, raise discussion points/questions, and/or a class exercise. Kindly email me your presentation outline by 7pm the day before.
 
 **Addendum**: There are a few weeks where full books will be assigned for reading. During those weeks the expectation will be that everyone reads the introduction and conclusion. I will then assign each reading group a chapter to read. During the following class's meeting each group will give a brief (5-10 minute) presentation on their assigned chapter of the book so the class will cumulatively have a grasp of major themes of the work. 
 
 ## THIS SYLLABUS IS IN FLUX
 
 And it will probably remain so for the rest of the course. I expect things to change as we get a sense of our shared goals, and an ideal pace of learning. The material covered in this course consists of both formal academic scholarship and more informal works and resources. As such I will treat this syllabus as a living document in which shared resources will be archived and made accessable to those in the class and any other curious parties. Please check in here regularly.
+
+## COURSE HYBRIDITY
+
+This semester is strange! We will be spending the first few weeks online and then the rest of the semester in person. As such, I want to give some clarity around expectations and leniencies for hybrid learning. It is expected for situations to arise where some of you will need mental health days, get sick, are exposed to a covid positive person or even get covid (I hope not but you never know). When this happens and you are unable to attend class that is completely fine! Your health and wellness are more important than a single class. That being said, I won't be leading any hybrid classes, i.e having a zoom session run for some students to be remotely learning while in person class is going on. If you miss class for any reason I am more than happy to schedule extended office hours to go over course material from either of that week's classes.
 
 ## LEARNING OUTCOMES
 

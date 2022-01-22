@@ -1,5 +1,5 @@
 # Mapping Projects and Artworks
-this list will be updated as the semester goes on. If there are any resources you would like me to add feel free to send me the link to them and I can add.
+This list will be updated as the semester goes on. If there are any resources you would like me to add feel free to send me the link to them and I can add.
 
 Note: Many of these projects do not fit into neat categories but for the sake of simplicity and sanity I'm confining these works to four general labels.
 
@@ -60,3 +60,4 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [Evan Roth, Landscapes](http://www.evan-roth.com/~/works/landscapes/#hemisphere=east&strand=132)
 * [Marina Zurkow, A Guide to Harmonized Systems](http://o-matic.com/moremore/books.html)
 * [Matt Black, American Geography](https://readingamericangeography.mattblack.com/)
+* [Morgan Mueller, Nuclear States of Being](https://nuclearsystem.live/)
