@@ -33,7 +33,7 @@ Office hours are by appointment. Please see the office hour offerings.
 
 | Info | Details |
 | :---  | ---   |
-| Office Hours    | [6:30pm-8:30pm, Mon & Wed or By Appointment](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJRSGcySnFMdVZEfGRlZmF1bHR8ZjM0ZjBjYmZkNDVlZDJjZTlhZTdkMTNjYmNjN2RmZTQ) |
+| Office Hours    | [6:30pm-8:30pm, Mon & Wed or By Appointment](https://calendar.google.com/calendar/selfsched?sstoken=UU9QS0R3c3cybXB4fGRlZmF1bHR8OWY1YWExODk4YTc3YTNkMjM5MDg4ZTIxMmE3OTY5MjM) |
 | Location | **In Person TBD**, via Zoom or Google Hangouts |
 
 * NOTE: If you can't make those times, please send me an email and we can chat at another time or via video conference.
@@ -116,17 +116,17 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | [WEEK 03](weeks/week_03.md) | Feb 07 &  09 | A Tangible Internet | **TBD** |
 | [WEEK 04](weeks/week_04.md) | Feb 14 &  16 | A Tangible Internet |  **TBD** |
 | [WEEK 05](weeks/week_05.md) | <s>Feb 21</s> &  23 | A Tangible Internet | **TBD** |
-| [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | A Tangible Internet | **TBD** |
+| [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | Supply Chains | **TBD** |
 | [WEEK 07](weeks/week_07.md) | Mar 07 & 09 | Supply Chains  | **TBD** |
 | [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None|
 | [WEEK 09](weeks/week_09.md) | Mar 21 & 23 | Supply Chains  | **TBD**|
-| [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Supply Chains  | **TBD**|
+| [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Mining & Extraction  | **TBD**|
 | [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | **TBD** |
 | [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | **TBD** |
-| [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Mining & Extraction | **TBD** |
+| [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Waste & Disposal | **TBD** |
 | [WEEK 14](weeks/week_14.md) | APR 25 & 27 | Waste & Disposal | **TBD** |
 | [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Waste & Disposal | **TBD** |
-| [WEEK 16](weeks/week_16.md) | May 09 & 11 | Waste & Disposal  | **TBD**|
+| [WEEK 16](weeks/week_16.md) | May 09 & 11  | **Last Week of Classes**  | **TBD**|
 | [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 16  | **FINAL PROJECTS/PAPERS DUE** |  None |
 
 ## PROJECTS
@@ -251,7 +251,6 @@ http://www.newschool.edu/provost/course-evaluations-student-instructions.pdf
 * In class exercise 
 
 __ASSIGNED__
-
 * **READING**
     * [Shannon Mattern, “Infrastructural Tourism,” Places Journal, July 2013](https://placesjournal.org/article/infrastructural-tourism/#footnote_15)
     * [Jeremy Crampton, John Krygier, "An Introduction to Critical Cartography", July 2010](https://www.are.na/block/14630024)
@@ -277,7 +276,7 @@ __ASSIGNED__
 * Project 1 (Public Data Mapping), **Due Feb 23**
 
 ## Section - A Tangible Internet
-### Week 2 – Code & Clay (**ONLINE**)
+### Week 2 – "Digital" Frictions (**ONLINE**)
 #### Monday, January 31th
 * Reading Discussion
 
@@ -306,22 +305,17 @@ __ASSIGNED__
 
 
 ## Section - A Tangible Internet
-
-### Week 3 – Digital Frictions
-
+### Week 3 – Scales, Spatialization, & Sensing
 #### Monday, February 7th
 
 __ASSIGNED__
-
 * **READING**
     * [Shannon Mattern, "Cloud and Field"](https://placesjournal.org/article/cloud-and-field/)
     * [Jennifer Gabrys, "Becoming Planetary", Oct 2018](https://www.are.na/block/7025809)
-
 * **WATCH**
     * [Keller Easterling, "Extrastatecraft" Keynote at GSD](https://www.youtube.com/watch?v=SaKoIP5qH8E&t=3433s)
 
 * **OPTIONAL READING & VIEWING**
-    * [Keller Easterling, "The Spatial Softwares of Extrastatecraft](https://placesjournal.org/article/zone-the-spatial-softwares-of-extrastatecraft/)
     * [Keller Easterling, "Extrastatecraft", 2014](https://www.are.na/block/2831126)
     * [Nabil Hassein, "Computing, climate change, and all our relationships", 2018](https://www.deconstructconf.com/2018/nabil-hassein-computing-climate-change-and-all-our-relationships)
 
@@ -330,23 +324,18 @@ __ASSIGNED__
 
 
 #### Wednesday, February 9th
-* Overview of publically available data and how to clean data
+* Overview of publically available data and how to clean data if necessary
 * Using publically available data sets for mapping
 
 ## Section - A Tangible Internet
-
-### Week 4 – Scales, Spatialization, & Sensing
-
+### Week 4 – Undersea Networks & Terrestrial Cables
 #### Monday, February 14th
 
 __ASSIGNED__
-
 * **READING**
-
-    * [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
+    *  [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
     Explore the accompanying website to "The Undersea Network." Be sure to note the choices made in representing relevant information and how the authors chose to move between
     abstract network diagrams and very specific refernece images and cable maps.
-
 * **RESOURCES**
 
     * [Surfacing](http://www.surfacing.in/) <br>
@@ -359,20 +348,18 @@ __ASSIGNED__
 
 ## Section - A Tangible Internet
 
-### Week 5 - Undersea Networks & Terrestrial Cables
+### Week 5 - Data Centers 
 
 #### Monday, February 21st 
 
 **NO CLASS**
-
-* This week's readings and listening assignments are still required as they will be discussed next Monday
-
+* I still strongly recommend this week's readings and listening assignments!
 __ASSIGNED__
-
 * **READING**
-
-    * [Julia Velkova, "Data Centers as Impermanent Infrastructures"](https://culturemachine.net/vol-18-the-nature-of-data-centers/data-centers-as-impermanent/)
     * [Ingrid Burrington,"Why Amazon's Data Centers Are Hidden in Spy Country](https://www.theatlantic.com/technology/archive/2016/01/amazon-web-services-data-center/423147/)
+    * [Julia Velkova, "Data Centers as Impermanent Infrastructures"](https://culturemachine.net/vol-18-the-nature-of-data-centers/data-centers-as-impermanent/)
+    * [Ned Rossiter,"Imperial Infrastructures and Asia beyond Asia: Data Centres, State Formation and the Territoriality of Logistical Media"](https://twentynine.fibreculturejournal.org/wp-content/pdfs/FCJ-220NedRossiter.pdf)
+    * [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1)
 
 * **LISTENING**
     If you can, listen to all three episodes, otherwise I would recommend the first and third episode.
@@ -382,12 +369,6 @@ __ASSIGNED__
     A lot of great pieces in this volume of the journal! I would recommend pieces by Matt Parker, Vikki Mayer, and Anthony M Levenda/Dillon Mahmoudi
     * [Culture Machine Vol. 18](https://culturemachine.net/vol-18-the-nature-of-data-centers/)
 
-    * [Ned Rossiter,"Imperial Infrastructures and Asia beyond Asia: Data Centres, State Formation and the Territoriality of Logistical Media"](https://twentynine.fibreculturejournal.org/wp-content/pdfs/FCJ-220NedRossiter.pdf)
-    * [Sam Kidel, "Raving the Data Center"](https://www.ableton.com/en/blog/sam-kidel-raving-data-center/)
-
-* **RESOURCES**
-    * [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1)
-
 #### Wednesday, February 23rd
 * **PROJECT 1 DUE**
 * **Guest Speaker: Ingrid Burrington**
@@ -395,9 +376,9 @@ __ASSIGNED__
     For Next Monday, come to class with some notes on at least two art works from the [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1) collection. We will begin the class by discussing 
     how artists have been able to critique internet infrastructures in different and oftentimes subversive ways to academics and journalists.
 
-## Section - A Tangible Internet
+## Section - Supply Chains
 
-### Week 6 - Data Centers 
+### Week 6 - Rethinking Containerization
 
 #### Monday, February 28th
 __ASSIGNED__
@@ -420,22 +401,19 @@ __ASSIGED__
 
 ## Section - Supply Chains
 
-### Week 7 - Rethinking Containerization
+### Week 7 - Trade & Capitalist Expansion
 
 #### Monday, March 7th
 
 __ASSIGNED__
-
 * **READING**
     * [Allan Sekula, "Fish Story", 2002 2nd edition](https://www.are.na/block/14680524)
-
 * **WATCH**
     * [Laleh Khalili, "Sinews of War and Trade, SOAS, University of London"](https://www.youtube.com/watch?v=xmnwdbW2NIM&t=1439s)
 
 * **OPTIONAL VIEWING**
     * **WATCH**
         * [Allan Sekula, "The Forgotten Space"](https://vimeo.com/ondemand/theforgottenspace/466339682)
-
 * **RESOURCES**
     [Supply-Chains.us (Miriam Matthiessen & Anne Lee Steele)](https://www.supply-chains.us/)
 
@@ -455,12 +433,11 @@ __ASSIGNED__
 
 ## Section - Supply Chains
 
-### Week 9 - Trade & Capitalist Expansion
+### Week 9 - Politics of Production
 
 #### Monday, March 21st
 
 __ASSIGNED__
-
 * **READING**
 * [Lisa Nakamura, "Economies of Digital Production in East Asia"](http://static1.1.sqspcdn.com/static/f/707453/11409674/1301102745057/Media-Fields-2-Nakamura.pdf?token=XCUcazisBv2ZLAhbvcr58wwJJek%3D)
 * [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://apjjf.org/2013/11/32/Mark-Selden/3981/article.html)
@@ -475,20 +452,17 @@ __ASSIGNED__
 * Project 3 (DIY Map Tile Visualization), **Due April 13**
 
 
-## Section - Supply Chains
+## Section - Mining & Extractionmain
 
-### Week 10 - Politics of Production
+### Week 10 - Elements of the Internet
 
 #### Monday, March 28th
 
 __ASSIGNED__
-
 * **READING**
-
     * [Francis Tseng, "Inside-Out: Renewable energy, the future of mining, and the re-localization of harm"](https://reports.phenomenalworld.org/inside-out/)
     * [ Fugitive Emissions](https://cathodes.net/fugitive-emissions-part-1/)
     * [Samir Bhowmik Lithium Landscapes, 2021](http://mediafieldsjournal.org/lithium-landscapes/)
-
 * **WATCH**
     * [Liam young, "Rare Earthenware"](https://www.liamyoung.org/projects/rare-earthenware)
 
@@ -504,7 +478,7 @@ __ASSIGNED__
 
 ## Section - Mining & Extraction
 
-### Week 11 - Elements of the Internet
+### Week 11 - Resource Lives
 
 #### Monday, April 4th
 
@@ -522,7 +496,7 @@ __ASSIGNED__
 
 ## Section - Mining & Extraction
 
-### Week 12 - Resource Lives
+### Week 12 - Not Quite Rare Earth
 
 #### Monday, April 11th
 **FINAL PROJECT PROPOSALS DUE**
@@ -535,80 +509,62 @@ __ASSIGED__
 * Advanced Mapping techniques with D3.js and Keppler.gl
 * Keppler.gl mapping exercise
 
-## Section - Mining & Extraction
+## Section - Waste & Disposal
 
-### Week 13 - Not Quite Rare Earth
+### Week 13 - Narratives of Waste and Disposal
 
 #### Monday, April 18th
 
 __ASSIGNED__
 * **READING**
     * [Tim Maughan, "The Dystopian Lake Filled By the World's Tech Lust", 2015](https://www.bbc.com/future/article/20150402-the-worst-place-on-earth)
-
+    * [Colin Lecher, "American Trash"](https://www.theverge.com/2019/12/4/20992240/e-waste-recycling-electronic-basel-convention-crime-total-reclaim-fraud)
     * [Josh Lepawsky, "What E-Waste Journalism Gets Wrong"](https://thereader.mitpress.mit.edu/what-e-waste-journalism-gets-wrong/)
 * **WATCH**
   * [Josh Lepawsky, "Reassembling Rubbish & Worlding Electronic Waste", 2017](https://www.youtube.com/watch?v=Yr0MwogZdkA)
-
-* **OPTIONAL READING**
-    * [Colin Lecher, "American Trash"](https://www.theverge.com/2019/12/4/20992240/e-waste-recycling-electronic-basel-convention-crime-total-reclaim-fraud)
 
 * **RESOURCES**
 [Reassembling Rubbish Project](https://scalar.usc.edu/works/reassembling-rubbish/index)
 
 #### Wednesday, April 20th
-
 **PROJECT 3 DUE**
 Project Presentations and Critique
 
 ## Section - Waste & Disposal
-
-### Week 14 - Narratives of Waste and Disposal
-
+### Week 14 - Second Lives
 #### Monday, April 25th
-
+**Guest Speaker: TBD**
 __ASSIGNED__
 * **READING**
     * [Steven J. Jackson, "Rethinking Repair", 2013](https://www.are.na/block/7607671)
-
-
+    * IF THERE IS TIME [Josh Lepawsky, "Reassembling Rubbish](https://mitpress.mit.edu/books/reassembling-rubbish)
 * **WATCH**
     * [Jennifer Baichwal, "Manufactured Landscapes", 2006](https://archive.org/details/ManufacturedLandscapes_201902)
-
-* **OPTIONAL READING**  
-    * IF THERE IS TIME [Josh Lepawsky, "Reassembling Rubbish](https://mitpress.mit.edu/books/reassembling-rubbish)
-
 #### Wednesday, April 27th
 * Creative Mapping exercise & mapping as art practice
 
 ## Section - Waste & Disposal
-
-### Week 15 - Second Lives
-
+### Week 15 - What Does Waste Tell Us?
 #### Monday, May 2nd
-
 __ASSIGNED__
-
 * **READING**
     * [Dietmar Offenhuber, "Waste Is Information", 2017, Part 1 (21-87)](https://www.are.na/block/5979636)
-
 * **OPTIONAL READING**
     * [Ingrid Burrington, "Light Industry: Toxic Waste and Pastoral Capitalism", 2016](https://www.are.na/block/14699927)
 #### Wednesday, May 4th
 In Class Work Session
 
-## Section - Waste & Disposal
+## Section - Wrapping Up
 
-### Week 16 - What Does Waste Tell Us?
+### Week 16 - indigeneity & Criticality of Infrastructure
 
 **I am available for extra office hours this week for any last minute assistance needed.**
 #### Monday, May 9th
 
 __ASSIGNED__
-
 * **READING**
-    * [Ellyn Gaydos, "In the Shadow of Big Blue", 2019](https://logicmag.io/nature/in-the-shadow-of-big-blue)
+    * [Ellyn Gaydos, "In the Shadow of Big Blue", 2019](https://logicmag.io/nature/in-the-shadow-of-big-blue/)
     * [Winona Laduke, Deborah E. Cowen, "Beyond Wiindigo Infrastructure, April 2020](https://read.dukeupress.edu/south-atlantic-quarterly/article-abstract/119/2/243/164111/Beyond-Wiindigo-Infrastructure?redirectedFrom=fulltext)
-    
 #### Wednesday, May 11th
 In Class Work Session
 

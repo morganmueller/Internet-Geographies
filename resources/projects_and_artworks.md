@@ -27,6 +27,8 @@ Note: Many of these projects do not fit into neat categories but for the sake of
     * [Conflict Urbanism Series](https://c4sr.columbia.edu/#!#conflict-urbanism)
     * [Mapping Tutorials](https://c4sr.columbia.edu/tutorials)
 * [Jia Zhang, Mapping The New Politics of Care](https://www.dataminding.studio/work-2/mapping-the-new-politics-of-care)
+* [Surfacing](http://www.surfacing.in/) 
+
 
 ### Nodes, Networks, & Supply Chains
 * [TeleGeography, Submarine Cable Map](https://www.submarinecablemap.com/)
@@ -61,3 +63,9 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [Marina Zurkow, A Guide to Harmonized Systems](http://o-matic.com/moremore/books.html)
 * [Matt Black, American Geography](https://readingamericangeography.mattblack.com/)
 * [Morgan Mueller, Nuclear States of Being](https://nuclearsystem.live/)
+* [James Bridle, "Citizen Ex](http://citizen-ex.com/stories)
+* [Trevor Paglen, "The Other Night Sky](https://paglen.studio/2020/05/22/the-other-night-sky/)
+* [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
+* [Sam Kidel, "Raving the Data Center"](https://www.ableton.com/en/blog/sam-kidel-raving-data-center/)
+
+
