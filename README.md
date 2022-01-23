@@ -161,7 +161,7 @@ As such, here are my general suggestions for working on projects and assignments
 
 ## IN ACKNOWLEDGEMENT OF THE LAND
 
-Each day at The New School and every session of this course, we are gathered on the traditional, ancestral, and unceded Indigenous land of the Lenape and Canarsie peoples. I ask you to join me in acknowledging the Lenape and Canarsie communities, their elders both past and present, and their future generations. I acknowledge that whether intentionally or through ignorance, NYU and ITP was founded upon exclusions and erasures of many Indigenous peoples, including those on whose land this institution is located.
+Each day at The New School and every session of this course, we are gathered on the traditional, ancestral, and unceded Indigenous land of the Lenape and Canarsie peoples. I ask you to join me in acknowledging the Lenape and Canarsie communities, their elders both past and present, and their future generations. I acknowledge that whether intentionally or through ignorance, The New School was founded upon exclusions and erasures of many Indigenous peoples, including those on whose land this institution is located.
 
 This acknowledgement demonstrates a commitment to reckoning with the history of the land upon which we are gathered and beginning the process of working to dismantle the ongoing legacies of settler colonialism. 
 
