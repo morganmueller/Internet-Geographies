@@ -1,22 +1,42 @@
 ## Week 1: Course Introductions and Overview
 
+> "When we don't know about the communication infrastructures that support our network society, they tend to remain beyond the limits of public consideration or political entanglement." - Parks (2009)
+
+> "There's an implicit assumption in these images that the Internet's physical spaces are privileged spaces, behind locked doors with retina scanners and high gates." - Burrington (2016)
+
 ## Monday
 
 ### Slides
-* ↳
+* ↳ [Class 1 Slides](https://docs.google.com/presentation/d/1hvi92U5LN0t0nWjT-BF9bOYVDusGn-9Gx-YxW8WzagU/edit?usp=sharing)
+### In Class Shared Notes
+ * ↳ [In Class Notes](https://docs.google.com/document/d/1dxq839nT1Z2mDGHmaRtfZcHJM9UhutEWe7FWej7Q_2g/edit?usp=sharing)
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing)
-
 ## Topics
 
-### Course Overview & Syllabus
+### Course Overview & Syllabus 
+* Introductions to each other!
+* Syllabus review and Q&A
+* Expectations and Community care
 
-### Choosing Reading Disussion Text Groups
+### Choosing Reading Disussion Text Groups 
+Add your name under the desired week in the in class shared notes doc.
 
 ### Introduction to the Tangible Internet
+* What is the internet and where is it located?
+    * Sites of Extraction
+    * Cables & Routes
+    * Data Centers
+    * Waste
+    * These barely scratch the surface
+* Relating the internet to us
+* What does cartography have to do with the internet?
+
+### In Class Exercise - Time Permissive 
 
 
-## Assigned  (**Due Next Monday**)
+
+## Assigned (**Due Next Monday**)
 
 * Required Readings:
     * [Shannon Mattern, “Infrastructural Tourism,” Places Journal, July 2013](https://placesjournal.org/article/infrastructural-tourism/#footnote_15)
@@ -32,11 +52,18 @@
 
 * Small Assignment:
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
-    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to reseach the componenets and learn how they are incorporated into the larger networked environment. We will disucss our findings in next week's class!
+    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next week's class!
 
-## Additional Resources
+    <br>  
+    Something that could be helpful for this assignment is to ask yourself how you have encountered the materiality of the internet in the past? And how can you reframe your focus to encounter the internet in new ways. Rob Walker's "How to Pay Attention" will be beneficial for this exercise.
+
+## Additional Resources & References
 * [Map Maker Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)
-
+* [Joey K. Lee's All Maps Lie Course](https://all-maps-lie-2020.netlify.app/#/)
+* [Tega Brain's Designing the Postnatural Course](https://wp.nyu.edu/postnatural/)
+* [Dunne and Raby, "A/B Manifesto"](http://dunneandraby.co.uk/content/projects/476/0)
+* [Basel Action Network](https://www.ban.org/trash-transparency)
+* [Hyperallergic, Richard Mosse’s Photos Exoticize Disaster](https://hyperallergic.com/641289/richard-mosse-photos-exoticize-disaster/)
 
 
 ---

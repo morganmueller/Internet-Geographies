@@ -65,9 +65,8 @@ Here is a basic breakdown of graded tasks along that trajectory:
 * 15% Discussion Lead
 * 5% Small Assignments
 * 30% Technical Projects
-    * 10% Project 1
-    * 10% Project 2
-    * 10% Project 3
+    * 15% Project 1
+    * 15% Project 2
 * 25% Final Project/Paper
 * TOTAL: 100%
 
@@ -75,7 +74,7 @@ Here is a basic breakdown of graded tasks along that trajectory:
 You can expect to have a few assigned readings and or videos to watch each week (these are marked as readings underneath each Monday class heading - any resources marked optional are not mandatory but are typically relevant and quite informative.) You must complete all readings prior to class, and come ready to participate in discussion. Details for how to submit assignments will be given in class.
 
 ## READING RESPONSES
-Starting in week 2, choose five readings from the anywhere in the syllabus and write a 250-word reading response to each. Upload your response to the shared class google doc by 11pm the night before the next Monday clss to give everyone else enough time to read your work! Reading responses are discussion aids to be shared with the class. These responses are to demonstrate your engagement with the course material. You may choose to write about a specific passage or image in the reading, compare the reading to previous readings, or perhaps even diagram the structure of the argument.
+Starting in week 2, choose five readings from anywhere in the syllabus and write a 250-word reading response to each. Upload your response to the shared class google doc by 11pm the night before the next Monday class to give everyone else enough time to read your work! Reading responses are discussion aids to be shared with the class. These responses are to demonstrate your engagement with the course material. You may choose to write about a specific passage or image in the reading, compare the reading to previous readings, or perhaps even diagram the structure of the argument.
 
 ## DISCUSSION LEAD
 
@@ -85,7 +84,7 @@ During our first meeting, you will sign up to co-lead two reading discussions of
 
 ## THIS SYLLABUS IS IN FLUX
 
-And it will probably remain so for the rest of the course. I expect things to change as we get a sense of our shared goals, and an ideal pace of learning. The material covered in this course consists of both formal academic scholarship and more informal works and resources. As such I will treat this syllabus as a living document in which shared resources will be archived and made accessable to those in the class and any other curious parties. Please check in here regularly.
+And it will probably remain so for the rest of the course. I expect things to change as we get a sense of our shared goals, and an ideal pace of learning. The material covered in this course consists of both formal academic scholarship and more informal works and resources. As such I will treat this syllabus as a living document in which shared resources will be archived and made accessible to those in the class and any other curious parties. Please check in here regularly.
 
 ## COURSE HYBRIDITY
 
@@ -94,30 +93,30 @@ This semester is strange! We will be spending the first few weeks online and the
 ## LEARNING OUTCOMES
 
 * Understand what core infrastructures make up the internet and how they affect the fundamental nature of our technologically driven globe.
-* Become familair with the "art of noticing" and develop strategies to tune into generally overlooked details and components of internet infrastructure.
-* learn basics of creating web maps using Leaflet, D3, and other tools (Inside or outside of Observabele)
+* Become familiar with the "art of noticing" and develop strategies to tune into generally overlooked details and components of internet infrastructure.
+* learn basics of creating web maps using Leaflet, D3, and other tools (Inside or outside of Observable)
 * practice collecting and geocoding spatial data
-* Explore various kinds of media (artworks, documentaries, interactive maps, exhibitions) as a way to think through key concepts expolored in this course.
+* Explore various kinds of media (artworks, documentaries, interactive maps, exhibitions) as a way to think through key concepts explored in this course.
 * Read about different physical aspects of the internet.
 * Conduct individual research and engage in group discussion on specific components of the physical internet.
 * To be critical of the internet and its various workings.
 
-## READING PRESENTATION GROUPS
+## READING DISCUSSION LEADS
 
-This section will be updated with the reading presentation groups once they have been assigned
+This section will be updated with the reading discussion leads once they have been assigned
 
 ## WEEKLY SCHEDULE
 
 ### (subject to revision)
 Prior to each week I will upload slides, code examples, resources and more to the relevant page.
 
-| GO TO  |  DATE  | SECTION | GROUP PRESENTATION |
+| GO TO  |  DATE  | SECTION | DISCUSSION LEAD |
 | :----         |  ----  | ---- | ---- |
 | [WEEK 01](weeks/week_01.md) | Jan 24 & 26 | A Tangible Internet | None |
-| [WEEK 02](weeks/week_02.md) | Jan 31 & Feb 2 | A Tangible Internet | None |
-| [WEEK 03](weeks/week_03.md) | Feb 07 &  09 | A Tangible Internet | **TBD** |
-| [WEEK 04](weeks/week_04.md) | Feb 14 &  16 | A Tangible Internet |  **TBD** |
-| [WEEK 05](weeks/week_05.md) | <s>Feb 21</s> &  23 | A Tangible Internet | **TBD** |
+| [WEEK 02](weeks/week_02.md) | Jan 31 & Feb 02 | A Tangible Internet | None |
+| [WEEK 03](weeks/week_03.md) | Feb 07 & 09 | A Tangible Internet | **TBD** |
+| [WEEK 04](weeks/week_04.md) | Feb 14 & 16 | A Tangible Internet |  **TBD** |
+| [WEEK 05](weeks/week_05.md) | <s>Feb 21</s> & 23 | A Tangible Internet | **TBD** |
 | [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | A Tangible Internet | **TBD** |
 | [WEEK 07](weeks/week_07.md) | Mar 07 & 09 | Supply Chains  | **TBD** |
 | [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None|
@@ -133,13 +132,13 @@ Prior to each week I will upload slides, code examples, resources and more to th
 
 ## PROJECTS
 
-The course is structured around **three technical projects**,  a few **small assignements**, and a  **final paper or project**. Each project is described in detail in the linked project brief pages.
+The course is structured around **two technical projects**,  a few **small assignments**, and a  **final paper or project**. Each project is described in detail in the linked project brief pages.
 
 Each project must be accompanied with a write-up detailing methodologies, resources utilized (can include technologies used, code pulled from elsewhere online, and anything that inspired you), setbacks, and documentation throughout the course of the project. This write-up is for me to get a sense of what the goal of the project was and to see what challenges you overcame while creating it. Feel free to use whatever tool you are most comfortable with for the write-up. For instance if you have a website and want to create a blog for each project that's great! You can also submit a word doc or PDF if you prefer. On days that projects are due we will plan on spending the first 30-45 minutes of class presenting projects and giving constructive group feedback on them.
 
 | ASSIGNMENT  |  DUE DATE  | TITLE | 
 | :----         |  ----  | ---- |
-| [Five Reading Response Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 23 | Link to shared response document |
+| [Five Reading Response Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 16 | [Shared response document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) |
 | [Project 1](./assignments/assignment_01.md) |  February 23   | Public Data Mapping |
 | [Project 2](./assignments/assignment_02.md) |  March 23   | Visualizing a Collection  |
 | [Project 3](./assignments/final-project.md) |  April 13  | DIY Map Tile Visualization |
@@ -159,7 +158,7 @@ As such, here are my general suggestions for working on projects and assignments
 <hr>
 <hr>
 
-## IN ACKNOWLEDGEMENT OF THE LAND
+## IN ACKNOWLEDGMENT OF THE LAND
 
 Each day at The New School and every session of this course, we are gathered on the traditional, ancestral, and unceded Indigenous land of the Lenape and Canarsie peoples. I ask you to join me in acknowledging the Lenape and Canarsie communities, their elders both past and present, and their future generations. I acknowledge that whether intentionally or through ignorance, The New School was founded upon exclusions and erasures of many Indigenous peoples, including those on whose land this institution is located.
 
@@ -170,14 +169,14 @@ We start this process through building our own awareness and appreciation for th
 References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land-notice) & [Native-land.ca](https://native-land.ca/territory-acknowledgement/)
 
 
-##  NEW SCHOOL MASK POLICY
+## NEW SCHOOL MASK POLICY
 The New School has implemented policies and guidance intended to support the health and safety of the
 university community. Mask wearing protects others, not just the wearer. All students, faculty and staff are
 asked to respect our entire community by abiding by university policies at any given time. New School
 community members who observe others not abiding by these expectations may gently remind them to
 respect our community health.
 
-## UNIVERRSITY & COLLEGE POLICIES
+## UNIVERSITY & COLLEGE POLICIES
 
 Academic honesty, plagiarism … and computer programming
 Compromising your academic integrity may lead to serious consequences, including (but not limited to) one
@@ -263,7 +262,8 @@ __ASSIGNED__
 
 * **SMALL ASSIGNMENT**
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
-    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to reseach the componenets and learn how they are incorporated into the larger networked environment. We will disucss our findings in next week's class!
+    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next week's class!
+
 
 * **OPTIONAL READING**
     * [Surya Mattu & Ingrid Burrington, "The Physical Internet"](http://networks.land/reference/physical/)
@@ -274,8 +274,9 @@ __ASSIGNED__
 * **RESOURCES**
     * [Map Maker Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)
 
-#### Wednnesday, January 26th
-* Introducion to web mapping with Javascript (Javascript Basics in Observable)
+#### Wednesday, January 26th
+* Introduction to web mapping with Javascript (Javascript Basics in Observable)
+
 __ASSIGNED__
 * Project 1 (Public Data Mapping), **Due Feb 23**
 
@@ -303,7 +304,7 @@ __ASSIGNED__
     * [Ingrid Burrington, "Seeing Networks"](http://seeingnetworks.in/nyc/)   
     * [James Bridle, "Citizen Ex](http://citizen-ex.com/stories)
 
-#### Wednnesday, February 2nd
+#### Wednesday, February 2nd
 * Introduction to Web Mapping Continued (Leaflet.js & Mapbox) 
 * In class implosion exercise
 
@@ -334,7 +335,7 @@ __ASSIGNED__
 
 #### Wednesday, February 9th
 * Overview of publically available data and how to clean data
-* Using publically available data sets for mapping
+* Using publically available datasets for mapping
 
 ## Section - A Tangible Internet
 
@@ -348,7 +349,7 @@ __ASSIGNED__
 
     * [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
     Explore the accompanying website to "The Undersea Network." Be sure to note the choices made in representing relevant information and how the authors chose to move between
-    abstract network diagrams and very specific refernece images and cable maps.
+    abstract network diagrams and very specific reference images and cable maps.
 
 * **RESOURCES**
     * [Submarine Cable Map](https://www.submarinecablemap.com/)
@@ -414,7 +415,7 @@ __ASSIGNED__
 #### Wednesday, March 2nd
 * Data Visualization with D3 & Vega (Beyond Mapping)
 
-__ASSIGED__
+__ASSIGNED__
 * Project 2 (Visualizing a Collection), **Due March 23**
 
 * **SMALL ASSIGNMENT**
@@ -498,10 +499,10 @@ __ASSIGNED__
 
 #### Wednesday, March 30th
 * Using Javascript to work with landsat bands 
-* Vector Tiles v. Rastor Tiles 
+* Vector Tiles v. Raster Tiles 
 __ASSIGNED__
 * **SMALL ASSIGNMENT**
-    * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring to class next Monday.
+    * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring it to class next Monday.
 
 ## Section - Mining & Extraction
 
@@ -528,7 +529,7 @@ __ASSIGNED__
 #### Monday, April 11th
 **FINAL PROJECT PROPOSALS DUE**
 
-__ASSIGED__
+__ASSIGNED__
 * **READING**
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 

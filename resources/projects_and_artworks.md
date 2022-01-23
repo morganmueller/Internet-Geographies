@@ -48,6 +48,8 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [NYT, How the Supply Chain Crisis Unfolded](https://www.nytimes.com/interactive/2021/12/05/business/economy/supply-chain.html)
 * [NYT, Bitcoin Uses More Electricity Than Many Countries. How Is That Possible?](https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html)
 * [NYT, Where Brazilians Live in High-Risk Areas Downhill From Mining Dams](https://www.nytimes.com/interactive/2019/02/14/world/americas/brumadinho-brazil-dam-collapse.html)
+* [Basel Action Network](https://www.ban.org/trash-transparency)
+
 
 ### Artworks
 * [Tega Brain & Sam Lavigne, New York Apartment](https://whitney.org/exhibitions/new-york-apartment)
@@ -71,3 +73,8 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [Jenny Odell, "Google Data Center Mural Project"](https://datacentermurals.withgoogle.com/)
 * [Jenny Odell, "Satellite Landscapes"](https://datacentermurals.withgoogle.com/)
 * [Kate Mclean, "Sensory Maps"](https://sensorymaps.com/)
+* [Hans Haacke, "Shapolsky et al. Manhattan Real Estate Holdings, a Real-Time Social System"](https://whitney.org/collection/works/29487)
+    * [Article about the work](https://archive.curbed.com/2015/9/2/9924926/hans-haacke-photography-slumlord)
+* [Dunne and Raby, "A/B Manifesto"](http://dunneandraby.co.uk/content/projects/476/0)
+* [Hyperallergic, Richard Mosse’s Photos Exoticize Disaster](https://hyperallergic.com/641289/richard-mosse-photos-exoticize-disaster/)
+* [Gilad Dor, "The Investigation Into the Organic Utility Pole"](https://theorganicutilitypole.com/)
