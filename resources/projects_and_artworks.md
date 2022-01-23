@@ -67,5 +67,6 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [Trevor Paglen, "The Other Night Sky](https://paglen.studio/2020/05/22/the-other-night-sky/)
 * [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
 * [Sam Kidel, "Raving the Data Center"](https://www.ableton.com/en/blog/sam-kidel-raving-data-center/)
-
-
+* [Chris Woebken, "Digital Foresight](https://chriswoebken.com/NYC-Foresight)
+* [Jenny Odell, "Google Data Center Mural Project"](https://datacentermurals.withgoogle.com/)
+* [Jenny Odell, "Satellite Landscapes"](https://datacentermurals.withgoogle.com/)
