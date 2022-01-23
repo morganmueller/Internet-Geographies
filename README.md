@@ -1,6 +1,6 @@
 # Internet Geographies
 
-### **Eugene Lang College of Liberal Arts <br> Code as Liberal Art, Spring 6022**
+### **Eugene Lang College of Liberal Arts <br> Code as Liberal Art, Spring 2022**
 
 [**Link to the course listing**<br> **Category**: 4 Credits, Elective<br>
 <br>](https://courses.newschool.edu/courses/LCOD2123/)
@@ -137,6 +137,7 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 
 | ASSIGNMENT  |  DUE DATE  | TITLE | 
 | :----         |  ----  | ---- |
+| [Five Reading Response Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 23 | Link to shared response document |
 | [Project 1](./assignments/assignment_01.md) |  February 23   | Public Data Mapping |
 | [Project 2](./assignments/assignment_02.md) |  March 23   | Visualizing a Collection  |
 | [Project 3](./assignments/final-project.md) |  April 13  | DIY Map Tile Visualization |
@@ -314,7 +315,7 @@ __ASSIGNED__
 __ASSIGNED__
 
 * **READING**
-    * [Shannon Mattern, "Cloud and Field"](https://placesjournal.org/article/cloud-and-field/)
+    * [Shannon Mattern, "Cloud and Field", Aug 2014](https://placesjournal.org/article/cloud-and-field/)
     * [Jennifer Gabrys, "Becoming Planetary", Oct 2018](https://www.are.na/block/7025809)
 
 * **WATCH**
@@ -348,14 +349,14 @@ __ASSIGNED__
     abstract network diagrams and very specific refernece images and cable maps.
 
 * **RESOURCES**
-
+    * [Submarine Cable Map](https://www.submarinecablemap.com/)
     * [Surfacing](http://www.surfacing.in/) <br>
     * [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)
     * [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
 
 #### Wednesday, February 16th
-* D3.js overview and in class exercise 
 * Continued work on web mapping fundamentals
+* D3.js overview and in class exercise 
 
 ## Section - A Tangible Internet
 
@@ -365,10 +366,9 @@ __ASSIGNED__
 
 **NO CLASS**
 
-* This week's readings and listening assignments are still required as they will be discussed next Monday
 
 __ASSIGNED__
-
+* This week's readings and listening assignments are still required as they will be discussed next Monday
 * **READING**
 
     * [Julia Velkova, "Data Centers as Impermanent Infrastructures"](https://culturemachine.net/vol-18-the-nature-of-data-centers/data-centers-as-impermanent/)
@@ -379,7 +379,7 @@ __ASSIGNED__
     * [Data Center Industrial Complex Podcast](https://www.youtube.com/playlist?list=PLx7HtJGIlJ0HUvFkUpYxJwZEExpVNQAS1)
 
 * **OPTIONAL READING**
-    A lot of great pieces in this volume of the journal! I would recommend pieces by Matt Parker, Vikki Mayer, and Anthony M Levenda/Dillon Mahmoudi
+    A lot of great pieces in this volume of the journal! I would recommend pieces by Matt Parker, Vikki Mayer, and Anthony M Levenda/Dillon Mahmoudi.
     * [Culture Machine Vol. 18](https://culturemachine.net/vol-18-the-nature-of-data-centers/)
 
     * [Ned Rossiter,"Imperial Infrastructures and Asia beyond Asia: Data Centres, State Formation and the Territoriality of Logistical Media"](https://twentynine.fibreculturejournal.org/wp-content/pdfs/FCJ-220NedRossiter.pdf)
@@ -473,7 +473,6 @@ __ASSIGNED__
 <!-- **Guest Speakers: [Miriam Matthiessen](https://miriammatthiessen.com/) & [Anne Lee Steele](https://aleesteele.com/)** -->
 __ASSIGNED__
 * Project 3 (DIY Map Tile Visualization), **Due April 13**
-
 
 ## Section - Supply Chains
 
@@ -608,7 +607,7 @@ __ASSIGNED__
 * **READING**
     * [Ellyn Gaydos, "In the Shadow of Big Blue", 2019](https://logicmag.io/nature/in-the-shadow-of-big-blue)
     * [Winona Laduke, Deborah E. Cowen, "Beyond Wiindigo Infrastructure, April 2020](https://read.dukeupress.edu/south-atlantic-quarterly/article-abstract/119/2/243/164111/Beyond-Wiindigo-Infrastructure?redirectedFrom=fulltext)
-    
+
 #### Wednesday, May 11th
 In Class Work Session
 
