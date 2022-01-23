@@ -70,3 +70,4 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [Chris Woebken, "Digital Foresight](https://chriswoebken.com/NYC-Foresight)
 * [Jenny Odell, "Google Data Center Mural Project"](https://datacentermurals.withgoogle.com/)
 * [Jenny Odell, "Satellite Landscapes"](https://datacentermurals.withgoogle.com/)
+* [Kate Mclean, "Sensory Maps"](https://sensorymaps.com/)
