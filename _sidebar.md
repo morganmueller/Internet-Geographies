@@ -5,9 +5,9 @@
     * [Week 2](weeks/week_02.md)
 
 * Projects
-    * Project 1
-    * Project 2
-    * Final Project/Paper
+    * [Project 1](projects/project_01.md)
+    * [Project 2](projects/project_01.md)
+    * [Final Project/Paper](projects/final.md)
 
 
 * Resources
