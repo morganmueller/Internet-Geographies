@@ -26,7 +26,7 @@
 | Instructor Github | [@morganmueller](https://github.com/morganmueller) |
 | Class Day | Monday, Wednesday   |
 | Class Time      | 4:00pm - 5:40pm |
-| Class Room      | Room **1102**, 6 East 16th Street, Manhattan |
+| Classroom      | Room **1102**, 6 East 16th Street, Manhattan |
 | Class Dates     | Jan 24 - May 16 |
 
 ## OFFICE HOURS
