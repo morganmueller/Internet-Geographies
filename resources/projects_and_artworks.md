@@ -28,6 +28,7 @@ Note: Many of these projects do not fit into neat categories but for the sake of
     * [Mapping Tutorials](https://c4sr.columbia.edu/tutorials)
 * [Jia Zhang, Mapping The New Politics of Care](https://www.dataminding.studio/work-2/mapping-the-new-politics-of-care)
 * [Surfacing](http://www.surfacing.in/) 
+* [Data Walking](https://www.datawalking.com/)
 
 
 ### Nodes, Networks, & Supply Chains

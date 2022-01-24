@@ -65,6 +65,7 @@ Add your name under the desired week in the in class shared notes doc.
 * [Basel Action Network](https://www.ban.org/trash-transparency)
 * [Hyperallergic, Richard Mosse’s Photos Exoticize Disaster](https://hyperallergic.com/641289/richard-mosse-photos-exoticize-disaster/)
 * [Ani Liu, Mind in the Machine](https://ani-liu.com/mind-in-machine)
+* [Data Walking](https://www.datawalking.com/)
 
 
 ---

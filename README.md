@@ -138,7 +138,7 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 
 | ASSIGNMENT  |  DUE DATE  | TITLE |
 | :----         |  ----  | ---- |
-| [Five Reading Response Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 16 | [Shared response document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) |
+| [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 16 | Course Reading Responses |
 | [Project 1](./assignments/assignment_01.md) |  March 2nd | Public Data Mapping |
 | [Project 2](./assignments/assignment_02.md) |  April 6th | Visualizing a Collection  |
 | [Project 4](./assignments/final-project.md) | May 16 | Final Project/Paper  |
@@ -308,6 +308,7 @@ __ASSIGNED__
 
 #### Wednesday, February 2nd
 * Introduction to Web Mapping Continued (Leaflet.js & Mapbox) 
+* Implosion Project explanation
 
 __ASSIGNED__
 * Take home Implosion Project
@@ -343,17 +344,17 @@ __ASSIGNED__
 * Overview of publically available data and how to clean data
 * Using publically available datasets for mapping
 
-__ASSIGNED__
-
 * **SMALL ASSIGNMENT**
-    * For the next month 
+    * At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing' at the site and creatively record what you notice. This recording could be in the form of a field guide, audio field recording, journal or any other method you'd like.
+    
+    Some things you could think about are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and even if other non-humans interact with it. We will spend a portion of **March 9th's** class discussing each student's documentation.
 
 ## Section - A Tangible Internet
 
 ### Week 4 – Scales, Spatialization, & Sensing
 
 #### Monday, February 14th
-
+* Reading Discussion
 __ASSIGNED__
 
 * **READING**
@@ -415,6 +416,7 @@ __ASSIGNED__
 ### Week 6 - Data Centers 
 
 #### Monday, February 28th
+* Reading Discussion
 
 __ASSIGNED__
 
@@ -441,6 +443,7 @@ __ASSIGNED__
 ### Week 7 - Rethinking Containerization
 
 #### Monday, March 7th
+* Reading Discussion
 
 __ASSIGNED__
 
@@ -458,7 +461,9 @@ __ASSIGNED__
     [Supply-Chains.us (Miriam Matthiessen & Anne Lee Steele)](https://www.supply-chains.us/)
 
 #### Wednesday, March 9th
+**ART OF NOTICING ASSIGNMENT DUE**
 
+* Art of Noticing results discussion
 * Data Visualization with D3 & Vega (Beyond Mapping)
 * Remote Sensing & GIS Techniques
 
@@ -476,6 +481,7 @@ __ASSIGNED__
 ### Week 9 - Trade & Capitalist Expansion
 
 #### Monday, March 21st
+* Reading Discussion
 
 __ASSIGNED__
 
@@ -495,7 +501,7 @@ __ASSIGNED__
 ### Week 10 - Politics of Production
 
 #### Monday, March 28th
-
+* Reading Discussion
 __ASSIGNED__
 
 * **READING**
@@ -522,8 +528,10 @@ __ASSIGNED__
 ### Week 11 - Elements of the Internet
 
 #### Monday, April 4th
+* Reading Discussion
 
 __ASSIGNED__
+
 * **READING**
    * [Colin Kinniburgh, Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On, 2014](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on)
    * [Sandro Mezzadra & Brett Neilson, "Extraction, Logistics, Finance"](https://www.radicalphilosophy.com/article/extraction-logistics-finance)
@@ -539,7 +547,8 @@ __ASSIGNED__
 ### Week 12 - Resource Lives
 
 #### Monday, April 11th
-**FINAL PROJECT PROPOSALS DUE**
+* **FINAL PROJECT PROPOSALS DUE**
+* Reading Discussion
 
 __ASSIGNED__
 * **READING**
@@ -555,6 +564,7 @@ __ASSIGNED__
 ### Week 13 - Not Quite Rare Earth
 
 #### Monday, April 18th
+* Reading Discussion
 
 __ASSIGNED__
 * **READING**
@@ -581,6 +591,7 @@ __ASSIGNED__
 ### Week 14 - Narratives of Waste and Disposal
 
 #### Monday, April 25th
+* Reading Discussion
 
 __ASSIGNED__
 * **READING**
@@ -601,6 +612,7 @@ __ASSIGNED__
 ### Week 15 - Second Lives
 
 #### Monday, May 2nd
+* Reading Discussion
 
 __ASSIGNED__
 
@@ -635,4 +647,7 @@ In Class Work Session
 ### Week 17- Final Projects/Papers Due
 
 #### Monday, May 16th
-**Projects/Papers due by 11pm**
+**Projects/Papers due**
+
+* Final Presentations
+
