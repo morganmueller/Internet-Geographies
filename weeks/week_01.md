@@ -73,6 +73,9 @@ Add your name under the desired week in the in class shared notes doc.
 ---
 ## Wednesday
 
+> “Maps are creative statements about the world, not merely degraded reflections of it” ― Liben & Downs (1989)
+
+
 
 
 ### Technical Examples

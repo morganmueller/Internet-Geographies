@@ -74,13 +74,13 @@ Here is a basic breakdown of graded tasks along that trajectory:
 You can expect to have a few assigned readings and or videos to watch each week (these are marked as readings underneath each Monday class heading - any resources marked optional are not mandatory but are typically relevant and quite informative.) You must complete all readings prior to class, and come ready to participate in discussion. Details for how to submit assignments will be given in class.
 
 ## READING RESPONSES
-Starting in week 2, choose five readings from anywhere in the syllabus and write a 250-word reading response to each. Upload your response to the shared class google doc by 11pm the night before the next Monday class to give everyone else enough time to read your work! Reading responses are discussion aids to be shared with the class. These responses are to demonstrate your engagement with the course material. You may choose to write about a specific passage or image in the reading, compare the reading to previous readings, or perhaps even diagram the structure of the argument.
+Starting in week 2, choose five readings from anywhere in the syllabus and write a 250 word reading response to each. Upload your response to the shared class google doc by 11pm the night before the following Monday class to give everyone else enough time to read your work! Reading responses are discussion aids to be shared with the class. These responses are to demonstrate your engagement with the course material. You may choose to write about a specific passage or image in the reading, compare the reading to previous readings, or perhaps even diagram the structure of the argument.
 
 ## DISCUSSION LEAD
 
-During our first meeting, you will sign up to co-lead two reading discussions of your choice. For each Monday meeting thereafter, I will begin by mapping out the week's theme within a broader field, cultural context, or contemporary debate, highlighting key interventions and implications. Your team will then follow with a 20-minute presentation involving close readings and analysis of the text/s. In your presentation, please (1) specify key figures and keywords, (2) draw out main arguments and structure, (3) note methods and sources used, and (4) finally, raise discussion points/questions, and/or a class exercise. Kindly email me your presentation outline by 7pm the day before.
+During our first meeting, you will sign up to co-lead two reading discussions of your choice. For each Monday meeting thereafter (starting in week 3), I will begin by mapping out the week's theme within a broader field, cultural context, or contemporary debate, highlighting key interventions and implications. Your team will then follow with a 20-minute presentation involving close readings and analysis of the text/s. In your presentation, please (1) specify key figures and keywords, (2) draw out main arguments and structure, (3) note methods and sources used, and (4) finally, raise discussion points/questions, and/or a class exercise. Kindly email me your presentation outline by 7pm the day before.
 
-**Addendum**: There are a few weeks where full books will be assigned for reading. During those weeks the expectation will be that everyone reads the introduction and conclusion. I will then assign each reading group a chapter to read. During the following class's meeting each group will give a brief (5-10 minute) presentation on their assigned chapter of the book so the class will cumulatively have a grasp of major themes of the work. 
+**Addendum**: There are a few weeks where full books will be assigned for reading. During those weeks the expectation will be that everyone reads the introduction and conclusion. I will then assign each reading group a chapter to read. During the following class's meeting each group will give a brief (5-10 minute) presentation on their assigned chapter(s) of the book so the class will cumulatively have a grasp of major themes of the work.
 
 ## THIS SYLLABUS IS IN FLUX
 
@@ -134,7 +134,7 @@ Prior to each week I will upload slides, code examples, resources and more to th
 
 The course is structured around **two technical projects**,  a few **small assignments**, and a  **final paper or project**. Each project is described in detail in the linked project brief pages.
 
-Each project must be accompanied with a write-up detailing methodologies, resources utilized (can include technologies used, code pulled from elsewhere online, and anything that inspired you), setbacks, and documentation throughout the course of the project. This write-up is for me to get a sense of what the goal of the project was and to see what challenges you overcame while creating it. Feel free to use whatever tool you are most comfortable with for the write-up. For instance if you have a website and want to create a blog for each project that's great! You can also submit a word doc or PDF if you prefer. On days that projects are due we will plan on spending the first 30-45 minutes of class presenting projects and giving constructive group feedback on them.
+Each project must be accompanied with a write-up detailing methodologies, resources utilized (can include technologies used, code pulled from elsewhere online, and anything that inspired you), setbacks, and documentation throughout the course of the project. This write-up is for me to get a sense of what the goal of the project was and to see what challenges you overcame while creating it. Feel free to use whatever tool you are most comfortable with for the write-up. For instance if you have a website and want to create a blog for each project that's great! You can also submit a word doc or PDF if you prefer. On days that projects are due we will plan on spending the first 45 minutes of class presenting projects and giving constructive group feedback on them.
 
 | ASSIGNMENT  |  DUE DATE  | TITLE |
 | :----         |  ----  | ---- |
@@ -169,6 +169,7 @@ References: [Jer Thorp's Land Notice](https://github.com/blprnt/DataPublics#land
 
 
 ## NEW SCHOOL MASK POLICY
+
 The New School has implemented policies and guidance intended to support the health and safety of the
 university community. Mask wearing protects others, not just the wearer. All students, faculty and staff are
 asked to respect our entire community by abiding by university policies at any given time. New School
@@ -262,7 +263,7 @@ __ASSIGNED__
 
 * **SMALL ASSIGNMENT**
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
-    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next week's class!
+    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next Monday's class!
 
 
 * **OPTIONAL READING**
@@ -275,6 +276,7 @@ __ASSIGNED__
     * [Map Maker Code of Ethics](https://github.com/joeyklee/carto-code-of-ethics)
 
 #### Wednesday, January 26th
+* Cartography 101
 * Introduction to web mapping with Javascript (Javascript Basics in Observable)
 
 __ASSIGNED__
@@ -285,7 +287,10 @@ __ASSIGNED__
 ### Week 2 – Code & Clay (**ONLINE**)
 
 #### Monday, January 31th
+* **Small project group showing/discussion**
 * Reading Discussion
+* Cartography 101 continued
+
 
 __ASSIGNED__
 * **READING**
@@ -300,14 +305,14 @@ __ASSIGNED__
 * **OPTIONAL READING**
     * [Greta Byrum, "Building the People's Internet"](https://urbanomnibus.net/2019/10/building-the-peoples-internet/)
     * [Zach Blas, "Contra-Internet", June 2016](https://www.e-flux.com/journal/74/59816/contra-internet/)
-
+    * [Catherine D'Ignazio & Lauren Klein, "Data Feminism", Chapter 2](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4)
 
 * **RESOURCES**
     * [Ingrid Burrington, "Seeing Networks"](http://seeingnetworks.in/nyc/)   
     * [James Bridle, "Citizen Ex](http://citizen-ex.com/stories)
 
 #### Wednesday, February 2nd
-* Introduction to Web Mapping Continued (Leaflet.js & Mapbox) 
+* Introduction to Web Mapping Continued (Leaflet.js) 
 * Implosion Project explanation
 
 __ASSIGNED__
@@ -340,14 +345,15 @@ __ASSIGNED__
 
 
 #### Wednesday, February 9th
-
+* Mapbox & Google Maps API
 * Overview of publically available data and how to clean data
 * Using publically available datasets for mapping
 
+__ASSIGNED__
 * **SMALL ASSIGNMENT**
-    * At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing' at the site and creatively record what you notice. This recording could be in the form of a field guide, audio field recording, journal or any other method you'd like.
+    *  At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like.
     
-    Some things you could think about are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and even if other non-humans interact with it. We will spend a portion of **March 9th's** class discussing each student's documentation.
+    Some potential things to think about while at the location are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and if other non-human actors interact with it. We will spend a portion of **March 9th's** class discussing each student's documentation.
 
 ## Section - A Tangible Internet
 
@@ -355,6 +361,8 @@ __ASSIGNED__
 
 #### Monday, February 14th
 * Reading Discussion
+* Small 'Art of Noticing' assignment check-in
+
 __ASSIGNED__
 
 * **READING**
@@ -493,8 +501,6 @@ __ASSIGNED__
 
 * D3 & Vega-lite continued
 <!-- **Guest Speakers: [Miriam Matthiessen](https://miriammatthiessen.com/) & [Anne Lee Steele](https://aleesteele.com/)** -->
-__ASSIGNED__
-<!-- * Project 3 (DIY Map Tile Visualization), **Due April 13** -->
 
 ## Section - Supply Chains
 
@@ -502,11 +508,12 @@ __ASSIGNED__
 
 #### Monday, March 28th
 * Reading Discussion
+
 __ASSIGNED__
 
 * **READING**
     * [Francis Tseng, "Inside-Out: Renewable energy, the future of mining, and the re-localization of harm"](https://reports.phenomenalworld.org/inside-out/)
-    * [ Fugitive Emissions](https://cathodes.net/fugitive-emissions-part-1/)
+    * [Fugitive Emissions](https://cathodes.net/fugitive-emissions-part-1/)
     * [Samir Bhowmik Lithium Landscapes, 2021](http://mediafieldsjournal.org/lithium-landscapes/)
 
 * **WATCH**
@@ -517,7 +524,8 @@ __ASSIGNED__
 
 #### Wednesday, March 30th
 * Using Javascript to work with landsat bands 
-* Vector Tiles v. Raster Tiles 
+* Combining Landsat bands for Remote Sensing
+
 __ASSIGNED__
 
 * **SMALL ASSIGNMENT**
@@ -532,14 +540,17 @@ __ASSIGNED__
 
 __ASSIGNED__
 
+* Final Project/Paper Proposals, **Due April 13th**
+
 * **READING**
    * [Colin Kinniburgh, Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On, 2014](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on)
    * [Sandro Mezzadra & Brett Neilson, "Extraction, Logistics, Finance"](https://www.radicalphilosophy.com/article/extraction-logistics-finance)
 
-* Final Project/Paper Proposals, **Due April 15th by 11pm**
 
 #### Wednesday, April 6th
+
 * **PROJECT 2 DUE**
+
 * Project Presentations and Critique
 
 ## Section - Mining & Extraction
@@ -547,7 +558,6 @@ __ASSIGNED__
 ### Week 12 - Resource Lives
 
 #### Monday, April 11th
-* **FINAL PROJECT PROPOSALS DUE**
 * Reading Discussion
 
 __ASSIGNED__
@@ -555,6 +565,7 @@ __ASSIGNED__
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 
 #### Wednesday, April 13th
+* **FINAL PROJECT PROPOSALS DUE**
 * Creating custom tiles
 * Working with MapboxGLSL
 * Custom tile exercise

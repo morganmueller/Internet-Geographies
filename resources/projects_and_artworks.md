@@ -29,6 +29,7 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [Jia Zhang, Mapping The New Politics of Care](https://www.dataminding.studio/work-2/mapping-the-new-politics-of-care)
 * [Surfacing](http://www.surfacing.in/) 
 * [Data Walking](https://www.datawalking.com/)
+* [Caleb Stone, Web Acknowledgment](https://twitter.com/rorys/status/1357855487115603970)
 
 
 ### Nodes, Networks, & Supply Chains
@@ -50,6 +51,7 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [NYT, Bitcoin Uses More Electricity Than Many Countries. How Is That Possible?](https://www.nytimes.com/interactive/2021/09/03/climate/bitcoin-carbon-footprint-electricity.html)
 * [NYT, Where Brazilians Live in High-Risk Areas Downhill From Mining Dams](https://www.nytimes.com/interactive/2019/02/14/world/americas/brumadinho-brazil-dam-collapse.html)
 * [Basel Action Network](https://www.ban.org/trash-transparency)
+* [Dr. John Snow, Cholera Map](https://www.theguardian.com/news/datablog/2013/mar/15/john-snow-cholera-map)
 
 
 ### Artworks
