@@ -78,3 +78,5 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [Dunne and Raby, "A/B Manifesto"](http://dunneandraby.co.uk/content/projects/476/0)
 * [Hyperallergic, Richard Mosse’s Photos Exoticize Disaster](https://hyperallergic.com/641289/richard-mosse-photos-exoticize-disaster/)
 * [Gilad Dor, "The Investigation Into the Organic Utility Pole"](https://theorganicutilitypole.com/)
+* [Ani Liu, Mind in the Machine](https://ani-liu.com/mind-in-machine)
+* [Sacrifice Zone](https://lav.io/projects/endicott/)

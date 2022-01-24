@@ -136,18 +136,17 @@ The course is structured around **two technical projects**,  a few **small assig
 
 Each project must be accompanied with a write-up detailing methodologies, resources utilized (can include technologies used, code pulled from elsewhere online, and anything that inspired you), setbacks, and documentation throughout the course of the project. This write-up is for me to get a sense of what the goal of the project was and to see what challenges you overcame while creating it. Feel free to use whatever tool you are most comfortable with for the write-up. For instance if you have a website and want to create a blog for each project that's great! You can also submit a word doc or PDF if you prefer. On days that projects are due we will plan on spending the first 30-45 minutes of class presenting projects and giving constructive group feedback on them.
 
-| ASSIGNMENT  |  DUE DATE  | TITLE | 
+| ASSIGNMENT  |  DUE DATE  | TITLE |
 | :----         |  ----  | ---- |
 | [Five Reading Response Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 16 | [Shared response document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) |
-| [Project 1](./assignments/assignment_01.md) |  February 23   | Public Data Mapping |
-| [Project 2](./assignments/assignment_02.md) |  March 23   | Visualizing a Collection  |
-| [Project 3](./assignments/final-project.md) |  April 13  | DIY Map Tile Visualization |
+| [Project 1](./assignments/assignment_01.md) |  March 2nd | Public Data Mapping |
+| [Project 2](./assignments/assignment_02.md) |  April 6th | Visualizing a Collection  |
 | [Project 4](./assignments/final-project.md) | May 16 | Final Project/Paper  |
 
 
 ## LATE ASSIGNMENTS
 
-The general policy is that **late assignments will not be reviewed**. 
+The general policy is that **late assignments will not be reviewed**.
 
 As such, here are my general suggestions for working on projects and assignments (in this class and beyond):
 
@@ -248,9 +247,10 @@ http://www.newschool.edu/provost/course-evaluations-student-instructions.pdf
 ## Section - A Tangible Internet
 ### Week 1 – Course Introductions and Overview (**ONLINE**)
 #### Monday, January 24th
+
 * Introduction to the course
-* Choose Presentation Groups  
-* In class exercise 
+* Choose discussion readings
+* In class exercise
 
 __ASSIGNED__
 
@@ -278,10 +278,12 @@ __ASSIGNED__
 * Introduction to web mapping with Javascript (Javascript Basics in Observable)
 
 __ASSIGNED__
-* Project 1 (Public Data Mapping), **Due Feb 23**
+* Project 1 (Public Data Mapping), **Due March 2nd**
 
 ## Section - A Tangible Internet
+
 ### Week 2 – Code & Clay (**ONLINE**)
+
 #### Monday, January 31th
 * Reading Discussion
 
@@ -306,14 +308,17 @@ __ASSIGNED__
 
 #### Wednesday, February 2nd
 * Introduction to Web Mapping Continued (Leaflet.js & Mapbox) 
-* In class implosion exercise
 
+__ASSIGNED__
+* Take home Implosion Project
 
 ## Section - A Tangible Internet
 
 ### Week 3 – Digital Frictions
 
 #### Monday, February 7th
+* Reading Discussion
+* Implosion exercise continued
 
 __ASSIGNED__
 
@@ -334,8 +339,14 @@ __ASSIGNED__
 
 
 #### Wednesday, February 9th
+
 * Overview of publically available data and how to clean data
 * Using publically available datasets for mapping
+
+__ASSIGNED__
+
+* **SMALL ASSIGNMENT**
+    * For the next month 
 
 ## Section - A Tangible Internet
 
@@ -392,8 +403,9 @@ __ASSIGNED__
     * [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1)
 
 #### Wednesday, February 23rd
-* **PROJECT 1 DUE**
+
 * **Guest Speaker: Ingrid Burrington**
+
 * **SMALL ASSIGNMENT**
     For Next Monday, come to class with some notes on at least two art works from the [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1) collection. We will begin the class by discussing 
     how artists have been able to critique internet infrastructures in different and oftentimes subversive ways to academics and journalists.
@@ -403,7 +415,9 @@ __ASSIGNED__
 ### Week 6 - Data Centers 
 
 #### Monday, February 28th
+
 __ASSIGNED__
+
 * **READING**
     * [Anna Tsing, "Supply Chains and the Human Condition", 2009 ](https://www.are.na/block/14670672)
     * [Joe Allen, "Studying Logistics"](https://www.jacobinmag.com/2015/02/logistics-industry-organizing-labor/)
@@ -413,10 +427,11 @@ __ASSIGNED__
 [James Smith and Jeffrey Mantz, “Do Cellular Phones Dream of Civil War?"](https://www.are.na/block/14670532)
 
 #### Wednesday, March 2nd
-* Data Visualization with D3 & Vega (Beyond Mapping)
+* **PROJECT 1 DUE**
+* Project Presentations
 
 __ASSIGNED__
-* Project 2 (Visualizing a Collection), **Due March 23**
+* Project 2 (Visualizing a Collection), **Due April 6th**
 
 * **SMALL ASSIGNMENT**
     * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Wednesday to discuss.
@@ -444,7 +459,7 @@ __ASSIGNED__
 
 #### Wednesday, March 9th
 
-* Data Visualization Continued
+* Data Visualization with D3 & Vega (Beyond Mapping)
 * Remote Sensing & GIS Techniques
 
 ## SPRING BREAK
@@ -465,17 +480,15 @@ __ASSIGNED__
 __ASSIGNED__
 
 * **READING**
-* [Lisa Nakamura, "Economies of Digital Production in East Asia"](http://static1.1.sqspcdn.com/static/f/707453/11409674/1301102745057/Media-Fields-2-Nakamura.pdf?token=XCUcazisBv2ZLAhbvcr58wwJJek%3D)
-* [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://apjjf.org/2013/11/32/Mark-Selden/3981/article.html)
+    * [Lisa Nakamura, "Economies of Digital Production in East Asia"](http://static1.1.sqspcdn.com/static/f/707453/11409674/1301102745057/Media-Fields-2-Nakamura.pdf?token=XCUcazisBv2ZLAhbvcr58wwJJek%3D)
+    * [Mark Selden, Jenny Chan and Pun Ngai, "The politics of global production: Apple, Foxconn and China's new working class", 2013](https://apjjf.org/2013/11/32/Mark-Selden/3981/article.html)
 
 #### Wednesday, March 23rd
 
-* **PROJECT 2 DUE**
-* Project Presentations and Critique
-* Remote Sensing Tools and Techniques
+* D3 & Vega-lite continued
 <!-- **Guest Speakers: [Miriam Matthiessen](https://miriammatthiessen.com/) & [Anne Lee Steele](https://aleesteele.com/)** -->
 __ASSIGNED__
-* Project 3 (DIY Map Tile Visualization), **Due April 13**
+<!-- * Project 3 (DIY Map Tile Visualization), **Due April 13** -->
 
 ## Section - Supply Chains
 
@@ -486,7 +499,6 @@ __ASSIGNED__
 __ASSIGNED__
 
 * **READING**
-
     * [Francis Tseng, "Inside-Out: Renewable energy, the future of mining, and the re-localization of harm"](https://reports.phenomenalworld.org/inside-out/)
     * [ Fugitive Emissions](https://cathodes.net/fugitive-emissions-part-1/)
     * [Samir Bhowmik Lithium Landscapes, 2021](http://mediafieldsjournal.org/lithium-landscapes/)
@@ -501,6 +513,7 @@ __ASSIGNED__
 * Using Javascript to work with landsat bands 
 * Vector Tiles v. Raster Tiles 
 __ASSIGNED__
+
 * **SMALL ASSIGNMENT**
     * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring it to class next Monday.
 
@@ -514,13 +527,12 @@ __ASSIGNED__
 * **READING**
    * [Colin Kinniburgh, Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On, 2014](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on)
    * [Sandro Mezzadra & Brett Neilson, "Extraction, Logistics, Finance"](https://www.radicalphilosophy.com/article/extraction-logistics-finance)
+
 * Final Project/Paper Proposals, **Due April 15th by 11pm**
 
 #### Wednesday, April 6th
-
-* Creating custom tiles
-* Working with MapboxGLSL
-* Custom tile exercise
+* **PROJECT 2 DUE**
+* Project Presentations and Critique
 
 ## Section - Mining & Extraction
 
@@ -534,8 +546,9 @@ __ASSIGNED__
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 
 #### Wednesday, April 13th
-* Advanced Mapping techniques with D3.js and Keppler.gl
-* Keppler.gl mapping exercise
+* Creating custom tiles
+* Working with MapboxGLSL
+* Custom tile exercise
 
 ## Section - Mining & Extraction
 
@@ -548,6 +561,7 @@ __ASSIGNED__
     * [Tim Maughan, "The Dystopian Lake Filled By the World's Tech Lust", 2015](https://www.bbc.com/future/article/20150402-the-worst-place-on-earth)
 
     * [Josh Lepawsky, "What E-Waste Journalism Gets Wrong"](https://thereader.mitpress.mit.edu/what-e-waste-journalism-gets-wrong/)
+
 * **WATCH**
   * [Josh Lepawsky, "Reassembling Rubbish & Worlding Electronic Waste", 2017](https://www.youtube.com/watch?v=Yr0MwogZdkA)
 
@@ -559,8 +573,8 @@ __ASSIGNED__
 
 #### Wednesday, April 20th
 
-**PROJECT 3 DUE**
-Project Presentations and Critique
+* Advanced Mapping techniques with D3.js and Keppler.gl
+* Keppler.gl mapping exercise
 
 ## Section - Waste & Disposal
 
@@ -577,7 +591,7 @@ __ASSIGNED__
     * [Jennifer Baichwal, "Manufactured Landscapes", 2006](https://archive.org/details/ManufacturedLandscapes_201902)
 
 * **OPTIONAL READING**  
-    * IF THERE IS TIME [Josh Lepawsky, "Reassembling Rubbish](https://mitpress.mit.edu/books/reassembling-rubbish)
+    * [Josh Lepawsky, "Reassembling Rubbish](https://mitpress.mit.edu/books/reassembling-rubbish)
 
 #### Wednesday, April 27th
 * Creative Mapping exercise & mapping as art practice
@@ -610,6 +624,9 @@ __ASSIGNED__
 * **READING**
     * [Ellyn Gaydos, "In the Shadow of Big Blue", 2019](https://logicmag.io/nature/in-the-shadow-of-big-blue)
     * [Winona Laduke, Deborah E. Cowen, "Beyond Wiindigo Infrastructure, April 2020](https://read.dukeupress.edu/south-atlantic-quarterly/article-abstract/119/2/243/164111/Beyond-Wiindigo-Infrastructure?redirectedFrom=fulltext)
+
+* **OPTIONAL VIEWING**
+    * [Sacrifice Zone](https://lav.io/projects/endicott/)
 
 #### Wednesday, May 11th
 In Class Work Session

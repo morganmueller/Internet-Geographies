@@ -1,10 +1,10 @@
-## Week 1: Course Introductions and Overview
+# Week 1: Course Introductions and Overview
 
 > "When we don't know about the communication infrastructures that support our network society, they tend to remain beyond the limits of public consideration or political entanglement." - Parks (2009)
 
 > "There's an implicit assumption in these images that the Internet's physical spaces are privileged spaces, behind locked doors with retina scanners and high gates." - Burrington (2016)
 
-## Monday
+## This Week's Resources
 
 ### Slides
 * ↳ [Class 1 Slides](https://docs.google.com/presentation/d/1hvi92U5LN0t0nWjT-BF9bOYVDusGn-9Gx-YxW8WzagU/edit?usp=sharing)
@@ -12,17 +12,19 @@
  * ↳ [In Class Notes](https://docs.google.com/document/d/1dxq839nT1Z2mDGHmaRtfZcHJM9UhutEWe7FWej7Q_2g/edit?usp=sharing)
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing)
-## Topics
 
-### Course Overview & Syllabus 
+## Monday Topics
+
+### Course Overview & Syllabus - 20 minutes
 * Introductions to each other!
 * Syllabus review and Q&A
 * Expectations and Community care
 
-### Choosing Reading Disussion Text Groups 
+### Choosing Reading Disussion Text Groups - 10 minutes
 Add your name under the desired week in the in class shared notes doc.
 
-### Introduction to the Tangible Internet
+### Introduction to the Tangible Internet - 45 minutes
+* What does cartography have to do with the internet?
 * What is the internet and where is it located?
     * Sites of Extraction
     * Cables & Routes
@@ -30,9 +32,8 @@ Add your name under the desired week in the in class shared notes doc.
     * Waste
     * These barely scratch the surface
 * Relating the internet to us
-* What does cartography have to do with the internet?
 
-### In Class Exercise - Time Permissive 
+### In Class Exercise - Time Permissive - 20 minutes
 
 
 
@@ -53,7 +54,6 @@ Add your name under the desired week in the in class shared notes doc.
 * Small Assignment:
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
     and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next week's class!
-
     <br>  
     Something that could be helpful for this assignment is to ask yourself how you have encountered the materiality of the internet in the past? And how can you reframe your focus to encounter the internet in new ways. Rob Walker's "How to Pay Attention" will be beneficial for this exercise.
 
@@ -64,6 +64,7 @@ Add your name under the desired week in the in class shared notes doc.
 * [Dunne and Raby, "A/B Manifesto"](http://dunneandraby.co.uk/content/projects/476/0)
 * [Basel Action Network](https://www.ban.org/trash-transparency)
 * [Hyperallergic, Richard Mosse’s Photos Exoticize Disaster](https://hyperallergic.com/641289/richard-mosse-photos-exoticize-disaster/)
+* [Ani Liu, Mind in the Machine](https://ani-liu.com/mind-in-machine)
 
 
 ---
@@ -71,7 +72,12 @@ Add your name under the desired week in the in class shared notes doc.
 ---
 ## Wednesday
 
-### Slides
-* ↳
+
 
 ### Technical Examples
+
+## Assigned (**Due Next Monday**)
+
+
+## Additional Resources & References
+* [Jia Zhang, Asian American Dot Density Map](https://centerforspatialresearch.github.io/asianAmericans/)
