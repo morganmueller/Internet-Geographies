@@ -55,7 +55,12 @@ Add your name under the desired week in the in class shared notes doc.
 
 * Small Assignment:
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
-    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next week's class!
+    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next week's class! 
+    <br>  
+    <br>  
+    Save your documentation on a web platform of your choosing with a brief write-up detailing the locations visited and the types of internet infrastructure observed. You can save the documentation on an
+    online blog (if you have one), personal webiste, google drive (make sure its shareable with me if you do this), a google doc or any other way you can share online!
+    <br>  
     <br>  
     Something that could be helpful for this assignment is to ask yourself how you have encountered the materiality of the internet in the past? And how can you reframe your focus to encounter the internet in new ways. Rob Walker's "How to Pay Attention" will be beneficial for this exercise.
 
@@ -69,6 +74,8 @@ Add your name under the desired week in the in class shared notes doc.
 * [Ani Liu, Mind in the Machine](https://ani-liu.com/mind-in-machine)
 * [Data Walking](https://www.datawalking.com/)
 
+## Small Assignment Submission
+* ↳ [Google Form](https://forms.gle/iGgFrR7T2CuuVsKG6)
 
 ---
 ---
