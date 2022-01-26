@@ -35,7 +35,7 @@ Add your name under the desired week in the in class shared notes doc.
     * These barely scratch the surface
 * Relating the internet to us
 
-### In Class Exercise - Time Permissive - 20 minutes
+<s>### In Class Exercise - Time Permissive - 20 minutes</s>
 
 
 
@@ -75,7 +75,7 @@ Add your name under the desired week in the in class shared notes doc.
 * [Data Walking](https://www.datawalking.com/)
 
 ## Small Assignment Submission
-* ↳ [Google Form](https://forms.gle/iGgFrR7T2CuuVsKG6)
+* ↳ [Google Form](https://forms.gle/kPLtT8429YazXGFL7)
 
 ---
 ---
