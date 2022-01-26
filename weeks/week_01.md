@@ -80,30 +80,32 @@ Add your name under the desired week in the in class shared notes doc.
 
 
 ## Schedule
-* Quick Check-in - 5 minutes
+* Quick Check-in - __5 minutes__
     * How is everyone feeling?
     * Has your first week been going well?
     * Is there anything from Monday's class that you felt could be elaborated on?
-* Additional Course Logistics - 5 minutes
+* Additional Course Logistics - __5 minutes__
     * Slack Channel & Aren.a
     * In class shared Notes Document
-* In class exercise (Monday's) - 15 minutes
-* Presentation - 60 minutes
+* In class exercise (Monday's) - __15 minutes__
+* Presentation - __60 minutes__
     * Thinking about Space in relation to us 
     * Into to cartography & Geo
     * Web Mapping Fundamentals 
     * Observable and Leaflet intro
-* Project 1 Assigned & Discussed - 10 minutes
+* Project 1 Assigned & Discussed - __10 minutes__
     
 
 
 ## Topics
-* [Leaflet Crash Course -- Will be uploaded in the next few days]()
+* [Leaflet.js tutorial by Geosandbox](https://joeyklee.github.io/geosandbox/)
 * [Observable](https://observablehq.com/)
 * [Leaflet](https://leafletjs.com/)
+* In Class observable walkthrough -- Will be added in the next day or so.
 
 ## Main Learning Resources
 * [Observable Documentation](https://observablehq.com/@observablehq/documentation#threeEssentialCharts)
+* [Learn Leaflet.js](https://www.youtube.com/playlist?list=PLDmvslp_VR0xjh7wGMNd_1kk0zUox6Sue)
 
 
 
@@ -115,5 +117,6 @@ Add your name under the desired week in the in class shared notes doc.
 * [Geo Data Types](https://www.axismaps.com/guide/level-of-measurement)
 * [Raster v. Vector Data](https://gisgeography.com/spatial-data-types-vector-raster/)
 * [Spatial Joins](https://gisgeography.com/spatial-join/)
-* [Tile Mill](https://tilemill-project.github.io/tilemill/)
-
+* [TileMill](https://tilemill-project.github.io/tilemill/) -- Allows you to design web maps using custom data
+* [CartoCSS](https://cartocss.readthedocs.io/en/latest/) -- Language for Map design, similar to CSS
+* [OpenStreetMap](https://www.openstreetmap.org/)
