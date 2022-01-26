@@ -2,7 +2,7 @@
 
 ## Background
 Familiarity with multiple tools is critical for creating web maps and programming in general. While one tool may be great at a certain task, another tool could be great at a different one.
-
+We're going to practice getting comfortable with multiple mapping tools and using publically accessible data!
 
 
 
@@ -11,7 +11,7 @@ The purpose of this first assignment is to get you comfortable with four things:
 1. Developing a workflow for prototyping and creating web maps (and visualizing data in general!)
 2. Using a few basic web mapping tools in combination with each other
 3. Finding, cleaning, and using publically available data
-4. Visualizing that scraped data on a map with additional styling and interactive layering 
+4. Visualizing that found data on a map with additional styling and interactive layering
 
 
 ## Step-by-Step
@@ -28,7 +28,10 @@ The purpose of this first assignment is to get you comfortable with four things:
 * Step 3: Start Mapping with Leaflet.js
     * Use Leaflet.js to create the first map
     * Iterate on the style in Leaflet if you would like!
-* Step 4: Translate your map from Leaflet.js to either D3.js or MapboxGLSL.
+* Step 4: Translate your map from Leaflet.js to either D3.js.
+* **Extra Credit** * Translate the map using a third tool.
+    * You can try [Kepler.gl](https://kepler.gl/)
+    * Or you can try [Mapbox](https://docs.mapbox.com/help/tutorials/?product=Mapbox+GL+JS)
 
 
 ## Resources

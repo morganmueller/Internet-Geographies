@@ -102,6 +102,8 @@ Add your name under the desired week in the in class shared notes doc.
 * [Observable](https://observablehq.com/)
 * [Leaflet](https://leafletjs.com/)
 
+## Main Learning Resources
+* [Observable Documentation](https://observablehq.com/@observablehq/documentation#threeEssentialCharts)
 
 
 
@@ -113,4 +115,5 @@ Add your name under the desired week in the in class shared notes doc.
 * [Geo Data Types](https://www.axismaps.com/guide/level-of-measurement)
 * [Raster v. Vector Data](https://gisgeography.com/spatial-data-types-vector-raster/)
 * [Spatial Joins](https://gisgeography.com/spatial-join/)
+* [Tile Mill](https://tilemill-project.github.io/tilemill/)
 
