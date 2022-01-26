@@ -6,14 +6,16 @@
 
 ## This Week's Resources
 
-### Slides
+### Slides & Notes 
 * ↳ [Class 1 Slides](https://docs.google.com/presentation/d/1hvi92U5LN0t0nWjT-BF9bOYVDusGn-9Gx-YxW8WzagU/edit?usp=sharing)
 ### In Class Shared Notes
  * ↳ [In Class Notes](https://docs.google.com/document/d/1dxq839nT1Z2mDGHmaRtfZcHJM9UhutEWe7FWej7Q_2g/edit?usp=sharing)
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing)
 
-## Monday Topics
+## Monday 
+
+## Topics
 
 ### Course Overview & Syllabus - 20 minutes
 * Introductions to each other!
@@ -77,11 +79,38 @@ Add your name under the desired week in the in class shared notes doc.
 
 
 
+## Schedule
+* Quick Check-in - 5 minutes
+    * How is everyone feeling?
+    * Has your first week been going well?
+    * Is there anything from Monday's class that you felt could be elaborated on?
+* Additional Course Logistics - 5 minutes
+    * Slack Channel & Aren.a
+    * In class shared Notes Document
+* In class exercise (Monday's) - 15 minutes
+* Presentation - 60 minutes
+    * Thinking about Space in relation to us 
+    * Into to cartography & Geo
+    * Web Mapping Fundamentals 
+    * Observable and Leaflet intro
+* Project 1 Assigned & Discussed - 10 minutes
+    
 
-### Technical Examples
 
-## Assigned (**Due Next Monday**)
+## Topics
+* [Leaflet Crash Course -- Will be uploaded in the next few days]()
+* [Observable](https://observablehq.com/)
+* [Leaflet](https://leafletjs.com/)
+
+
 
 
 ## Additional Resources & References
+* [Maptime.io - Anatomy of a web map](http://maptime.io/anatomy-of-a-web-map/#0)
 * [Jia Zhang, Asian American Dot Density Map](https://centerforspatialresearch.github.io/asianAmericans/)
+* [ Web Map Projections](https://www.jasondavies.com/maps/transition/)
+* [Agnes Cameron, Gary Zhexi Zhang](http://root.schloss-post.com/)
+* [Geo Data Types](https://www.axismaps.com/guide/level-of-measurement)
+* [Raster v. Vector Data](https://gisgeography.com/spatial-data-types-vector-raster/)
+* [Spatial Joins](https://gisgeography.com/spatial-join/)
+
