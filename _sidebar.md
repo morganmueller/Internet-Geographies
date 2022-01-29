@@ -10,6 +10,7 @@
     * [Final Project/Paper](projects/final.md)
 
 * Tutorials & Guides
+    * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
 
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)
