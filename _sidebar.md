@@ -9,6 +9,7 @@
     * [Project 2](projects/project_01.md)
     * [Final Project/Paper](projects/final.md)
 
+* Tutorials & Guides
 
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)

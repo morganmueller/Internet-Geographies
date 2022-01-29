@@ -9,7 +9,7 @@
 ### Slides & Notes 
 * ↳ [Class 1 Slides](https://docs.google.com/presentation/d/1hvi92U5LN0t0nWjT-BF9bOYVDusGn-9Gx-YxW8WzagU/edit?usp=sharing)
 ### In Class Shared Notes
- * ↳ [In Class Notes](https://docs.google.com/document/d/1dxq839nT1Z2mDGHmaRtfZcHJM9UhutEWe7FWej7Q_2g/edit?usp=sharing)
+* ↳ [In Class Notes](https://docs.google.com/document/d/1dxq839nT1Z2mDGHmaRtfZcHJM9UhutEWe7FWej7Q_2g/edit?usp=sharing)
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing)
 
@@ -55,7 +55,7 @@ Add your name under the desired week in the in class shared notes doc.
 
 * Small Assignment:
    * Using this week's readings as a starting point - wander around your city/neighborhood/community
-    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next week's class! 
+    and identify three public components of networked infrastructure. Document the pieces through photography, sketching, 3d scanning etc. Try to research the components and learn how they are incorporated into the larger networked environment. We will discuss our findings in next week's class!
     <br>  
     <br>  
     Save your documentation on a web platform of your choosing with a brief write-up detailing the locations visited and the types of internet infrastructure observed. You can save the documentation on an
