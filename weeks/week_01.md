@@ -7,11 +7,14 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Class 1 Slides](https://docs.google.com/presentation/d/1hvi92U5LN0t0nWjT-BF9bOYVDusGn-9Gx-YxW8WzagU/edit?usp=sharing)
+* ↳ [Week 1 Slides](https://docs.google.com/presentation/d/1hvi92U5LN0t0nWjT-BF9bOYVDusGn-9Gx-YxW8WzagU/edit?usp=sharing)
 ### In Class Shared Notes
 * ↳ [In Class Notes](https://docs.google.com/document/d/1dxq839nT1Z2mDGHmaRtfZcHJM9UhutEWe7FWej7Q_2g/edit?usp=sharing)
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing)
+### Wednesday's In Class technical walkthrough
+* ↳* [In Class observable walkthrough](observablehq.com/@morganbm123/introduction-to-observable-and-leaflet-js).
+
 
 ## Monday 
 
@@ -102,13 +105,10 @@ Add your name under the desired week in the in class shared notes doc.
     * Observable and Leaflet intro
 * Project 1 Assigned & Discussed - __10 minutes__
     
-
-
 ## Topics
 * [Leaflet.js tutorial by Geosandbox](https://joeyklee.github.io/geosandbox/)
 * [Observable](https://observablehq.com/)
 * [Leaflet](https://leafletjs.com/)
-* In Class observable walkthrough -- Will be added in the next day or so.
 
 ## Main Learning Resources
 * [Observable Documentation](https://observablehq.com/@observablehq/documentation#threeEssentialCharts)

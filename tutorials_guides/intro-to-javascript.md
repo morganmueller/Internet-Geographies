@@ -87,14 +87,9 @@ In JavaScript, simple strings can be defined in either single (') or double (").
 
 Boolean values can be applied to logical operators.
 
-- &&: AND operator. True only if both values are true. 
-- ||: OR operator. True if one or both values are true.
-- !: NOT operator. True if statement is false.Boolean values can be applied to logical operators.
-
-- &&: AND operator. True only if both values are true. 
-- ||: OR operator. True if one or both values are true.
-- !: NOT operator. True if statement is false.
-
+- `&&`: AND operator. True only if both values are true. 
+- `||`: OR operator. True if one or both values are true.
+- `!`: NOT operator. True if statement is false.Boolean values can be applied to logical operators.
 
 ### Arrays
 Arrays are special objects in JavaScript that store multiple values, and are defined by [square brackets]. We've seen these before, and should be comfortable using them. You can refer to a specific value in an array using an index number (remember, it is 0-indexed).
