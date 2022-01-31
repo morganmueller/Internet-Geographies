@@ -299,8 +299,8 @@ __ASSIGNED__
     * [Shannon Mattern, "Where Code Meets Concrete", Sep 2019](https://urbanomnibus.net/2019/09/where-code-meets-concrete/)
     * [Andrew Blum, "Tubes", 2012, Chapter 2](https://bobcat.library.nyu.edu/primo-explore/fulldisplay?docid=nyu_aleph003634157&context=L&vid=NS2-NUI&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,andrew%20blum%20tubes&offset=0)
 
-* **READING DUE WEDNESDAY**
-    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
+*<s>**READING DUE WEDNESDAY**
+    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) </s> -- moved back one week
 
 * **OPTIONAL READING**
     * [Greta Byrum, "Building the People's Internet"](https://urbanomnibus.net/2019/10/building-the-peoples-internet/)
@@ -331,6 +331,9 @@ __ASSIGNED__
 * **READING**
     * [Shannon Mattern, "Cloud and Field", Aug 2014](https://placesjournal.org/article/cloud-and-field/)
     * [Jennifer Gabrys, "Becoming Planetary", Oct 2018](https://www.are.na/block/7025809)
+
+**READING DUE WEDNESDAY**
+    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 
 * **WATCH**
     * [Keller Easterling, "Extrastatecraft" Keynote at GSD](https://www.youtube.com/watch?v=SaKoIP5qH8E&t=3433s)

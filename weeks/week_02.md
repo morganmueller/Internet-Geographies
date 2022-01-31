@@ -20,6 +20,7 @@
 * Quick Check-in - __5 minutes__
     * How was the small assignment?
     * Did the reading amount feel okay?
+    * Discussion leads for next week
     * Anything from last week that you'd like to have a refresher on?
 * Small Assignment discussion and mini-presentations - __20 minutes__
     * Some main themes people picked up on from the assignment
@@ -32,8 +33,7 @@
     * Setting up an environment (code editors)
     * Variables, data types, functions, more
 * Ending Statements -  __4ish minutes__
-    * Next Monday's discussion leads assigned
-
+    * Wednesday's plan
 ## Assigned (**Due Next Monday**)
 * **READING**
     * [Paul Dourish, "Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet"](https://dourish.com/publications/2015/NotTheInternet.pdf)
