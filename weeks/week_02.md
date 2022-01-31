@@ -1,5 +1,8 @@
 # Week 2
 
+> “Why “visit” the Internet? Why contemplate the intercontinental and nano-scale mechanisms through which it operates?” ― Mattern (2013)
+
+> "To be online was to be disembodied, reduced to eyes and fingertips." - Blum (2012)
 
 
 ## This Week's Resources
@@ -11,16 +14,7 @@
 ### Reading Response Google Doc
 * ↳ [Response Document](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing)
 
-
-
-
 ## Monday
-
-> “Why “visit” the Internet? Why contemplate the intercontinental and nano-scale mechanisms through which it operates?” ― Mattern (2013)
-
-> "To be online was to be disembodied, reduced to eyes and fingertips." - Blum (2012)
-
-
 
 ## Schedule
 * Quick Check-in - __5 minutes__
@@ -29,17 +23,16 @@
     * Anything from last week that you'd like to have a refresher on?
 * Small Assignment discussion and mini-presentations - __20 minutes__
     * Some main themes people picked up on from the assignment
-    * 3 -5 people share screens and give a <4 minute description of their observations
+    * 3 to 5 people share screens and give a < 4 minute description of their observations 
 * Presentation/Reading Discussion - __60 minutes__
     * Tubes & Infrastructure
+    * Situated knowledge in relation to infrastructure
     * 60 Hudson St. Mini Documentary
 *  Brief Introduction to Javascript (not in observable) - __20 minutes__
-    * Thinking about Space in relation to us
-    * Setting up an environment
+    * Setting up an environment (code editors)
     * Variables, data types, functions, more
-    * VScode & Sublime text
-* Project 1 Assigned & Discussed - __10 minutes__
-
+* Ending Statements -  __4ish minutes__
+    * Next Monday's discussion leads assigned
 
 ## Assigned (**Due Next Monday**)
 * **READING**
@@ -55,3 +48,7 @@
 
     ## Additional Resources & References
     * [Bundled, Buried & Behind Closed Doors](https://vimeo.com/30642376)
+    * [GeoTraceroute](https://geotraceroute.com/?node=1883&host=nyc.gov)
+    * [Redlines](https://redlines.network/) -- Try using a traceroute tool (graphical or not) to see the connection between your device and one of the hosted sites!
+    * [Jeroen van Loon, Permanent Data](https://jeroenvanloon.com/permanent-data/)
+    * [Lydia Jessup, Urban Interfaces](https://www.lydiajessup.me/#/urban-interfaces/)

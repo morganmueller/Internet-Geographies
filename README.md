@@ -284,7 +284,7 @@ __ASSIGNED__
 
 ## Section - A Tangible Internet
 
-### Week 2 – Code & Clay (**ONLINE**)
+### Week 2 – Internet as Infrastructure (**ONLINE**)
 
 #### Monday, January 31th
 * **Small project group showing/discussion**
