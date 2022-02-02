@@ -52,3 +52,27 @@
     * [Redlines](https://redlines.network/) -- Try using a traceroute tool (graphical or not) to see the connection between your device and one of the hosted sites!
     * [Jeroen van Loon, Permanent Data](https://jeroenvanloon.com/permanent-data/)
     * [Lydia Jessup, Urban Interfaces](https://www.lydiajessup.me/#/urban-interfaces/)
+
+
+## Wednesday
+
+
+## Schedule
+* Quick Check-in - __5 minutes__
+    * Anything from Monday you'd like to discuss more?
+    * Clarity on next Monday's discussion lead if needed
+* Introduction to Javascript continued - __50 minutes__
+    * Variables & Data types
+    * Conditionals & Objects
+    * Arrays & Iterators
+    * Functions
+*  In Class Programming Exercises - __30 minutes__
+    * Feel free to break out into groups or work solo
+    * Ask questions as they come up!
+    * If you want to use the shared notes document to collaborate feel free.
+* Quick Runthrough of Leaflet in P5.js - __10 minutes__
+* Ending Statements -  __4ish minutes__
+
+
+### In Class Programming Exercises
+* ↳ [Practice Exercies](./tutorials_guids/Exercises/week_02_exercises.md)
