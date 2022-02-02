@@ -16,7 +16,7 @@
 
 ## Monday
 
-## Schedule
+### Schedule
 * Quick Check-in - __5 minutes__
     * How was the small assignment?
     * Did the reading amount feel okay?
@@ -34,7 +34,8 @@
     * Variables, data types, functions, more
 * Ending Statements -  __4ish minutes__
     * Wednesday's plan
-## Assigned (**Due Next Monday**)
+
+### Assigned (**Due Next Monday**)
 * **READING**
     * [Paul Dourish, "Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet"](https://dourish.com/publications/2015/NotTheInternet.pdf)
     * [Lisa Parks, "Around the Antenna Tree: The politics of Infrastructural Visibility" ](http://www.flowjournal.org/2009/03/around-the-antenna-tree-the-politics-of-infrastructural-visibilitylisa-parks-uc-santa-barbara/)
@@ -46,18 +47,17 @@
     * [Zach Blas, "Contra-Internet", June 2016](https://www.e-flux.com/journal/74/59816/contra-internet/)
     * [Catherine D'Ignazio & Lauren Klein, "Data Feminism", Chapter 2](https://data-feminism.mitpress.mit.edu/pub/ei7cogfn/release/4)
 
-    ## Additional Resources & References
-    * [Bundled, Buried & Behind Closed Doors](https://vimeo.com/30642376)
-    * [GeoTraceroute](https://geotraceroute.com/?node=1883&host=nyc.gov)
-    * [Redlines](https://redlines.network/) -- Try using a traceroute tool (graphical or not) to see the connection between your device and one of the hosted sites!
-    * [Jeroen van Loon, Permanent Data](https://jeroenvanloon.com/permanent-data/)
-    * [Lydia Jessup, Urban Interfaces](https://www.lydiajessup.me/#/urban-interfaces/)
+### Additional Resources & References
+* [Bundled, Buried & Behind Closed Doors](https://vimeo.com/30642376)
+* [GeoTraceroute](https://geotraceroute.com/?node=1883&host=nyc.gov)
+* [Redlines](https://redlines.network/) -- Try using a traceroute tool (graphical or not) to see the connection between your device and one of the hosted sites!
+* [Jeroen van Loon, Permanent Data](https://jeroenvanloon.com/permanent-data/)
+* [Lydia Jessup, Urban Interfaces](https://www.lydiajessup.me/#/urban-interfaces/)
 
 
 ## Wednesday
 
-
-## Schedule
+### Schedule
 * Quick Check-in - __5 minutes__
     * Anything from Monday you'd like to discuss more?
     * Clarity on next Monday's discussion lead if needed
@@ -72,13 +72,21 @@
     * If you want to use the shared notes document to collaborate feel free.
 * Quick Runthrough of Leaflet in the p5.js Web Editor - __10 minutes__
 * Ending Statements -  __4ish minutes__
+    * Do in class exercises/studio time like today's feel helpful?
+    * Would more take home problem sets be beneficial?
 
 
 ### In Class Programming Exercises
 * ↳ [Practice Exercies](../tutorials_guides/exercises/week_02_excercises.md)
 
 
-## Additional Resources & References
+### Assigned (**Due Next Wednesday**)
+* Review both [The Modern Javascript Tutorial](https://javascript.info/) and * [Minimal Introduction to Javascript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable) prior to next week's class. Focus on grasping the fundamentals of data types, arrays, objects, conditional, functions, and iterators! Come prepared with questions from the reading.
+
+
+### Additional Resources & References
 * [Mozilla Developer Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [Codecademy](https://www.codecademy.com/) -- The p5.js course is free! (I was actually part of team that developed it)
+* [The Modern Javascript Tutorial](https://javascript.info/)
+* [Minimal Introduction to Javascript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable) 

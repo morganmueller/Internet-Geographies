@@ -291,7 +291,6 @@ __ASSIGNED__
 * Reading Discussion
 * Cartography 101 continued
 
-
 __ASSIGNED__
 * **READING**
     * [Paul Dourish, "Not The Internet, but This Internet: How Othernets Illuminate Our Feudal Internet"](https://dourish.com/publications/2015/NotTheInternet.pdf)
@@ -312,8 +311,9 @@ __ASSIGNED__
     * [James Bridle, "Citizen Ex](http://citizen-ex.com/stories)
 
 #### Wednesday, February 2nd
+* Javascript Basics Continued
 * Introduction to Web Mapping Continued (Leaflet.js) 
-* Implosion Project explanation
+
 
 __ASSIGNED__
 * Take home Implosion Project
@@ -324,7 +324,6 @@ __ASSIGNED__
 
 #### Monday, February 7th
 * Reading Discussion
-* Implosion exercise continued
 
 __ASSIGNED__
 
@@ -348,6 +347,7 @@ __ASSIGNED__
 
 
 #### Wednesday, February 9th
+* Implosion Project explanation
 * Mapbox & Google Maps API
 * Overview of publically available data and how to clean data
 * Using publically available datasets for mapping
