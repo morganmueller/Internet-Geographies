@@ -16,7 +16,13 @@
 
 ## Monday
 
-### Schedule
+### Topics
+* What is infrastructure?
+* How can we view infrastructure?
+* What are some undlerying components of networks?
+* Brief introduction to JS outside of Observable.
+
+## Schedule
 * Quick Check-in - __5 minutes__
     * How was the small assignment?
     * Did the reading amount feel okay?
@@ -57,7 +63,12 @@
 
 ## Wednesday
 
-### Schedule
+### Topics
+* Javascript Funadmentals
+* Using Leaflet outside of Observable
+* JS Practice Problem set
+
+## Schedule
 * Quick Check-in - __5 minutes__
     * Anything from Monday you'd like to discuss more?
     * Clarity on next Monday's discussion lead if needed

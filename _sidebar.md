@@ -18,4 +18,4 @@
     <!-- * [Readings & Other Beneifical Works](resources/readings) -->
 
 * Technical Exercises
-    * [Javascript Funamentals](tutorials_guides/exercises/week_02_exercises.md)
+    * [Javascript Funamentals](tutorials_guides/exercises/week_02_excercises.md)
