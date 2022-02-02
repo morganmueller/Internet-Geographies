@@ -17,3 +17,5 @@
     * [Mapping Projects & Artworks](resources/projects_and_artworks.md)
     <!-- * [Readings & Other Beneifical Works](resources/readings) -->
 
+* Technical Exercises
+    * [Javascript Funamentals](tutorials_guides/exercises/week_02_exercises.md)

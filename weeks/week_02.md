@@ -70,9 +70,15 @@
     * Feel free to break out into groups or work solo
     * Ask questions as they come up!
     * If you want to use the shared notes document to collaborate feel free.
-* Quick Runthrough of Leaflet in P5.js - __10 minutes__
+* Quick Runthrough of Leaflet in the p5.js Web Editor - __10 minutes__
 * Ending Statements -  __4ish minutes__
 
 
 ### In Class Programming Exercises
 * ↳ [Practice Exercies](../tutorials_guides/exercises/week_02_excercises.md)
+
+
+## Additional Resources & References
+* [Mozilla Developer Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Coding train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
+* [Codecademy](https://www.codecademy.com/) -- The p5.js course is free! (I was actually part of team that developed it)

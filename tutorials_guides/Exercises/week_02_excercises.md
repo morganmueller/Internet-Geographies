@@ -24,12 +24,13 @@
 
 
 6. Lookup the value for `movie` in the `movieDir` object literal.
+
 ```js
+
 movieDir = {
     director: 'Harun Farocki',
     movie: 'Still Life',
     date: '1997'
-
 };
 ```
 
@@ -42,6 +43,6 @@ movieDir = {
 
 `const dogBreeds = ['Malamute', 'Akita', 'Terrier', 'Irish Wolfhound', 'Vizsla', 'Kelpie', 'Saint Bernard', 'Shiba Inu', 'Shih Tzu'];`
 
-10. BONUS: Loop through the `dogBreeds` array and create a new array with the dogs listed in alphabetical order. Note this will require a higher order array method that we didn't cover! Check out the mozilla docs for help: [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+10. __BONUS__: Loop through the `dogBreeds` array and create a new array with the dogs listed in alphabetical order. Note this will require a higher order array method that we didn't cover! Check out the mozilla docs for help: [link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
-11. BONUS: revisit the `converter()` function from question 9 and write it as an arrow function.
+11. __BONUS__: revisit the `converter()` function from question 9 and write it as an arrow function.
