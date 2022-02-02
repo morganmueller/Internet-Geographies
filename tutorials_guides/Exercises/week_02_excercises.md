@@ -1,6 +1,6 @@
 # Javascript Exercises
 
- The goal of this problem set is to get you comfortable with the basic elements of programming in Javascript. try not to google for answer to the problem but instead, if you need assistance, try searching for details on how different components work and see if that can assist you. I would recommend using the Mozilla developer documentation for assistance. Linked [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ The goal of this problem set is to get you comfortable with the basic elements of programming in Javascript. Try not to google for answer to the problem but instead, if you need assistance, try searching for details on how different components work and see if that can assist you. I would recommend using the Mozilla developer documentation for assistance. Linked [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 
