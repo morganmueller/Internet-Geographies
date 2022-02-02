@@ -75,4 +75,4 @@
 
 
 ### In Class Programming Exercises
-* ↳ [Practice Exercies](./tutorials_guids/Exercises/week_02_exercises.md)
+* ↳ [Practice Exercies](../tutorials_guides/exercises/week_02_excercises.md)
