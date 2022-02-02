@@ -22,7 +22,7 @@
 
 5. What is the 10th word in the array?
 
-6. Lookup the value for `movie` in the `movieDir` object literal.
+6. Lookup and print the value for `movie` in the `movieDir` object literal.
 
 ```js
 
@@ -33,7 +33,7 @@ movieDir = {
 };
 ```
 
-7. Add a `length` property to the `movieDir` object with a value of `58`.
+7. Add a `duration` variable to the `movieDir` object with a value of `58`.
 
 
 8. Create a function called `converter()` that will convert from Celsius to Farenheit. 
@@ -49,7 +49,7 @@ movieDir = {
 
 12. __BONUS__: revisit the `converter()` function from question 9 and write it as an arrow function.
 
-13. __BONUS__: In the following object, add key of `aptNum` and value  of `2C` to the inner address object.
+13. __BONUS__: In the following object, add a variable of `aptNum` and value of `2C` to the inner `address` object.
 
 ```js
 let person = {
