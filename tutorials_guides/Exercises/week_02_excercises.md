@@ -10,6 +10,7 @@
 - `let val2 = 30;`
 - `let isComplete = false;`
 - `let testVal;`
+- `const nums = []`
 
 2. Use a conditional to set the value of the `testVal` variable to be true if the `isComplete` variable, defined above, is `false`.
 
