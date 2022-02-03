@@ -123,9 +123,9 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | [WEEK 09](weeks/week_09.md) | Mar 21 & 23 | Supply Chains  | Umi, Reese, Daya D |
 | [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Supply Chains  | Trevor, Matthew, Cameron |
 | [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | Aidan, Earl |
-| [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | Alex, Morrea, Drex |
+| [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | Alex, Morrea |
 | [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Mining & Extraction | Maya Luna, Alex |
-| [WEEK 14](weeks/week_14.md) | APR 25 & 27 | Waste & Disposal | Reese, Drex, Trey|
+| [WEEK 14](weeks/week_14.md) | APR 25 & 27 | Waste & Disposal | Reese, Trey|
 | [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Waste & Disposal | Isabella, Ani |
 | [WEEK 16](weeks/week_16.md) | May 09 & 11 | Waste & Disposal  | Umi, Lilah|
 | [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 16  | **FINAL PROJECTS/PAPERS DUE** |  None |
