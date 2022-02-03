@@ -102,8 +102,8 @@ This semester is strange! We will be spending the first few weeks online and the
 * To be critical of the internet and its various workings.
 
 ## READING DISCUSSION LEADS
-
-This section will be updated with the reading discussion leads once they have been assigned
+Each week's reading discussion lead groups are posted in the below schedule. The week with the group member's names is the week they 
+will be presenting. They will present based on readings from the previous week.
 
 ## WEEKLY SCHEDULE
 
@@ -114,20 +114,20 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | :----         |  ----  | ---- | ---- |
 | [WEEK 01](weeks/week_01.md) | Jan 24 & 26 | A Tangible Internet | None |
 | [WEEK 02](weeks/week_02.md) | Jan 31 & Feb 02 | A Tangible Internet | None |
-| [WEEK 03](weeks/week_03.md) | Feb 07 & 09 | A Tangible Internet | **TBD** |
-| [WEEK 04](weeks/week_04.md) | Feb 14 & 16 | A Tangible Internet |  **TBD** |
-| [WEEK 05](weeks/week_05.md) | <s>Feb 21</s> & 23 | A Tangible Internet | **TBD** |
-| [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | A Tangible Internet | **TBD** |
-| [WEEK 07](weeks/week_07.md) | Mar 07 & 09 | Supply Chains  | **TBD** |
-| [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None|
-| [WEEK 09](weeks/week_09.md) | Mar 21 & 23 | Supply Chains  | **TBD**|
-| [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Supply Chains  | **TBD**|
-| [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | **TBD** |
-| [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | **TBD** |
-| [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Mining & Extraction | **TBD** |
-| [WEEK 14](weeks/week_14.md) | APR 25 & 27 | Waste & Disposal | **TBD** |
-| [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Waste & Disposal | **TBD** |
-| [WEEK 16](weeks/week_16.md) | May 09 & 11 | Waste & Disposal  | **TBD**|
+| [WEEK 03](weeks/week_03.md) | Feb 07 & 09 | A Tangible Internet | Earl, Aidan |
+| [WEEK 04](weeks/week_04.md) | Feb 14 & 16 | A Tangible Internet |  Milo, Trevor |
+| [WEEK 05](weeks/week_05.md) | <s>Feb 21</s> & 23 | A Tangible Internet | Trey, Ani, Lilah, Matthew |
+| [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | A Tangible Internet | Carson, Daya D, Morrea |
+| [WEEK 07](weeks/week_07.md) | Mar 07 & 09 | Supply Chains  | Maya Luna, Carson, Isabella |
+| [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None| 
+| [WEEK 09](weeks/week_09.md) | Mar 21 & 23 | Supply Chains  | Umi, Reese, Daya D |
+| [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Supply Chains  | Trevor, Matthew, Cameron |
+| [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | Aidan, Earl |
+| [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | Alex, Morrea, Drex |
+| [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Mining & Extraction | Maya Luna, Alex |
+| [WEEK 14](weeks/week_14.md) | APR 25 & 27 | Waste & Disposal | Reese, Drex, Trey|
+| [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Waste & Disposal | Isabella, Ani |
+| [WEEK 16](weeks/week_16.md) | May 09 & 11 | Waste & Disposal  | Umi, Lilah|
 | [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 16  | **FINAL PROJECTS/PAPERS DUE** |  None |
 
 ## PROJECTS
