@@ -60,6 +60,9 @@
 * [Jeroen van Loon, Permanent Data](https://jeroenvanloon.com/permanent-data/)
 * [Lydia Jessup, Urban Interfaces](https://www.lydiajessup.me/#/urban-interfaces/)
 
+<hr>
+<hr>
+
 
 ## Wednesday
 
