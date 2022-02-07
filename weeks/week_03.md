@@ -10,7 +10,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 2 Slides](https://docs.google.com/presentation/d/1UK1mvInKFvK1j5lTF6lEl4h1ufxn8CvsqtWIrwvlFwc/edit?usp=sharing)
+* ↳ [Week 3 Slides](https://docs.google.com/presentation/d/1UK1mvInKFvK1j5lTF6lEl4h1ufxn8CvsqtWIrwvlFwc/edit?usp=sharing)
 ### In Class Shared Notes
 * ↳ [In Class Notes](https://docs.google.com/document/d/1v2XqOosts9svJJ-VPiQWGzaDlGUvF5M6oRVBcvclF5c/edit?usp=sharing)
 ### Reading Response Google Doc
@@ -31,7 +31,7 @@
     * First in-person class!
     * General feelings?
     * Attendance
-    * __REMINDER:__ 5 Reading Responses
+    * __REMINDER:__ 5 Reading Responses (they'll sneak up on you)
     * Anything from last week that you'd like to have a refresher on?
 * Reading Discussion & Presentation - __70 minutes__
     * Digital Frictions (past, present, future)?
@@ -39,7 +39,7 @@
     * Modern consequences of early internet design
     * Community Frictions
     * TCP/IP & Packets
-*  Zach Blas, Contra-Internet  - __20 minutes__ 
+*  Zach Blas, Contra-Internet interview - __20 minutes__ 
     * Artist desribes his work and the larger themes he's pushing towards.
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
@@ -50,7 +50,7 @@
     * [Jennifer Gabrys, "Becoming Planetary", Oct 2018](https://www.are.na/block/7025809)
 
 * **WATCH**
-    * [Keller Easterling, "Extrastatecraft" Keynote at GSD](https://www.youtube.com/watch?v=SaKoIP5qH8E&t=3433s)
+    * [Keller Easterling, "Extrastatecraft" Keynote at Harvard GSD](https://www.youtube.com/watch?v=SaKoIP5qH8E&t=3433s)
 
 **READING DUE WEDNESDAY**
     * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
@@ -65,9 +65,11 @@
 * [UCLA Connection Lab (Internet Museum)](https://uclaconnectionlab.org/internet-museum/)
 * [Robert Voit New Trees](http://www.robertvoit.com/bilder/serie4_new_trees/index.php?id=1)
 * [ARE NEW YORK’S FREE LINKNYC INTERNET KIOSKS TRACKING YOUR MOVEMENTS?](https://theintercept.com/2018/09/08/linknyc-free-wifi-kiosks/)
-* [Zach Blas, Contra-Net](https://zachblas.info/works/contra-internet/)
+* [Zach Blas, Contra-internet](https://zachblas.info/works/contra-internet/)
+* [Contra-internet interview](https://www.youtube.com/watch?v=pjEzPQE6fuk)
 * [Paul Dourish, The city and the Feudal Internet: Examining institutional materialities ](https://vimeo.com/110232068)
 * [American Artist, Black Gooey Universe](https://americanartist.us/works/black-gooey-universe)
+*
 
 <hr>
 <hr>
