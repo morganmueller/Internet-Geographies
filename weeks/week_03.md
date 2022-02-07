@@ -40,7 +40,7 @@
     * Community Frictions
     * TCP/IP & Packets
 *  Zach Blas, Contra-Internet interview - __20 minutes__ 
-    * Artist desribes his work and the larger themes he's pushing towards.
+    * Artist desribes his work and the larger themes he's dealing with.
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
