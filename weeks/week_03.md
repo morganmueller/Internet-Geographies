@@ -31,7 +31,7 @@
     * First in-person class!
     * General feelings?
     * Attendance
-    * __REMINDER:__ 5 Reading Responses (they'll sneak up on you)
+    * __REMINDER__ 5 Reading Responses (they'll sneak up on you)
     * Anything from last week that you'd like to have a refresher on?
 * Reading Discussion & Presentation - __70 minutes__
     * Digital Frictions (past, present, future)?
@@ -69,7 +69,7 @@
 * [Contra-internet interview](https://www.youtube.com/watch?v=pjEzPQE6fuk)
 * [Paul Dourish, The city and the Feudal Internet: Examining institutional materialities ](https://vimeo.com/110232068)
 * [American Artist, Black Gooey Universe](https://americanartist.us/works/black-gooey-universe)
-*
+
 
 <hr>
 <hr>
