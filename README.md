@@ -114,19 +114,19 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | :----         |  ----  | ---- | ---- |
 | [WEEK 01](weeks/week_01.md) | Jan 24 & 26 | A Tangible Internet | None |
 | [WEEK 02](weeks/week_02.md) | Jan 31 & Feb 02 | A Tangible Internet | None |
-| [WEEK 03](weeks/week_03.md) | Feb 07 & 09 | A Tangible Internet | Earl, Aidan |
-| [WEEK 04](weeks/week_04.md) | Feb 14 & 16 | A Tangible Internet |  Milo, Trevor |
+| [WEEK 03](weeks/week_03.md) | Feb 07 & 09 | A Tangible Internet | <s>Earl, Aidan</s> |
+| [WEEK 04](weeks/week_04.md) | Feb 14 & 16 | A Tangible Internet |  Milo, Trevor, Earl |
 | [WEEK 05](weeks/week_05.md) | <s>Feb 21</s> & 23 | A Tangible Internet | Trey, Ani, Lilah, Matthew |
-| [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | A Tangible Internet | Carson, Daya D, Morrea |
+| [WEEK 06](weeks/week_06.md) | Feb 28 & Mar 02 | A Tangible Internet | Carson, Daya D, Aidan |
 | [WEEK 07](weeks/week_07.md) | Mar 07 & 09 | Supply Chains  | Maya Luna, Carson, Isabella |
 | [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None| 
 | [WEEK 09](weeks/week_09.md) | Mar 21 & 23 | Supply Chains  | Umi, Reese, Daya D |
 | [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Supply Chains  | Trevor, Matthew, Cameron |
-| [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | Aidan, Earl |
-| [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | Alex, Morrea |
+| [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | Aidan, Earl, Milo |
+| [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | Alex, Deni |
 | [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Mining & Extraction | Maya Luna, Alex |
 | [WEEK 14](weeks/week_14.md) | APR 25 & 27 | Waste & Disposal | Reese, Trey|
-| [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Waste & Disposal | Isabella, Ani |
+| [WEEK 15](weeks/week_15.md) | MAY 02 & 04 | Waste & Disposal | Isabella, Ani, Deni |
 | [WEEK 16](weeks/week_16.md) | May 09 & 11 | Waste & Disposal  | Umi, Lilah|
 | [FINAL PROJECTS/PAPERS DUE](weeks/week_17.md) | May 16  | **FINAL PROJECTS/PAPERS DUE** |  None |
 
