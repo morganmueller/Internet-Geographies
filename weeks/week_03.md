@@ -76,7 +76,7 @@
 
 ### Topics
 * Last week's problem set review
-* Continued Javascript Funadmentals
+* Continued Javascript Fundamentals
 * Using Leaflet outside of Observable
 * Another JS Practice Problem set
 
