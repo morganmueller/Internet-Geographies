@@ -4,7 +4,7 @@
 
 
 
-1. Write a function `min(a,b)` which returns the least of two numbers `a` and` b`.
+1. Write a function `min(a,b)` which returns the smallest of two numbers `a` and` b`.
 
 
 2. Write a function `pow(x,n)` that returns `x` in power `n`. Or, in other words, multiplies `x` by itself `n` times and returns the result.
@@ -39,7 +39,7 @@ ask(
 5. Create a function that reverses the following string `As the Zapatistas might say, let us approach the internet at the speed of dreams`.
 
 
-6. Retur only the even numbers from the following array
+6. Return only the even numbers from the following array
 ```js
 let onlyEven = [1, 2, 3,  4, 8, 16,  21, 45, 22, -12, 0, 53];
 ```
