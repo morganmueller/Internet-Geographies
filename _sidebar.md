@@ -13,9 +13,8 @@
 
 * Tutorials & Guides
     * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
-    * [Exercises](tutorials_guides/exercises)
-        * [Week 2 exercises](tutorials_guides/exercisesweek_02_excercises.md)
-        * [Week 3 exercises](tutorials_guides/exercisesweek_03_excercises.md)
+    * [Week 2 exercises](tutorials_guides/exercisesweek_02_excercises.md)
+    * [Week 3 exercises](tutorials_guides/exercisesweek_03_excercises.md)
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)
     * [Mapping Projects & Artworks](resources/projects_and_artworks.md)
