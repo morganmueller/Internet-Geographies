@@ -36,3 +36,10 @@ ask(
 
 ```
 
+5. Create a function that reverses the following string `As the Zapatistas might say, let us approach the internet at the speed of dreams`.
+
+
+6. Retur only the even numbers from the following array
+```js
+let onlyEven = [1, 2, 3,  4, 8, 16,  21, 45, 22, -12, 0, 53];
+```

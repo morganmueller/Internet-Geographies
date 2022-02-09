@@ -3,7 +3,7 @@
 
  At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). If you would like to choose a new site to revisit that is also acceptable but make sure to write an initial blurb about your reason for choosing the site and what is drawing you to it. 
  
-![Art of noticing](../images/noticing2.jpg "Art of Noticing graphic")
+![Art of noticing](../images/noticing2.png "Art of Noticing graphic")
 
 
  This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like. This does not need to be an intervention as much as it is for you to really spend time noticing and creatively recording what you notice.
