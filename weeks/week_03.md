@@ -52,8 +52,6 @@
 * **WATCH**
     * [Keller Easterling, "Extrastatecraft" Keynote at Harvard GSD](https://www.youtube.com/watch?v=SaKoIP5qH8E&t=3433s)
 
-**READING DUE WEDNESDAY**
-    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 
 
 * **OPTIONAL READING & VIEWING**
@@ -74,5 +72,55 @@
 <hr>
 <hr>
 
+## Wednesday
 
-<!-- Packet Switching Exercise - __20 minutes__ -- Might push to Wednesday -->
+### Topics
+* Last week's problem set review
+* Continued Javascript Funadmentals
+* Using Leaflet outside of Observable
+* Another JS Practice Problem set
+
+## Schedule
+* Quick Check-in - __5 minutes__
+    * Anything from Monday you'd like to discuss more?
+    * Next Monday's discussion lead
+* Last week's practice set review - __20 minutes__
+* Introduction to Javascript continued - __45 minutes__
+    * What from last week do we still have questions about?
+    * Deeper dive into booleans
+    * More Conditionals & Objects
+    * More Arrays & functions
+    * Setting up a code editor
+*  Runthrough of Leaflet in the p5.js Web Editor - __10 minutes__
+*  Studio time - __15 minutes__
+    * Research a few data interesting datasets
+    * Try getting leaflet up on your computer!
+    * Feel free to break out into groups or work solo
+    * Ask questions as they come up!
+    * If you want to use the shared notes document to collaborate feel free.
+* Ending Statements and Art of Noticing Assignment -  __10 minutes__
+    * Do in class exercises/studio time like today's feel helpful?
+    * Take home questions for tomorrow
+
+
+### In Class Programming Exercises
+* ↳ [Practice Exercies](../tutorials_guides/exercises/week_03_excercises.md)
+
+
+### Assigned (**Due Next Wednesday**)
+* Review both [The Modern Javascript Tutorial](https://javascript.info/) and * [Minimal Introduction to Javascript and Observable](https://observablehq.com/@uwdata/a-minimal-introduction-to-javascript-and-observable) prior to next week's class. Focus on grasping the fundamentals of data types, arrays, objects, conditional, functions, and iterators! Come prepared with questions from the reading.
+
+**READING DUE MONDAY**
+    * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
+
+* **SMALL ASSIGNMENT**
+    *  At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). This time the goal will be to practice the 'art of noticing,' focusing on the piece of internet infrastructure and creatively document what you notice. This documentation could be in the form of a field guide, audio field recording, journal or any other method you'd like.
+    
+    Some potential things to think about while at the location are how people interact with the piece of internet infrastructure, if at all, what dynamics it brings to the area it's located in, and if other non-human actors interact with it. We will spend a portion of **March 9th's** class discussing each student's documentation.
+
+
+
+### Additional Resources & References
+* [How To Pay Attention](https://medium.com/re-form/how-to-pay-attention-4751adb53cb6)
+* [How to do nothing](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb)
+* [Mapping and data Resources page](../resources/mapping_and_data.md)

@@ -330,8 +330,6 @@ __ASSIGNED__
 * **READING**
     * [Shannon Mattern, "Cloud and Field", Aug 2014](https://placesjournal.org/article/cloud-and-field/)
     * [Jennifer Gabrys, "Becoming Planetary", Oct 2018](https://www.are.na/block/7025809)
-
-**READING DUE WEDNESDAY**
     * [Joseph Dummit, "Writing The Implosion"](https://journal.culanth.org/index.php/ca/article/view/ca29.2.09/301) 
 
 * **WATCH**
@@ -347,10 +345,10 @@ __ASSIGNED__
 
 
 #### Wednesday, February 9th
-* Implosion Project explanation
-* Mapbox & Google Maps API
-* Overview of publically available data and how to clean data
-* Using publically available datasets for mapping
+* </s>Implosion Project explanation</s> -- Moved to next Monday
+* Continued JS fundamentals
+* Leaflet.js continued
+* Looking for good public data
 
 __ASSIGNED__
 * **SMALL ASSIGNMENT**
@@ -364,6 +362,8 @@ __ASSIGNED__
 
 #### Monday, February 14th
 * Reading Discussion
+* Implosion Project explanation
+
 * Small 'Art of Noticing' assignment check-in
 
 __ASSIGNED__
@@ -382,6 +382,9 @@ __ASSIGNED__
 
 #### Wednesday, February 16th
 * Continued work on web mapping fundamentals
+* Mapbox & Google Maps API
+* Overview of publically available data and how to clean data
+* Using publically available datasets for mapping
 * D3.js overview and in class exercise 
 
 ## Section - A Tangible Internet
@@ -503,7 +506,6 @@ __ASSIGNED__
 #### Wednesday, March 23rd
 
 * D3 & Vega-lite continued
-<!-- **Guest Speakers: [Miriam Matthiessen](https://miriammatthiessen.com/) & [Anne Lee Steele](https://aleesteele.com/)** -->
 
 ## Section - Supply Chains
 
@@ -526,6 +528,8 @@ __ASSIGNED__
     * [https://publiclab.org/](https://publiclab.org/)
 
 #### Wednesday, March 30th
+**Guest Speakers: [Miriam Matthiessen](https://miriammatthiessen.com/) & [Anne Lee Steele](https://aleesteele.com/)**
+
 * Using Javascript to work with landsat bands 
 * Combining Landsat bands for Remote Sensing
 
