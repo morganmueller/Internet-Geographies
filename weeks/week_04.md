@@ -43,12 +43,12 @@
 
 * **READING**
     * [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
-    Explore the accompanying website to "The Undersea Network." Be sure to note the choices made in representing relevant information and how the authors chose to move between
+    Explore the accompanying [website to "The Undersea Network."](http://surfacing.in/) Be sure to note the choices made in representing relevant information and how the authors chose to move between
     abstract network diagrams and very specific reference images and cable maps.
 
 ### Additional Resources & References
 * [Submarine Cable Map](https://www.submarinecablemap.com/)
-* [Surfacing](http://www.surfacing.in/) <br>
+* [Surfacing](http://www.surfacing.in/) 
 * [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)
 * [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
 * [Superflux Studios, Drone Aviary](https://superflux.in/index.php/work/drones/#)
