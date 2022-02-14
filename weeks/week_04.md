@@ -1,10 +1,10 @@
 # Week 4 - Scales, Spatialization, & Sensing
 
-> “'this desire to open the black box of infrastructure, to expand the visual vocabulary' plays into the Dark Cloud’s own paradigms of surveillance. What do we achieve by watching the watchers?” ― Amoore (2015)
+> “This desire to open the black box of infrastructure, to expand the visual vocabulary' plays into the Dark Cloud’s own paradigms of surveillance. What do we achieve by watching the watchers?” ― Amoore (2015)
 
-> "As the Zapatistas might say, let us approach the internet at the speed of dreams." - Blas (2016)
+> "Being planetary as praxis is a way to engage with the planetary-human joins that might also be re-imagined." - Gabrys (2018)
 
-> "How do particular sites and situations of digital friction create both challenges and opportunities for design, planning, and daily living in New York City (and elsewhere)? " - Mattern (2019)
+> "Yet the contemporary Cloud chasers, while conscientiously self-reflexive about their identities as artist-researchers, sometimes fail to publicly address the broader politics of their performance." - Mattern (2016)
 
 
 ## This Week's Resources
