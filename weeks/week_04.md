@@ -43,7 +43,7 @@
 
 * **READING**
     * [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
-    Explore the accompanying [website to "The Undersea Network."](http://surfacing.in/) Be sure to note the choices made in representing relevant information and how the authors chose to move between
+    * Explore the accompanying [website to "The Undersea Network."](http://surfacing.in/) Be sure to note the choices made in representing relevant information and how the authors chose to move between
     abstract network diagrams and very specific reference images and cable maps.
 
 ### Additional Resources & References
