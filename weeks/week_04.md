@@ -28,7 +28,8 @@
 * Quick Check-in - __5 minutes__
     * General feelings?
     * Anything from last week that you'd like to have a refresher on?
-* Reading Discussion & Presentation - __70 minutes__
+* Reading Discussion & Presentation - __45 minutes__
+    * Group Leaders 
     * The Cloud 
     * Field Guides 
     * Planetary thinking
@@ -40,13 +41,13 @@
 ### Assigned (**Due Next Wednesday**)
 
 * **READING**
-
     * [Nicole Starosielski, "The Undersea Network" ](https://www.are.na/block/3097730)
     Explore the accompanying website to "The Undersea Network." Be sure to note the choices made in representing relevant information and how the authors chose to move between
     abstract network diagrams and very specific reference images and cable maps.
 
-* **RESOURCES**
-    * [Submarine Cable Map](https://www.submarinecablemap.com/)
-    * [Surfacing](http://www.surfacing.in/) <br>
-    * [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)
-    * [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
+### Additional Resources & References
+* [Submarine Cable Map](https://www.submarinecablemap.com/)
+* [Surfacing](http://www.surfacing.in/) <br>
+* [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)
+* [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
+* [Superflux Studios, Drone Aviary](https://superflux.in/index.php/work/drones/#)
