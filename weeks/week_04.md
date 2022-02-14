@@ -28,6 +28,7 @@
 * Quick Check-in - __5 minutes__
     * General feelings?
     * Anything from last week that you'd like to have a refresher on?
+    * Art of noticing check in
 * Reading Discussion & Presentation - __45 minutes__
     * Group Leaders 
     * The Cloud 
