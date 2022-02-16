@@ -58,24 +58,26 @@
 ## Wednesday
 
 ### Topics
-* 
+* Types of Maps in Leaflet
+* Using external geojson files in Leaflet
+* In class earthquake data studio
 
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Anything from Monday you'd like to discuss more?
-* Last week's practice set review - __10 minutes__
-* Making maps with Leaflet - __45 minutes__
-    * 
-*  Studio time - __15 minutes__
-    * Research a few data interesting datasets
-    * Try getting leaflet up on your computer!
-    * Feel free to break out into groups or work solo
-    * Ask questions as they come up!
-    * If you want to use the shared notes document to collaborate feel free.
-* Ending Statements and Art of Noticing Assignment -  __10 minutes__
-    * Do in class exercises/studio time like today's feel helpful?
-    * Take home questions for tomorrow
+* Last week's practice set review - __5 minutes__
+* Making maps with Leaflet - __30 minutes__
+    * Examples Review
+    * Chloropleth Map
+    * Heat Map
+*  Leaflet Earthquake Data Studio - __45 minutes__
+    * Follow the prompts in the studio guide to create the earthquake map!
+    * If you have trouble collaborate and feel free to use Google!
+* Studio Review -  __10 minutes__
 
 
-### Studio
-* ↳ [Week 4 Studio](../tutorials_guides/exercises/week_04_studio/week_04_studio.md)
+
+### Studio Links
+* ↳ [Week 4 Studio](../tutorials_guides/exercises/week_04_studio/README.md)
+* ↳ [Leaflet sandbox](https://joeyklee.github.io/geosandbox/hello-leaflet.html#section6)
+* ↳ [Maptime Boston](https://maptimeboston.github.io/leaflet-intro/)

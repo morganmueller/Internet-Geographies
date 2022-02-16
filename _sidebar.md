@@ -14,12 +14,13 @@
 
 * Tutorials & Guides
     * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
-    * [Week 2 exercises](tutorials_guides/exercises/week_02_excercises.md)
-    * [Week 3 exercises](tutorials_guides/exercises/week_03_excercises.md)
+    
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)
     * [Mapping Projects & Artworks](resources/projects_and_artworks.md)
     <!-- * [Readings & Other Beneifical Works](resources/readings) -->
 
 * Technical Exercises
-    * [Javascript Fundamentals](/tutorials_guides/exercises/week_02_excercises.md)
+    * [Week 2 exercises](tutorials_guides/exercises/week_02_excercises.md)
+    * [Week 3 exercises](tutorials_guides/exercises/week_03_excercises.md)
+    * [Week 4 Studio](tutorials_guides/exercises/week_04_studio/README.md)
