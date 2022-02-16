@@ -52,3 +52,29 @@
 * [Evan Roth, "Landscape Series", 2016-present](http://www.evan-roth.com/~/works/landscapes/#hemisphere=west&strand=115)
 * [Trevor Paglen, "Landing Sites"](https://paglen.studio/2020/04/09/landing-sites/)
 * [Superflux Studios, Drone Aviary](https://superflux.in/index.php/work/drones/#)
+
+
+
+## Wednesday
+
+### Topics
+* 
+
+## Schedule
+* Quick Check-in - __5 minutes__
+    * Anything from Monday you'd like to discuss more?
+* Last week's practice set review - __10 minutes__
+* Making maps with Leaflet - __45 minutes__
+    * 
+*  Studio time - __15 minutes__
+    * Research a few data interesting datasets
+    * Try getting leaflet up on your computer!
+    * Feel free to break out into groups or work solo
+    * Ask questions as they come up!
+    * If you want to use the shared notes document to collaborate feel free.
+* Ending Statements and Art of Noticing Assignment -  __10 minutes__
+    * Do in class exercises/studio time like today's feel helpful?
+    * Take home questions for tomorrow
+
+
+### In Class Programming Exercises
