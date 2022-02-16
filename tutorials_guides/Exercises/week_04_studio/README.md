@@ -9,7 +9,7 @@ Try looking through both of these guides for assistance with getting setup with 
 
 ### Step 1: Downloading the Source Code
 
-Before you do anything else, you should download some source code I prepared. To download, go to the [repository on GitHub](https://github.com/RyanMullins/Geog461W.SP2014.Labs) and click the "Download ZIP" button along the right side of the screen (Figure 3.1). This will download a ZIP archive of the entire repository onto your machine. Unzip this archive and navigate to the _Lab2/Code_ directory. This directory contains a single file, yourNameHere-FireMap.html, open that file in your text editor (if you do not have one, I recommend [Sublime Text](http://www.sublimetext.com/2)). 
+Before you do anything else, you should download some source code I prepared. To download, go to the [repository on GitHub](https://github.com/morganmueller/Internet-Geographies/) and click the "Download ZIP" button along the right side of the screen (Figure 3.1). This will download a ZIP archive of the entire repository onto your machine. Unzip this archive and navigate to the [__week_04_studio__](https://github.com/morganmueller/Internet-Geographies/tree/master/tutorials_guides/Exercises/week_04_studio) directory. This directory contains a few files, `week_04_studio.html`, and `earthquares.js`. open `week_04_studio.html` in your text editor (if you do not have one, I recommend [Sublime Text](http://www.sublimetext.com/2)). 
 
 
 ```HTML

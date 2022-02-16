@@ -77,4 +77,5 @@
     * Take home questions for tomorrow
 
 
-### In Class Programming Exercises
+### Studio
+* ↳ [Week 4 Studio](../tutorials_guides/exercises/week_04_studio/week_04_studio.md)
