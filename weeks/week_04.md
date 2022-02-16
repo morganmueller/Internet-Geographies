@@ -59,6 +59,7 @@
 
 ### Topics
 * Types of Maps in Leaflet
+* Leaflet example maps walkthrough
 * Using external geojson files in Leaflet
 * In class earthquake data studio
 
@@ -83,4 +84,4 @@
 * ↳ [Maptime Boston](https://maptimeboston.github.io/leaflet-intro/)
 
 ### Additional Resources & References
-* [Leaflet Examples](https://github.com/morganmueller/Internet-Geographies/tree/master/tutorials_guides/leaflet_examples)
+* [Leaflet Examples](../tutorials_guides/leaflet_examples/README.md)
