@@ -14,6 +14,7 @@
 
 * Tutorials & Guides
     * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
+    * [Leaflet Examples](https://github.com/morganmueller/Internet-Geographies/tree/master/tutorials_guides/leaflet_examples)
     
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)

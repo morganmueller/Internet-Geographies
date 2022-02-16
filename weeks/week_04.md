@@ -81,3 +81,6 @@
 * ↳ [Week 4 Studio](../tutorials_guides/exercises/week_04_studio/README.md)
 * ↳ [Leaflet sandbox](https://joeyklee.github.io/geosandbox/hello-leaflet.html#section6)
 * ↳ [Maptime Boston](https://maptimeboston.github.io/leaflet-intro/)
+
+### Additional Resources & References
+* [Leaflet Examples](https://github.com/morganmueller/Internet-Geographies/tree/master/tutorials_guides/leaflet_examples)
