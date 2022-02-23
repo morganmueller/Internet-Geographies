@@ -5,6 +5,8 @@
     * [Week 2](weeks/week_02.md)
     * [Week 3](weeks/week_03.md)
     * [Week 4](weeks/week_04.md)
+    * [Week 5](weeks/week_05.md)
+
 
 * Projects
     * [Art of Noticing](projects/art-of-noticing.md)
