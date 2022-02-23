@@ -8,10 +8,6 @@ L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
 	maxZoom: 20
 }).addTo(map);
 
-let marker = L.marker([40.41889, -3.69194]).addTo(map);
-
-let circleMarker = L.circle([40.41889, -3.69194], 500).addTo(map);
-
 L.geoJson(statesData).addTo(map);
 
 // ['#f7fcfd','#e0ecf4','#bfd3e6','#9ebcda','#8c96c6','#8c6bb1','#88419d','#6e016b']
