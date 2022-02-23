@@ -52,7 +52,7 @@
     * [Ned Rossiter,"Imperial Infrastructures and Asia beyond Asia: Data Centres, State Formation and the Territoriality of Logistical Media"](https://twentynine.fibreculturejournal.org/wp-content/pdfs/FCJ-220NedRossiter.pdf)
     * [Sam Kidel, "Raving the Data Center"](https://www.ableton.com/en/blog/sam-kidel-raving-data-center/)
 
-**SMALL ASSIGNMENT**
+* **SMALL ASSIGNMENT**
     For Next Monday, come to class with some notes on at least two art works from the [Critical Studies of the Cloud](https://www.criticalstudiesofthe.cloud/db1) collection. We will begin the class by discussing 
     how artists have been able to critique internet infrastructures in different and oftentimes subversive ways to academics and journalists.
 
