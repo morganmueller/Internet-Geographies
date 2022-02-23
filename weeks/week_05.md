@@ -4,7 +4,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 4 Slides]()
+* ↳ [NO Week 5 Slides]()
 ### In Class Shared Notes
 * ↳ [In Class Notes](https://docs.google.com/document/d/1v2XqOosts9svJJ-VPiQWGzaDlGUvF5M6oRVBcvclF5c/edit?usp=sharing)
 ### Reading Response Google Doc
