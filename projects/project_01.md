@@ -21,6 +21,7 @@ The purpose of this first assignment is to get you comfortable with four things:
     * Do any cleaning or geoprocessing that needs to be done in order for that data to be ready to map.
     * This can be done in turf.js or another geoprocessing tool 
         * __NOTE: If you have to do any data processing my recommendation is to first try yourself but I am also available to assist!__
+    * __MAKE SURE TO ONLY USE .GEOJSON DATA FOR LEAFLET, NOT .CSV OR REGULAR .JSON__
 * Step 2: Assess the data you have and what you want to achieve with it.
     * It is important to think about what you want your data to say, or not to say.
     * The type of map you choose will affect how the data is read and understood
