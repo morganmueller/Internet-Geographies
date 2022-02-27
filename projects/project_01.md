@@ -28,9 +28,9 @@ The purpose of this first assignment is to get you comfortable with four things:
 * Step 3: Start Mapping with Leaflet.js
     * Use Leaflet.js to create the first map
     * Iterate on the style in Leaflet if you would like!
-* Step 4: Translate your map from Leaflet.js to either D3.js.
+* Step 4: Translate your map from Leaflet.js to either D3.js or [Kepler.gl](https://kepler.gl/).
 * **Extra Credit** * Translate the map using a third tool.
-    * You can try [Kepler.gl](https://kepler.gl/)
+    * You can try d3.js
     * Or you can try [Mapbox](https://docs.mapbox.com/help/tutorials/?product=Mapbox+GL+JS)
 
 
@@ -40,3 +40,7 @@ The purpose of this first assignment is to get you comfortable with four things:
 * [NYC Open Data](https://opendata.cityofnewyork.us/)
 * [Awesome Public Data](https://github.com/awesomedata/apd-core/tree/master/core)
 * [Open Weather Map](https://openweathermap.org/api)
+* [data.gov](https://data.gov/)
+* [Environmetal Data](https://www.epa.gov/environmental-topics/air-topics)
+* [Climate Data](https://www.ncei.noaa.gov/weather-climate-links#ghcn)
+* [NYC Taxi Timeseries Data](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
