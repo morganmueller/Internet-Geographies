@@ -69,7 +69,7 @@ For the first part of this studio you will download a csv file of the 2018 Centr
 * [2018 Central Park Squirrel Census](https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw)
 
 
-### Visualization 1: Point Mapping
+## Visualization 1: Point Mapping
 
 Add the downloaded squirrel census data to the base Kepler map by draagging the file over the add data field.
 
@@ -96,10 +96,9 @@ Your map should look something like this:
 ![add data](../../../images/kepler_point2.png)
 
 
-### Visualization 2: Heat Map
+## Visualization 2: Heat Map
 
-
-![heat map](../../../images/kepler_heat.png)
+This time the goal is to create a heat map of the squirrel Census Data
 
 To produce this visualization:
 1. Go to [https://kepler.gl/demo](https://kepler.gl/demo)
@@ -114,7 +113,31 @@ To produce this visualization:
 8. Export your map as an image!
 
 Your map should look something like this:
-![add data](./images/kepler_heat.png)
+![heat map](../../../images/kepler_heat.png)
+
+
+## Visualization 3: NYC Taxi Trips (Sample Data)
+
+Kepler's web GUI has a great set of sample data for us to play around with. For this last section we will be using the sample NYC taxi dataset.
+
+![Styling the arc layer](../../../images/taxi.png)
+
+To produce this visualization:
+1. Go to [https://kepler.gl/demo](https://kepler.gl/demo)
+2. select: **Try Sample Data**
+3. Choose NYC Taxi Trips
+4. toggle on the view for the `arc` layer titled: **pickup -> dropoff arc** // notice the symbol of the eye is currently x-ed out.
+5. toggle the down caret to view the layer styles
+   ![Styling the arc layer](../../../images/taxi_arc.png)
+   2. **color**:
+      1. set **source** color: blue
+      2. set **target** color: orange
+   3. **stroke**:
+      1. using the "three dots" to toggle down the stroke properties menu > select: **stroke based on**: > `trip_distance`
+6. Explore the **3D map** toggle button to see your map in 3D 
+7. Explore the interaction options for click and hover overs
+8. Export your map as an image!
+
 
 
 
@@ -130,4 +153,3 @@ In this guide, we took a quick look at kepler.gl's powerful features for visuali
 You now have a powerful, free and open source, web mapping tool in the back of your pocket. With such a tool you can already do a lot in terms of exploring data and showing and sharing data with your community. 
 
 
-Here is a final mapping example!  [Kepler UK Commute Demo](https://kepler.gl/demo/ukcommute)
