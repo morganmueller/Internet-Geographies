@@ -29,4 +29,4 @@
     * [Week 2 exercises](tutorials_guides/exercises/week_02_excercises.md)
     * [Week 3 exercises](tutorials_guides/exercises/week_03_excercises.md)
     * [Week 4 Studio](tutorials_guides/exercises/week_04_studio/README.md)
-    * [Week 6 Studio](tutorials_guides/exercises/week_06_studio/README.md)
+    * [Week 6 Studio](tutorials_guides/exercises/week_06_studio/Kepler_studio.md)
