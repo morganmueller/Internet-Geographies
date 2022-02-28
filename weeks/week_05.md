@@ -1,4 +1,4 @@
-# Week 4 - Scales, Spatialization, & Sensing
+# Week 5 - Undersea Networks & Terrestrial Cables
 
 
 ## This Week's Resources

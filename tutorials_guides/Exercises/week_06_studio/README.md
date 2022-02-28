@@ -92,14 +92,14 @@ To produce this visualization:
 
 
 Your map should look something like this:
-![add data](../images/kepler_point1.png)
-![add data](../images/kepler_point2.png)
+![add data](./images/kepler_point1.png)
+![add data](./images/kepler_point2.png)
 
 
 ### Visualization 2: Heat Map
 
 
-![heat map](../images/kepler_heat.png)
+![heat map](./images/kepler_heat.png)
 
 To produce this visualization:
 1. Go to [https://kepler.gl/demo](https://kepler.gl/demo)
@@ -114,11 +114,10 @@ To produce this visualization:
 8. Export your map as an image!
 
 Your map should look something like this:
-![add data](../images/kepler_heat.png)
+![add data](./images/kepler_heat.png)
 
 
 
-You can see another example of this [Kepler UK Commute Demo](https://kepler.gl/demo/ukcommute)
 
 ## Next Steps
 
@@ -131,3 +130,4 @@ In this guide, we took a quick look at kepler.gl's powerful features for visuali
 You now have a powerful, free and open source, web mapping tool in the back of your pocket. With such a tool you can already do a lot in terms of exploring data and showing and sharing data with your community. 
 
 
+Here is a final mapping example!  [Kepler UK Commute Demo](https://kepler.gl/demo/ukcommute)
