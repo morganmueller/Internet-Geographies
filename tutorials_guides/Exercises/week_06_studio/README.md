@@ -73,7 +73,7 @@ For the first part of this studio you will download a csv file of the 2018 Centr
 
 Add the downloaded squirrel census data to the base Kepler map by draagging the file over the add data field.
 
-![add data](../images/add_data.png)
+![add data](../images/add_data.png "DATA")
 
 
 To produce this visualization:

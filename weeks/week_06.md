@@ -1,4 +1,4 @@
-# Week 5 - Data Centers 
+# Week 6 - Data Centers 
 
 
 ## This Week's Resources
@@ -31,3 +31,6 @@
     * Wednesday's plan
 
 ### Assigned (**Due Next Monday**)
+
+### Additional Resources & References
+
