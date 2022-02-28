@@ -92,7 +92,7 @@ To produce this visualization:
 
 
 Your map should look something like this:
-![add data](./images/kepler_point1.png)
+![add data](../images/kepler_point1.png)
 ![add data](./images/kepler_point2.png)
 
 

@@ -6,6 +6,8 @@
     * [Week 3](weeks/week_03.md)
     * [Week 4](weeks/week_04.md)
     * [Week 5](weeks/week_05.md)
+    * [Week 6](weeks/week_05.md)
+
 
 
 * Projects
