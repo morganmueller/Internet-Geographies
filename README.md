@@ -440,7 +440,7 @@ __ASSIGNED__
     * [Mirim Posner, "See No Evil"](https://logicmag.io/scale/see-no-evil/)
 
 * **OPTIONAL READING**
-[James Smith and Jeffrey Mantz, “Do Cellular Phones Dream of Civil War?"](https://www.are.na/block/14670532)
+    * [James Smith and Jeffrey Mantz, “Do Cellular Phones Dream of Civil War?"](https://www.are.na/block/14670532)
 
 #### Wednesday, March 2nd
 * **PROJECT 1 DUE**

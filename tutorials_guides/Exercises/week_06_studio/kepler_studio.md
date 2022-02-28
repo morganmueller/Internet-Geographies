@@ -125,7 +125,7 @@ Kepler's web GUI has a great set of sample data for us to play around with. For 
 To produce this visualization:
 1. Go to [https://kepler.gl/demo](https://kepler.gl/demo)
 2. select: **Try Sample Data**
-3. Choose NYC Taxi Trips
+3. Choose **NYC Taxi Trips**
 4. toggle on the view for the `arc` layer titled: **pickup -> dropoff arc** // notice the symbol of the eye is currently x-ed out.
 5. toggle the down caret to view the layer styles
    ![Styling the arc layer](../../../images/taxi_arc.png)
