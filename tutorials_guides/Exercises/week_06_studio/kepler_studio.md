@@ -73,7 +73,7 @@ For the first part of this studio you will download a csv file of the 2018 Centr
 
 Add the downloaded squirrel census data to the base Kepler map by draagging the file over the add data field.
 
-![add data](../images/add_data.png "DATA")
+![add data](../../../images/add_data.png "DATA")
 
 
 To produce this visualization:
@@ -92,14 +92,14 @@ To produce this visualization:
 
 
 Your map should look something like this:
-![add data](../images/kepler_point1.png)
-![add data](./images/kepler_point2.png)
+![add data](../../../images/kepler_point1.png)
+![add data](../../../images/kepler_point2.png)
 
 
 ### Visualization 2: Heat Map
 
 
-![heat map](./images/kepler_heat.png)
+![heat map](../../../images/kepler_heat.png)
 
 To produce this visualization:
 1. Go to [https://kepler.gl/demo](https://kepler.gl/demo)
