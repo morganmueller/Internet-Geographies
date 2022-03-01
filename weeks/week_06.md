@@ -15,6 +15,7 @@
 
 ### Topics
 * Data Centers
+* Impermenent Infrastructures
 * Kepler.gl
 * In Class Mapping Studio
 

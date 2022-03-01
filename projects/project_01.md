@@ -35,6 +35,20 @@ The purpose of this first assignment is to get you comfortable with four things:
     * Or you can try [Mapbox](https://docs.mapbox.com/help/tutorials/?product=Mapbox+GL+JS)
 
 
+
+## Project Write Up and Submission
+
+**Your final submission should be one integrated collection, with all components synthesized and contextualized.**
+
+Make sure to document your process as you find and clean/convert data, map it, and add interaction to it. Justify your reason for creating the type of visualization you chose (points, chloropleth, heat map etc.) and why the data you mapped was interesting to you. Detail the technical steps you took to go from purely being interested in a topic to having a full fledged map of it.
+
+Add screenshots of your maps and any other assets which may help me to get a feel for your work.
+
+In your write up please make sure to link 
+1. All javascript, html, css, and data files you used.
+2. Locations you pulled data from
+3. Any external resources you used.
+
 ## Resources
 
 ### Publically Available Data
