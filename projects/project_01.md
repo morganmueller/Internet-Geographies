@@ -1,5 +1,6 @@
 # PROJECT 1: Mapping a Public Dataset
 
+
 ## Background
 Familiarity with multiple tools is critical for creating web maps and programming in general. While one tool may be great at a certain task, another tool could be great at a different one.
 We're going to practice getting comfortable with multiple mapping tools and using publically accessible data!
@@ -38,6 +39,9 @@ The purpose of this first assignment is to get you comfortable with four things:
 
 ## Project Write Up and Submission
 
+### 
+Submission Link: [https://forms.gle/1XrGDEWKerD7DcrJ9](https://forms.gle/1XrGDEWKerD7DcrJ9)
+
 **Your final submission should be one integrated collection, with all components synthesized and contextualized.**
 
 Make sure to document your process as you find and clean/convert data, map it, and add interaction to it. Justify your reason for creating the type of visualization you chose (points, chloropleth, heat map etc.) and why the data you mapped was interesting to you. Detail the technical steps you took to go from purely being interested in a topic to having a full fledged map of it.
@@ -48,6 +52,8 @@ In your write up please make sure to link
 1. All javascript, html, css, and data files you used.
 2. Locations you pulled data from
 3. Any external resources you used.
+
+Please make sure to zip all associated data and programming files and add them into a shared folder with your project write up. Then give me access to that link in your submission.
 
 ## Resources
 
