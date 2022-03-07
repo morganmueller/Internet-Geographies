@@ -1,4 +1,4 @@
-# Week 7 - Scales, Spatialization, & Sensing
+# Week 7 - Rethinking Containerization
 
 > “The sea is forgotten until disaster strikes. But perhaps the biggest seagoing disaster is the global supply chain, which — maybe in a more fundamental way than financial speculation — leads the world economy to the abyss.” ― Sekula (2000)
 
