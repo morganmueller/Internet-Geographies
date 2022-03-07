@@ -7,6 +7,8 @@
     * [Week 4](weeks/week_04.md)
     * [Week 5](weeks/week_05.md)
     * [Week 6](weeks/week_06.md)
+    * [Week 7](weeks/week_07.md)
+
 
 
 
@@ -30,3 +32,4 @@
     * [Week 3 exercises](tutorials_guides/exercises/week_03_excercises.md)
     * [Week 4 Studio](tutorials_guides/exercises/week_04_studio/README.md)
     * [Week 6 Studio](tutorials_guides/exercises/week_06_studio/Kepler_studio.md)
+    * [Week 7 Studio](tutorials_guides/exercises/week_07_studio.md)
