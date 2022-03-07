@@ -443,14 +443,8 @@ __ASSIGNED__
     * [James Smith and Jeffrey Mantz, “Do Cellular Phones Dream of Civil War?"](https://www.are.na/block/14670532)
 
 #### Wednesday, March 2nd
-* **PROJECT 1 DUE**
+* **PROJECT 1 DUE (DELAYED TO SUNDAY MARCH 6th**
 * Project Presentations
-
-__ASSIGNED__
-* Project 2 (Visualizing a Collection), **Due April 6th**
-
-* **SMALL ASSIGNMENT**
-    * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Wednesday to discuss.
 
 ## Section - Supply Chains
 
@@ -458,6 +452,8 @@ __ASSIGNED__
 
 #### Monday, March 7th
 * Reading Discussion
+* Project 1 showcase
+* Mapbox introduction
 
 __ASSIGNED__
 
@@ -474,12 +470,24 @@ __ASSIGNED__
 * **RESOURCES**
     [Supply-Chains.us (Miriam Matthiessen & Anne Lee Steele)](https://www.supply-chains.us/)
 
+
+* **SMALL ASSIGNMENT DUE WEDNESDAY**
+    * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Wednesday to discuss.
+
+
+
 #### Wednesday, March 9th
 **ART OF NOTICING ASSIGNMENT DUE**
 
+
+
 * Art of Noticing results discussion
 * Data Visualization with D3 & Vega (Beyond Mapping)
-* Remote Sensing & GIS Techniques
+
+__ASSIGNED__
+
+* Project 2 (Visualizing a Collection), **Due April 6th**
+
 
 ## SPRING BREAK
 
@@ -496,6 +504,7 @@ __ASSIGNED__
 
 #### Monday, March 21st
 * Reading Discussion
+* Remote Sensing & GIS Techniques
 
 __ASSIGNED__
 
