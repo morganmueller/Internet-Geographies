@@ -1,5 +1,9 @@
 # Art of Noticing (**IN CLASS PRESENTATIONS MARCH 9**)
 
+## Submission
+Please Submit your project here: https://forms.gle/zRNoyQz5HWxJ754z9
+
+## Outline
 
  At least once a week for the next four weeks, revisit one of the sites you chose in the first small exercise where you identified public components of networked infrastructure (for at least 20 minutes per visit). If you would like to choose a new site to revisit that is also acceptable but make sure to write an initial blurb about your reason for choosing the site and what is drawing you to it. 
  

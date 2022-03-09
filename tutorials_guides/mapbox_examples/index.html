@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NYC Collissions</title>
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+<body>
+
+    <div id='map'></div>
+    <div id='console'>
+    <h1>Motor vehicle collisions</h1>
+    <p>Data: <a href='https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95'>Motor vehicle collision injuries and deaths</a> in NYC, Jan 2016</p>
+
+    <div class='session'>
+        <h2>Casualty</h2>
+        <div class='row colors'>
+        </div>
+        <div class='row labels'>
+          <div class='label'>0</div>
+          <div class='label'>1</div>
+          <div class='label'>2</div>
+          <div class='label'>3</div>
+          <div class='label'>4</div>
+          <div class='label'>5+</div>
+        </div>
+      </div>
+
+      <div class='session' id='sliderbar'>
+        <h2>Hour: <label id='active-hour'>12PM</label></h2>
+        <input id='slider' class='row' type='range' min='0' max='23' step='1' value='12' />
+      </div>
+      
+
+</div>
+
+
+
+<style>
+  body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+h1 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h2 {
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #2dc4b2;
+}
+
+#console {
+  position: absolute;
+  width: 240px;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: white;
+  
+}
+
+.session {
+  margin-bottom: 20px;
+}
+
+.row {
+  height: 12px;
+  width: 100%;
+}
+
+.colors {
+  background: linear-gradient(to right, #2dc4b2, #3bb3c3, #669ec4, #8b88b6, #a2719b, #aa5e79);
+  margin-bottom: 5px;
+}
+
+.label {
+  width: 15%;
+  display: inline-block;
+  text-align: center;
+}
+</style>
+
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoibWJtNTU3IiwiYSI6ImNrZWN1ZjlzczAzb2MycW9jZTRtbGV5NnQifQ.wXHB0RuTaEhZJeEFDC8xuw';
+
+const map = new mapboxgl.Map({
+  container: 'map', // container element id
+  style: 'mapbox://styles/mbm557/cl0h9hs9i001314qvywwzier1',
+  center: [-74.0059, 40.7128], // initial map center in [lon, lat]
+  zoom: 12
+});
+
+map.on('load', () => {
+  map.addLayer({
+    id: 'collisions',
+    type: 'circle',
+    source: {
+      type: 'geojson',
+      data: 'collisions1601.geojson', // replace this with the url of your own geojson
+      filter: ['==', ['number', ['get', 'Hour']], 12]
+
+    },
+    paint: {
+      'circle-radius': [
+        'interpolate',
+        ['linear'],
+        ['number', ['get', 'Casualty']],
+        0,
+        4,
+        5,
+        24
+      ],
+      'circle-color': [
+        'interpolate',
+        ['linear'],
+        ['number', ['get', 'Casualty']],
+        0,
+        '#2DC4B2',
+        1,
+        '#3BB3C3',
+        2,
+        '#669EC4',
+        3,
+        '#8B88B6',
+        4,
+        '#A2719B',
+        5,
+        '#AA5E79'
+      ],
+      'circle-opacity': 0.8
+    }
+  });
+  
+});
+
+
+</script>    
+
+</body>
+</html>
