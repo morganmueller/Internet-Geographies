@@ -84,7 +84,7 @@
 * Quick Check-in - __5 minutes__
     * Spring break is coming!
 * Small Assignment presentations  - __15 minutes__
-* Art of Noticing Presentations - __75 minutes__
+* Art of Noticing Presentations - __45 minutes__
 * Datawrapper Presentation - __15 minutes__
 * Wrapping Up -  __5 minutes__
 
