@@ -462,6 +462,8 @@ __ASSIGNED__
 
 * **WATCH**
     * [Laleh Khalili, "Sinews of War and Trade, SOAS, University of London"](https://www.youtube.com/watch?v=xmnwdbW2NIM&t=1439s)
+    Related to Project 2
+    * [Mimi Onuohoa - Eyeo 2018](https://vimeo.com/233011125)
 
 * **OPTIONAL VIEWING**
     * **WATCH**
@@ -478,9 +480,7 @@ __ASSIGNED__
 
 #### Wednesday, March 9th
 **ART OF NOTICING ASSIGNMENT DUE**
-
-
-
+* Small assignment presentation
 * Art of Noticing results discussion
 * Data Visualization with D3 & Vega (Beyond Mapping)
 

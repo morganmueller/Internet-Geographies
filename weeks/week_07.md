@@ -48,7 +48,8 @@
 
 * **WATCH**
     * [Laleh Khalili, "Sinews of War and Trade, SOAS, University of London"](https://www.youtube.com/watch?v=xmnwdbW2NIM&t=1439s)
-
+    Related to project 2
+    * [Mimi Onuohoa - Eyeo 2018](https://vimeo.com/233011125)
 * **OPTIONAL VIEWING**
     * **WATCH**
         * [Allan Sekula, "The Forgotten Space"](https://vimeo.com/ondemand/theforgottenspace/466339682)
@@ -60,6 +61,40 @@
 * **SMALL ASSIGNMENT DUE WEDNESDAY**
     * Using non-digital tools (Be Creative with the tools), create a data visualization on a postcard or similar sized physical object that shows a 'snapshot' of a particular portion of a public data set. Bring them to class next Wednesday to discuss.
 
+
+
+### Studio Links
+* ↳ [Week 7 Studio](../tutorials_guides/exercises/week_07_studio.md)
+
 ### Additional Resources & References
 * [Ingrid Burrington, After Supply Chain Capitalism](https://points.datasociety.net/after-supply-chain-capitalism-bca0d5ce2ae1)
 * [Resource Project](https://www.resource-project.co/)
+
+
+
+## Wednesday
+
+### Topics
+* Art of Noticing Presentations
+* Small assignment discussions
+* Datawrapper.de
+* Project 2 Overview
+
+## Schedule
+* Quick Check-in - __5 minutes__
+    * Spring break is coming!
+* Small Assignment presentations  - __15 minutes__
+* Art of Noticing Presentations - __75 minutes__
+* Datawrapper Presentation - __15 minutes__
+* Wrapping Up -  __5 minutes__
+
+
+
+### Additional Resources & References
+* [Datawrapper](https://www.datawrapper.de/)
+* [Chloropleth Maps with Datawrappere](https://blog.datawrapper.de/choroplethmaps/)
+* [More Chloropleth Maps with Datawrapper](https://blog.datawrapper.de/weekly-chart-europegrowth/)
+* [Library of Congress](https://www.loc.gov/)
+* [Hans Hacke](https://www.hanshack.com/)
+* [Brian House - Eyeo 2018](https://vimeo.com/287093394)
+* [Mimi Onuohoa - Eyeo 2018](https://vimeo.com/233011125)

@@ -84,3 +84,4 @@ Note: Many of these projects do not fit into neat categories but for the sake of
 * [Gilad Dor, "The Investigation Into the Organic Utility Pole"](https://theorganicutilitypole.com/)
 * [Ani Liu, Mind in the Machine](https://ani-liu.com/mind-in-machine)
 * [Sacrifice Zone](https://lav.io/projects/endicott/)
+* [Hans Hacke](https://www.hanshack.com/)
