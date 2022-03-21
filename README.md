@@ -140,7 +140,7 @@ Each project must be accompanied with a write-up detailing methodologies, resour
 | :----         |  ----  | ---- |
 | [Five Reading Responses](https://docs.google.com/document/d/1z9RFLIPTfHzS9kKKNdszuYYRxVgrxREBAZ1X29DAJfs/edit?usp=sharing) | May 16 | Course Reading Responses |
 | [Project 1](./assignments/assignment_01.md) |  March 2nd | Public Data Mapping |
-| [Project 2](./assignments/assignment_02.md) |  April 6th | Visualizing a Collection  |
+| [Project 2](./assignments/assignment_02.md) |  April 12th by 11:59pm | Visualizing a Collection  |
 | [Project 4](./assignments/final-project.md) | May 16 | Final Project/Paper  |
 
 
