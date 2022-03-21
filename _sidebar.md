@@ -8,6 +8,9 @@
     * [Week 5](weeks/week_05.md)
     * [Week 6](weeks/week_06.md)
     * [Week 7](weeks/week_07.md)
+    * [Week 8](weeks/week_08.md)
+    * [Week 9](weeks/week_09.md)
+
 
 
 
@@ -15,7 +18,7 @@
 * Projects
     * [Art of Noticing](projects/art-of-noticing.md)
     * [Project 1](projects/project_01.md)
-    * [Project 2](projects/project_01.md)
+    * [Project 2](projects/project_02.md)
     * [Final Project/Paper](projects/final.md)
 
 * Tutorials & Guides
