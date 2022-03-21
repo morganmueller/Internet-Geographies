@@ -6,7 +6,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 7 Slides](https://docs.google.com/presentation/d/1_9gn0ajXIkcCAYp-FevucsOAIe_d8PmAKUJxAs0dnvI/edit?usp=sharing)
+* ↳ [Week 9 Slides](https://docs.google.com/presentation/d/1_9gn0ajXIkcCAYp-FevucsOAIe_d8PmAKUJxAs0dnvI/edit?usp=sharing)
 ### In Class Shared Notes
 * ↳ [In Class Notes](https://docs.google.com/document/d/1v2XqOosts9svJJ-VPiQWGzaDlGUvF5M6oRVBcvclF5c/edit?usp=sharing)
 ### Reading Response Google Doc
