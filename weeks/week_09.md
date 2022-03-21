@@ -1,8 +1,8 @@
 # Week 9 - Trade & Capitalist Expansion
 
->> "Fish Story follows two interwoven strands, both of which turn around questions of liminality and flux. First, it is a ‘documentary’ reading of contemporary maritime space. As both sea and land are progressively “rationalized” by increasingly sophisticated industrial methods, does the “classic” relation between terrestrial space and maritime space undergo a reversal? Does the sea become fixed and the land fluid? Second, Fish Story is an “art historical” allegory of the sea as an object of representation. How does the sea “disappear” from the cognitive and imaginative horizon of late modernity? Are there broader lessons to be drawn from this disappearance?" - Sekula
+> "Fish Story follows two interwoven strands, both of which turn around questions of liminality and flux. First, it is a ‘documentary’ reading of contemporary maritime space. As both sea and land are progressively “rationalized” by increasingly sophisticated industrial methods, does the “classic” relation between terrestrial space and maritime space undergo a reversal? Does the sea become fixed and the land fluid? Second, Fish Story is an “art historical” allegory of the sea as an object of representation. How does the sea “disappear” from the cognitive and imaginative horizon of late modernity? Are there broader lessons to be drawn from this disappearance?" - Sekula
 
->> "The engine hums like the beat of a heart on amphetamenes" - Sekula, Fish Story
+> "The engine hums like the beat of a heart on amphetamenes" - Sekula, Fish Story
 ## This Week's Resources
 
 ### Slides & Notes 
