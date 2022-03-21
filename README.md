@@ -121,7 +121,7 @@ Prior to each week I will upload slides, code examples, resources and more to th
 | [WEEK 07](weeks/week_07.md) | Mar 07 & 09 | Supply Chains  | Maya Luna, Carson, Isabella |
 | [WEEK 08](weeks/week_08.md) | Mar 14 & 16 | **SPRING BREAK**  | None| 
 | [WEEK 09](weeks/week_09.md) | Mar 21 & 23 | Supply Chains  | Umi, Reese, Daya D |
-| [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Supply Chains  | Trevor, Matthew, Cameron |
+| [WEEK 10](weeks/week_10.md) | Mar 28 & 30 | Supply Chains  | Trevor, Matthew |
 | [WEEK 11](weeks/week_11.md) | APR 04 & 06 | Mining & Extraction | Aidan, Earl, Milo |
 | [WEEK 12](weeks/week_12.md) | APR 11 & 13 | Mining & Extraction  | Alex, Deni |
 | [WEEK 13](weeks/week_13.md) | APR 18 & 20 | Mining & Extraction | Maya Luna, Alex |
