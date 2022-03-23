@@ -1,10 +1,10 @@
 # Week 9 Studio
-## Working With Datawrapper and prepping for project 2
+### Working With Datawrapper and prepping for project 2
 
 ## About
 [Datawrapper](https://datawrapper.de/) is an online tool with which you can create charts, maps and tables for web and print. It is a powerful tool for data visualization that will most likely be something you use in your second project.
 
-## Before you start
+## Before You Start
 I highly recommend that you familiarize yourself with the extensive features available in Datawrapper. To do so you could review the [datawrapper Academy page](https://academy.datawrapper.de/) on their website or just google around. The company has extensive training materials so if you have an idea of what you want to do but are unsure of exactly how to get there a quick google should help!
 
 ## Visualization 1: Stacked Bar Chart
@@ -82,6 +82,13 @@ Using one of the two links below choose one of the visualizations in them to rec
 
 * [Scatterplot Examples](https://academy.datawrapper.de/article/148-examples-of-datawrapper-scatter-plots)
 * [Chloropleth Map Examples](https://academy.datawrapper.de/article/149-examples-of-datawrapper-choropleth-maps)
+
+If you have trouble finding  chart which seems interesting I would recommend trying to recreate this scatterplot:
+
+![bar chart](../../images/scatter_rec_dw.png)
+
+located here: [link](https://academy.datawrapper.de/article/148-examples-of-datawrapper-scatter-plots)
+
 
 1. To do so first look at the footer of the visualization you'd like to recreate and click the "get the data" section. This will download the necessary data onto your computer. 
 
