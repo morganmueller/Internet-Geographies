@@ -48,3 +48,25 @@
 
 ### Additional Resources & References
 * [Why shipping is central to the very fabric of global capitalism](https://www.youtube.com/watch?v=NrT9i4GS3fg)
+
+
+
+## Wednesday
+
+### Topics
+* Datawrapper Studio
+* Project 2 working sessoino
+
+## Schedule
+* Quick Check-in - __5 minutes__
+    * Any questions from Monday?
+* Datawrapper Studio - __60 minutes__
+* Project 2 working session - __30 minutes__
+* Wrap up - __5 minutes__
+ 
+
+
+### Studio Links
+* ↳ [Week 9 Studio](../tutorials_guides/exercises/week_09_studio.md)
+
+### Additional Resources & References
