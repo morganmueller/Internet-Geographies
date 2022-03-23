@@ -55,7 +55,7 @@
 
 ### Topics
 * Datawrapper Studio
-* Project 2 working sessoino
+* Project 2 working session
 
 ## Schedule
 * Quick Check-in - __5 minutes__
