@@ -15,11 +15,13 @@ To begin make sure that you have datawrapper opened and are in menu titled dashb
 
 1. 
 ![bar chart](../../images/upload_data_dw.png)
+
 Next, under the upload data tab scroll to the bottom left where it shows you to choose a sample dataset. In that dropdown choose the "Trust in Media Reporting" option. Once you selected “Trust in Media Reporting”, you see the dataset in the text field. It looks a bit chaotic right now, but don’t worry, it’ll be tidied up and readable once we go to the next step, Check & Describe. 
 
 Click the "Check & Desrcibe" tab to move on.
 
 2. Now we see our data in a proper table! Let’s look at the data we just selected. 
+
 ![bar chart](../../images/check_dw.png)
 
 In the first column, we see media topics, like “the financial crisis in Greece” or the “Ukraine Conflict”. The following columns contain values for “Very high trust”, “high trust” etc. It seems to be a poll, where people could reply how much they trusted the media reporting on the topics we see. 
@@ -31,6 +33,7 @@ When you’re creating a data visualization, it’s always helpful to know if Da
 Ok, let’s do that; let’s continue. Click on “Proceed” in the lower left to go to step 3: “Visualize”.
 
 3. Now under the visualize tab leave the chart type as "Stacked bar" and choose the "Refine" option.
+
 ![bar chart](../../images/refine_dw.png)
 
 4. This brings us to a page on which we have different settings. 
@@ -38,6 +41,7 @@ Ok, let’s do that; let’s continue. Click on “Proceed” in the lower left 
 Play around with them! 
 
 You can turn “Thicker bars” off, for example, or see what happens when you turn on “Show values on hover”. 
+
 ![bar chart](../../images/colors_dw.png)
 
 When you’re ready to change the colors, click on “customize colors” right below “Appearance”. 
@@ -49,11 +53,13 @@ Which color settings do you think communicate the data well?
 
 5. To increase the visual difference between the positive and the negative values, 
 we can also use a “diverging” value alignment. 
+
 ![bar chart](../../images/align_dw.png)
 
 Try it out and see if you prefer that over the left alignment. 
 
 6. Now the chart looks good, but it needs a proper title. 
+
 ![bar chart](../../images/annotate_dw.png)
 
 To add one, go to the “Annotate” tab. Here you can add:
