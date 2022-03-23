@@ -31,12 +31,14 @@ When you’re creating a data visualization, it’s always helpful to know if Da
 Ok, let’s do that; let’s continue. Click on “Proceed” in the lower left to go to step 3: “Visualize”.
 
 3. Now under the visualize tab leave the chart type as "Stacked bar" and choose the "Refine" option.
+![bar chart](../../images/refine_dw.png)
 
 4. This brings us to a page on which we have different settings. 
 
 Play around with them! 
 
 You can turn “Thicker bars” off, for example, or see what happens when you turn on “Show values on hover”. 
+![bar chart](../../images/colors_dw.png)
 
 When you’re ready to change the colors, click on “customize colors” right below “Appearance”. 
 This will open a little list of categories that we can color differently. 
@@ -47,10 +49,12 @@ Which color settings do you think communicate the data well?
 
 5. To increase the visual difference between the positive and the negative values, 
 we can also use a “diverging” value alignment. 
+![bar chart](../../images/align_dw.png)
 
 Try it out and see if you prefer that over the left alignment. 
 
 6. Now the chart looks good, but it needs a proper title. 
+![bar chart](../../images/annotate_dw.png)
 
 To add one, go to the “Annotate” tab. Here you can add:
 
@@ -75,6 +79,7 @@ Using one of the two links below choose one of the visualizations in them to rec
 [Chloropleth Map Examples](https://academy.datawrapper.de/article/149-examples-of-datawrapper-choropleth-maps)
 
 1. To do so first look at the footer of the visualization you'd like to recreate and click the "get the data" section. This will download the necessary data onto your computer. 
+![bar chart](../../images/scatter_ex_dw.png)
 
 2. From there open a new datawrapper tab and upload the data.
 3. in the original example's page hover over the visualization and when a pop-up saying "edit this chart" appears click it! That will take you to a datawrapper page which has all of the choices saved in it.
