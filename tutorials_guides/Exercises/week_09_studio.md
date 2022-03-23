@@ -80,8 +80,8 @@ I would recommend trying the multiple donuts out and seeing how those look!
 
 Using one of the two links below choose one of the visualizations in them to recreate. Recretating visualizations is one of the best way to figure out the ins and outs of any tool so try to think through the reasoning behind the original chart/map designer's choices.
 
-[Scatterplot Examples](https://academy.datawrapper.de/article/148-examples-of-datawrapper-scatter-plots)
-[Chloropleth Map Examples](https://academy.datawrapper.de/article/149-examples-of-datawrapper-choropleth-maps)
+* [Scatterplot Examples](https://academy.datawrapper.de/article/148-examples-of-datawrapper-scatter-plots)
+* [Chloropleth Map Examples](https://academy.datawrapper.de/article/149-examples-of-datawrapper-choropleth-maps)
 
 1. To do so first look at the footer of the visualization you'd like to recreate and click the "get the data" section. This will download the necessary data onto your computer. 
 
