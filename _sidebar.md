@@ -25,7 +25,7 @@
 * Tutorials & Guides
     * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
     * [Leaflet Examples](tutorials_guides/leaflet_examples/README.md)
-    * [HTML Cheatsheet ](/tutorials_guides/html_cheatsheet.pdf)
+    * [HTML Cheatsheet ](https://drive.google.com/file/d/1V_Th2OPnb6FcRVPMcpqeWigFD7DC1XYx/view?usp=sharing)
 
     
 * Resources

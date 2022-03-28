@@ -44,4 +44,4 @@
 
 ### Additional Resources & References
 * [HTML Cheatsheet 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
-* [HTML Cheatsheet 2](../tutorials_guides/html_cheatsheet.pdf)
+* [HTML Cheatsheet 2](https://drive.google.com/file/d/1V_Th2OPnb6FcRVPMcpqeWigFD7DC1XYx/view?usp=sharing)
