@@ -52,7 +52,8 @@ You're free to explore the directions that are most exciting to you within the g
     * Either using the boilerplate created for you or choosing your own style create a web page that has all of your visualizations and the story of what you're telling.
 * Step 8: Reflect on the experience and what you found most beneficial about the project.
 
-### Link to the boilerplage html templae and CSS file are located here: https://github.com/morganmueller/Internet-Geographies/tree/master/projects/project_2_template
+### Link to the boilerplage html templae and CSS file are located here:
+https://github.com/morganmueller/Internet-Geographies/tree/master/projects/project_2_template
 
 ## Project Write Up and Submission
 
