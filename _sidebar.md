@@ -10,6 +10,7 @@
     * [Week 7](weeks/week_07.md)
     * [Week 8](weeks/week_08.md)
     * [Week 9](weeks/week_09.md)
+    * [Week 10](weeks/week_10.md)
 
 
 
@@ -24,6 +25,8 @@
 * Tutorials & Guides
     * [Introduction to Javascript](tutorials_guides/intro-to-javascript.md)
     * [Leaflet Examples](tutorials_guides/leaflet_examples/README.md)
+    * [HTML Cheatsheet ](/tutorials_guides/html_cheatsheet.pdf)
+
     
 * Resources
     * [Mapping/Data Resources](resources/mapping_and_data.md)
