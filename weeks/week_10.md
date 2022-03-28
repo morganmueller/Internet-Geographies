@@ -5,7 +5,7 @@
 ## This Week's Resources
 
 ### Slides & Notes 
-* ↳ [Week 10 Slides](https://docs.google.com/presentation/d/1_9gn0ajXIkcCAYp-FevucsOAIe_d8PmAKUJxAs0dnvI/edit?usp=sharing)
+* ↳ [Week 10 Slides](https://docs.google.com/presentation/d/1P7ku_NAIvYxs2D8KSWK7hfe6xDozrpUqobc7uBMtPQU/edit?usp=sharing)
 ### In Class Shared Notes
 * ↳ [In Class Notes](https://docs.google.com/document/d/1v2XqOosts9svJJ-VPiQWGzaDlGUvF5M6oRVBcvclF5c/edit?usp=sharing)
 ### Reading Response Google Doc
@@ -22,19 +22,19 @@
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Quick Check-in
-* Reading Discussion & Presentation - __30 minutes__
+* Reading Discussion - __40 minutes__
     * Group Leaders 
     * Apple & Foxconn
     * Relations to previous readings
-* Introduction to HTML  - __30 minutes__
+* Introduction to HTML  - __45 minutes__
     * Elements & Attributes
     * HTML Structure
     * Headings
-    *
+    * Basic CSS
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
-### Assigned (**Due Monday March 28**)
+### Assigned (**Due Monday April 4th**)
 
 * **READING**
     * [Francis Tseng, "Inside-Out: Renewable energy, the future of mining, and the re-localization of harm"](https://reports.phenomenalworld.org/inside-out/)

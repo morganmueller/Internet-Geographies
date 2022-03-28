@@ -52,6 +52,7 @@ You're free to explore the directions that are most exciting to you within the g
     * Either using the boilerplate created for you or choosing your own style create a web page that has all of your visualizations and the story of what you're telling.
 * Step 8: Reflect on the experience and what you found most beneficial about the project.
 
+### Link to the boilerplage html templae and CSS file are located here:
 
 ## Project Write Up and Submission
 
@@ -60,6 +61,8 @@ Submission Link: [https://forms.gle/1XrGDEWKerD7DcrJ9](https://forms.gle/kccLRJC
 **Your final submission should be one integrated collection, with all components synthesized and contextualized.**
 
 Make sure to document your process as you find and clean/convert data, visualize it, and add interaction to it. Justify your reason for creating the type of visualization you chose (points, chloropleth, heat map etc.) and why the data you mapped was interesting to you. Detail the technical steps you took to go from purely being interested in a topic to having a full fledged map of it.
+
+
 
 Add screenshots of your maps/charts and any other assets which may help me to get a feel for your work.
 
