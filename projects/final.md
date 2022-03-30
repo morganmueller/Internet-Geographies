@@ -96,4 +96,4 @@ A successful final project will:
    - **Understanding**: Did you engage with your focal point enough to arrive at potentially new perspectives? 
    - **Application**: Did you go beyond the given code examples? Did you inject your personality or style into the work in any way? 
 
-A successful final paper will have many of the same criteria with the emphasis instead being on expanded research into a thematic area of course material which you find most interesting and would like to delve deeper into. This research paper 
+A successful final paper will have many of the same criteria with the emphasis instead being on expanded research into a thematic area of course material which you find most interesting and would like to delve deeper into.
