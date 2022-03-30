@@ -3,7 +3,7 @@
 
 ### Introduction
 Review Monday's slides if you need a refresher on how to creat an html file!
-
+T
 __Before starting: Create a file called index.html__
 
 1. To start, add the <!DOCTYPE html> declaration as the very first line of code at the top of the index.html file. Add the <html> element below.
@@ -19,7 +19,6 @@ __Before starting: Create a file called index.html__
 Below that, add an <h2> that says:
 
 “Apr 6–Sept 5, 2022”
-
 
 5. Let’s add an info blurb about the Biennial. Between the <h1> and first <h2> tag, add a <p> tag that says:
 
