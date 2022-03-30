@@ -1,76 +1,37 @@
 # Final Project/Paper
 
-FINAL PROJECT PROPOSAL. See below for more on the format of the final project. Throughout the
-semester I hope you’ll come across several ideas, arenas, individuals, etc., about which or whom you would
-like to know more. This final project will give you the opportunity to delve deeply into a research and/or
-creative area of personal interest. You can draw inspiration from previous students’ work: here’s what the
-students in my 2011 “Archives/Libraries/Databases” class did, here’s what the 2012 students did, here’s what
-the 2013 students did, and here’s what the 2014 students did.
-You should begin thinking about potential topics early in the semester. By 11:59pm on Monday, October
-23, you’ll need to submit, via Google Drive, a formal ~900-word (including end-matter) project proposal.
-This proposal should include:
-1. a problem statement or research question;
-2. a discussion of your proposed research methodology and an outline of your research/production
-plan*; and
-3. a tentative bibliography containing at least ten sources, half of which must be scholarly sources.
-You’ll be expected to share your proposal in an informal five-minute presentation in class on October 24.
-I certainly don’t expect your proposals to be perfect (the primary reason I ask you to submit these is so you
-can receive constructive feedback before delving too deeply into your projects), but I do expect the proposals
-to evince some serious contemplation, good planning, and an awareness of relevant resources in the field.
-The proposal is worth 10% of your final grade. You’ll have an opportunity to revise and resubmit the
-proposal if necessary.
-*If you’re considering a research-based creative project or media production, your “research methodology”
-section should explain how your chosen format – video, artist’s book, interactive map, audio documentary,
-etc. – serves as an appropriate “method” for your project, i.e., how the form suits the content.
-FINAL PROJECT. Throughout the semester you should be working toward the completion of either (1) a
-4,000- to 6,000-word paper (word count includes end-matter), or (2) a creative/production project (that’s
-of final-project-appropriate scope) with a 600-word accompanying text, in which you address the critical
-and/or aesthetic issues you aimed to explore through your work, explain how your chosen format aided in
-that exploration, and provide a bibliography listing the critical resources that informed the project. This
-research project is worth 30% of your final grade, and is due before class on December 12, our final meeting.
-Papers and support papers for creative projects should be submitted via Google Drive. 
-
 > Based on and adapted from [Shannon Mattern's "Maps as Media Course" Final Project Brief](http://www.wordsinspace.net/mapsmedia/fall2018/wp-content/uploads/2018/08/Mattern_MapsAsMedia2018_Aug12_2018.pdf) 
 
 > Also based on and adapted from Joey K. Lee's All Maps Lie Course
 
-# COURSE PROJECT
+## COURSE PROJECT
 
 Throughout the semester we have covered a variety of topics related to and tangentially related to the internet and its complex entanglement of people, industries, and legacies. You should begin to think about a fluid, capacious **research topic, related to our course material, that you’d like to explore through a critical lens**. This research will culminate in either:
 1. a 2,000- to 3,000-word paper (word count includes end-matter), or 
-2. a creative/production project (that’s of final-project-appropriate scope) with a 600-word accompanying text, in which you address the critical and/or aesthetic issues you aimed to explore through your work, explain how your chosen format aided in that exploration, and provide a bibliography listing the critical resources that informed the project.
+2. A creative/production project (that’s of final-project-appropriate scope) with a 600-word accompanying text, in which you address the critical and/or aesthetic issues you aimed to explore through your work, explain how your chosen format aided in that exploration, and provide a bibliography listing the critical resources that informed the project.
 This research project is worth 15% of your final grade, and is due before class on **May 16**, our final meeting.
 
-# DEADLINES
+## DEADLINES
 
 | Item | Week | Deadline |
 | :----    | ---- | ---- | 
-| Written Proposal | Week 3 |  April 13 |
-| 1-on-1 Check-ins | Week 2 - Week 6 |  N/A |
-| Final Project Presentation | Week 7 |  April 6 |
-
-
-## PROPOSAL
-
-You’ll need to submit a 600-word (max., or otherwise substantial) proposal for this project, via the [Google Forms Submission Form](https://forms.gle/wt9oFr43rDjjK8nAA). 
+| Written Proposal | Week 11 |  April 6 |
+| 1-on-1 Check-ins | Week 13 - Week 14 |  N/A |
+| Final Project Presentation | Week 16 |  May 16 |
 
 ## PROPOSAL
 ### This Proposal is required for both project based finals and for paper based finals
+You’ll need to submit a 600-word (max., or otherwise substantial) proposal for this project, via the [Google Forms Submission Form](https://forms.gle/wt9oFr43rDjjK8nAA). 
 
 This proposal should include:
 
 1. a topic description, thematic overview, problem statement, or research question that pertains to material we have covered in this course. 
 2. a discussion of your topic’s relevance to the course material, larger critical or political significance, timeliness, etc.
-3. a preliminary discussion of how your topic might lend itself to investigation as it pertains to the course material (i.e., **what can you learn by mapping it**?).
+3. a preliminary discussion of how your topic might lend itself to investigation as it pertains to the course material (i.e., **what can you learn by mapping it or researching it**?).
 4. a description of the geographic area(s) and scale(s) you plan to focus on in your paper/project. 
 5. **IF WORKING ON A PROJECT** What tools, format, datasets etc you plan on using?
-5. a tentative bibliography of **at least five sources** (some scholarly publications, some popular publications, some precedent maps, etc.) that will likely prove useful in your research and practice. 
-
-* If you’re considering a research-based creative project or media production, your “research methodology”
-section should explain how your chosen format – video, artist’s book, interactive map, audio documentary,
-etc. – serves as an appropriate “method” for your project, i.e., how the form suits the content.
-
-FINAL PROJECT. Throughout the semester you should be working toward the completion of  
+6. a tentative bibliography of **at least five sources** (some scholarly publications, some popular publications, some precedent maps, etc.) that will likely prove useful in your research and practice. 
+7. Are you working on a project or paper? **You have the freedom to change direction but I require a rewritten proposal in that case**
 
 ### PROGRESS
 
@@ -91,13 +52,15 @@ You can find inspiration from example projects here:
   * [Ingrid Burrington](http://lifewinning.com):
     * [Measuring the Impact of Fare Hikes](http://lifewinning.com/projects/fare-hikes/)
     * [The Irradiated International](http://lifewinning.com/projects/irradiated-graphics/)
+  * [Morgan Mueller](http://morganmueller.xyz/)
+    * [Nuclear Landscapes](https://nuclearsystem.live/)
   * [James Bridle](https://jamesbridle.com/works)
     * [Every CCTV Camera](https://jamesbridle.com/works/every-cctv-camera-cc)
     * [All Roads Lead to X](https://jamesbridle.com/works/all-roads-lead-to-x)
     * [Dronestagram](https://jamesbridle.com/works/dronestagram)
     * [Laaaaaaandsat](https://jamesbridle.com/works/laaaaaaandsat)
     * [Robot Flaneur](https://jamesbridle.com/works/robot-flaneur)
-  * [Joey Lee](https://jk-lee.com/) // sorrynotsorry to show my own work!
+  * [Joey Lee](https://jk-lee.com/) 
     * [LA Swimmer](https://jk-lee.com/la-swimmer-43-123-pools-i-have-not-visited-and-never-will)
     * [Geography of Hidden Faces](https://jk-lee.com/geography-of-hidden-faces)
   * [Hans Hack](http://www.hanshack.com/)
@@ -122,7 +85,7 @@ You’ll submit your project **before the start of the final class on May 16**, 
 A successful final project will:
 1. **Showcase substantial effort and thoughtfulness in data collection, research, and mapping**
    - **Quality**: Was your data collection done in a meticulous, rigorous, and/or careful manner? Was your data well organized? 
-   - **Understanding**: Based on your collected data and documentation, was it clear that your mapping efforts were done thoughtfully. Your data collection should engage critical themes mentioned or discussed in the class such as those around ethics, privacy, social/environmental justice, feminism, power, race, etc. 
+   - **Understanding**: Based on your collected data and documentation, was it clear that your mapping efforts were done thoughtfully. Your data collection should engage critical themes mentioned or discussed in the class such as those around ethics, infrastructure criticality, privacy, social/environmental justice. 
    - **Application**: More data is not necessarily better. What is important is that your collection is substantial and/or substantive to provide materials for discussion. Ultimately: were your collection methods appropriately applied?
 2. **Educate your peers**
    - **Quality**: Did you make enough effort to synthesize and summarize your work such that others can engage with your focal point?
@@ -133,7 +96,4 @@ A successful final project will:
    - **Understanding**: Did you engage with your focal point enough to arrive at potentially new perspectives? 
    - **Application**: Did you go beyond the given code examples? Did you inject your personality or style into the work in any way? 
 
-
-
-A successful final paper will:
-1. **Showcase substantial effort, thoughtfulness, and criticality in research analysis and **
+A successful final paper will have many of the same criteria with the emphasis instead being on expanded research into a thematic area of course material which you find most interesting and would like to delve deeper into. This research paper 

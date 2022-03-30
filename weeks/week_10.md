@@ -63,4 +63,9 @@
     * Quick Check-in
 * Guest Lecture - __60 minutes__
 * Final Paper/Project explainer  - __15 minutes__
-* CSS/HTML studio-  __15 minutes__
+* CSS/HTML Studio -  __15 minutes__
+
+### Assigned (**Due Wednesday April 6th**)
+
+* **SMALL ASSIGNMENT**
+    * Spend the next week collecting a personal dataset and use datawrapper to visualize it. This personal dataset could be anything you'd like. For example you could log each of your meal times, download an app which tracks and logs how much time you spend on your phone/computer, keep track of which routes you take going to school, the number of times you say certain words or perform certain actions etc. During next Wednesday's class we will spend some time looking at each person's visualization and discussing what stories they can infer from those data.

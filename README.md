@@ -547,7 +547,7 @@ __ASSIGNED__
 
 * Final Project/Paper Proposals, **Due April 6th**
 * **SMALL ASSIGNMENT**
-    * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring it to class next Monday.
+    * Spend the next week collecting a personal dataset and use datawrapper to visualize it. This personal dataset could be anything you'd like. For example you could log each of your meal times, download an app which tracks and logs how much time you spend on your phone/computer, keep track of which routes you take going to school, the number of times you say certain words or perform certain actions etc. During next Wednesday's class we will spend some time looking at each person's visualization and discussing what stories they can infer from those data.
 
 ## Section - Mining & Extraction
 
@@ -650,6 +650,9 @@ __ASSIGNED__
 #### Wednesday, May 4th
 In Class Work Session
 
+__ASSIGNED__
+* **SMALL ASSIGNMENT**
+    * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring it to class next Monday.
 ## Section - Waste & Disposal
 
 ### Week 16 - What Does Waste Tell Us?
