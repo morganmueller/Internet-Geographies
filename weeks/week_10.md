@@ -55,13 +55,12 @@
 
 ### Topics
 * Guest Lecture
-
+* Final Project/Paper explainer
+* CSS & HTML Studio
 
 ## Schedule
 * Quick Check-in - __5 minutes__
     * Quick Check-in
 * Guest Lecture - __60 minutes__
-
 * Final Paper/Project explainer  - __15 minutes__
-* CSS/HTML studioo-  __15 minutes__
-    * Wednesday's plan
+* CSS/HTML studio-  __15 minutes__

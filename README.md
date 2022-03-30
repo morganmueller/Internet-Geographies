@@ -539,11 +539,13 @@ __ASSIGNED__
 #### Wednesday, March 30th
 **Guest Speakers: [Miriam Matthiessen](https://miriammatthiessen.com/) & [Anne Lee Steele](https://aleesteele.com/)**
 
+
 * Using Javascript to work with landsat bands 
 * Combining Landsat bands for Remote Sensing
 
 __ASSIGNED__
 
+* Final Project/Paper Proposals, **Due April 6th**
 * **SMALL ASSIGNMENT**
     * Using one of the tools we covered in class, create two different combinations of Landsat 8 image bands of coordinates of your choosing. This could be your hometown, Bolivian Lithium pools, fire damaged forests in the Pacific Northwest, or any other place you'd like! The combination of bands you choose should give some level of insight to the location chosen (vegetation, fire damage, heat, etc). Document the output and bring it to class next Monday.
 
@@ -555,9 +557,6 @@ __ASSIGNED__
 * Reading Discussion
 
 __ASSIGNED__
-
-* Final Project/Paper Proposals, **Due April 13th**
-
 * **READING**
    * [Colin Kinniburgh, Beyond “Conflict Minerals”: The Congo’s Resource Curse Lives On, 2014](https://www.dissentmagazine.org/article/beyond-conflict-minerals-the-congos-resource-curse-lives-on)
    * [Sandro Mezzadra & Brett Neilson, "Extraction, Logistics, Finance"](https://www.radicalphilosophy.com/article/extraction-logistics-finance)
@@ -565,7 +564,7 @@ __ASSIGNED__
 
 #### Wednesday, April 6th
 
-* **PROJECT 2 DUE**
+* **FINAL PROJECT PROPOSALS DUE**
 
 * Project Presentations and Critique
 
@@ -581,7 +580,7 @@ __ASSIGNED__
     * [Julie Michelle Klinger, "Rare Earth Frontiers", 2017](https://www.are.na/block/7639482)
 
 #### Wednesday, April 13th
-* **FINAL PROJECT PROPOSALS DUE**
+* **PROJECT 2 DUE**
 * Creating custom tiles
 * Working with MapboxGLSL
 * Custom tile exercise
