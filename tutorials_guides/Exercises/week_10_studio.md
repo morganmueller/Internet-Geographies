@@ -3,7 +3,7 @@
 
 ### Introduction
 Review Monday's slides if you need a refresher on how to creat an html file!
-T
+
 __Before starting: Create a file called index.html__
 
 1. To start, add the <!DOCTYPE html> declaration as the very first line of code at the top of the index.html file. Add the <html> element below.
@@ -33,8 +33,7 @@ Below that, add an <h2> that says:
 
 “Rather than offering a unified theme, we pursue a series of hunches throughout the exhibition: that abstraction demonstrates a tremendous capacity to create, share, and sometimes withhold meaning; that research-driven conceptual art can combine the lushness of ideas and materiality; that personal narratives sifted through political, literary, and pop cultures can address larger social frameworks; that artworks can complicate the meaning of “American” by addressing the country’s physical and psychological boundaries; and that our present moment can be reimagined by engaging with under-recognized artistic models and artists we have lost. Deliberately intergenerational and interdisciplinary, this Biennial proposes that cultural, aesthetic, and political possibility begins with meaningful exchange and reciprocity.”
 
-8. 
-Of course, this wouldn’t be a fashion blog without some images. Above each paragraph, add an <img> tag and set its src to be one of the following links:
+8. Of course, this wouldn’t be a fashion blog without some images. Above each paragraph, add an <img> tag and set its src to be one of the following links:
 
 https://whitneymedia.org/assets/image/827528/large_LITTLEISLAND_GUTPUNCH_Op3_web.jpg
 https://whitneymedia.org/assets/image/827466/large_RS10789_Yoon_S_04.jpg
@@ -50,11 +49,10 @@ https://www.brandingmag.com/wp-content/uploads/2013/06/whitney-museum-new-identi
 
 12. The unordered list should have the following four items:
 
-“David Hammons: Day’s End”
-Jennifer Packer: The Eye Is Not Satisfied With Seeing”
-“The Whitney’s Collection: Selections from 1900 to 1965”
-“Martine Gutierrez:
-Supremacy”
+* “David Hammons: Day’s End”
+* Jennifer Packer: The Eye Is Not Satisfied With Seeing”
+* “The Whitney’s Collection: Selections from 1900 to 1965”
+* “Martine Gutierrez: Supremacy”
 
 13. Let’s get the page connected to the rest of the web! In the first paragraph, turn ‘Whitney Biennial’ into a link and have it go to: https://en.wikipedia.org/wiki/Whitney_Biennial.
 
