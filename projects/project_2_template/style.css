@@ -10,7 +10,7 @@ h1 {
 }
 
 h2  {
-    text-align: left;
+    text-align: center;
 }
 
 p { 
@@ -37,4 +37,8 @@ footer {
 
 #map-padding {
     padding: 0px 50px 0px 50px;
+}
+
+#paragraph-text {
+    color: rgb(232, 62, 76);
 }

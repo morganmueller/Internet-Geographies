@@ -43,7 +43,25 @@
     * [Fugitive Emissions](https://cathodes.net/fugitive-emissions-part-1/)
     * [Samir Bhowmik Lithium Landscapes, 2021](http://mediafieldsjournal.org/lithium-landscapes/)
 
+* **WATCH**
+    * [Liam young, "Rare Earthenware"](https://www.liamyoung.org/projects/rare-earthenware)
+
 
 ### Additional Resources & References
 * [HTML Cheatsheet 1](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet)
 * [HTML Cheatsheet 2](https://drive.google.com/file/d/1V_Th2OPnb6FcRVPMcpqeWigFD7DC1XYx/view?usp=sharing)
+
+## Wednesday
+
+### Topics
+* Guest Lecture
+
+
+## Schedule
+* Quick Check-in - __5 minutes__
+    * Quick Check-in
+* Guest Lecture - __60 minutes__
+
+* Final Paper/Project explainer  - __15 minutes__
+* CSS/HTML studioo-  __15 minutes__
+    * Wednesday's plan
