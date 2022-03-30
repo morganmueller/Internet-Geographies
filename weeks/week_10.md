@@ -65,6 +65,9 @@
 * Final Paper/Project explainer  - __15 minutes__
 * CSS/HTML Studio -  __15 minutes__
 
+### In Class Studio
+* [Week 10 Studio](../tutorials_guides/exercises/week_10_studio.md)
+
 ### Assigned (**Due Wednesday April 6th**)
 
 * **SMALL ASSIGNMENT**
