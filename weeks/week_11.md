@@ -44,5 +44,6 @@ __ASSIGNED__
 * [Tin Mining on Bangka island of Indonesia in Pictures](https://www.theguardian.com/environment/gallery/2014/may/29/tin-mining-on-bangka-island-of-indonesia-in-pictures)
 * [Death Metal - Bangka Indonesia](https://www.theguardian.com/environment/2012/nov/23/tin-mining-indonesia-bangka)
 * [Light Industry: Toxic Waste and Pastoral Capitalism](https://www.e-flux.com/journal/74/59781/light-industry-toxic-waste-and-pastoral-capitalism/)
+* [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
 
 ## Wednesday
