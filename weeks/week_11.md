@@ -18,7 +18,6 @@
 * Rare Earths
 * Sacrifice Zones
 * Mining & Extraction
-* What makes up a computer?
 
 
 ## Schedule
