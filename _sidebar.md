@@ -11,7 +11,7 @@
     * [Week 8](weeks/week_08.md)
     * [Week 9](weeks/week_09.md)
     * [Week 10](weeks/week_10.md)
-
+    * [Week 11](weeks/week_11.md)
 
 
 
