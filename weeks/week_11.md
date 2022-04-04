@@ -29,6 +29,9 @@
     * Rare Earths
     * Sacrifice Zones
     * Salar De Atacama 
+    * Semiconductor Manufacturing
+* In Class Exercise __15 minutes__
+* Francis Tseng: Inside Out __20 minutes__
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
