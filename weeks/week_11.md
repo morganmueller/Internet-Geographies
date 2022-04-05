@@ -47,3 +47,18 @@ __ASSIGNED__
 * [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand)
 
 ## Wednesday
+
+### Topics
+* Final Project Proposals
+* In Class Studio
+* Francis Tseng Lecture
+
+## Schedule
+* Quick Check-in - __5 minutes__
+    * Quick Check-in
+* Small Assignment Presentations - __20 minutes__
+    * 4 or 5 students will present on their work
+* Francis Tseng Lecture __20ish minutes__
+* In Class Studio __50 minutes__
+* Wrap Up -  __5 minutes__
+    * Wednesday's plan
