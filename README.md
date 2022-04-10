@@ -595,7 +595,6 @@ __ASSIGNED__
 __ASSIGNED__
 * **READING**
     * [Tim Maughan, "The Dystopian Lake Filled By the World's Tech Lust", 2015](https://www.bbc.com/future/article/20150402-the-worst-place-on-earth)
-
     * [Josh Lepawsky, "What E-Waste Journalism Gets Wrong"](https://thereader.mitpress.mit.edu/what-e-waste-journalism-gets-wrong/)
 
 * **WATCH**
