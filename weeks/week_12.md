@@ -27,8 +27,8 @@
     * Group Leaders 
     * Conflict Minerals in the Congo
     * Extraction and Relationships
-* Landsat Image Bands __30 minutes__
-* Project 2 Assistance __20 minutes__
+* Landsat Image Bands - __30 minutes__
+* Project 2 Assistance - __20 minutes__
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
