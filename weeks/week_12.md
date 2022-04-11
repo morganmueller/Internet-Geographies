@@ -1,6 +1,6 @@
-# Week 11 - Elements of the Internet
+# Week 11 - Resource Lives
 
-> "We have built the world on foundations of sand–albeit varying and very specific kinds of sand." - Burrington
+> "Extraction provides the raw materials that drive capital’s creative destruction, whether it involves mining, land grabbing, extensive cultivation of cash crops, gentrification of urban neighbourhoods, or the continuous pressure placed on human activity and life to transform it into a source of value." - Sandro Mezzadra and Brett Neilson
 
 
 ## This Week's Resources
@@ -26,7 +26,7 @@
 * Reading Discussion - __40 minutes__
     * Group Leaders 
     * Conflict Minerals in the Congo
-    * 
+    * Extraction and Relationships
 * Landsat Image Bands __30 minutes__
 * Project 2 Assistance __20 minutes__
 * Wrap Up -  __5 minutes__
