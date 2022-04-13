@@ -41,3 +41,25 @@ __ASSIGNED__
 ### Additional Resources & References
 * [Landsat 8 Band Usage](https://landsat.gsfc.nasa.gov/satellites/landsat-8/landsat-8-bands/)
 * [Sentinel Hub](https://www.sentinel-hub.com/explore/eobrowser/)
+
+## Monday
+
+### Topics
+* Project 2 Presentations
+
+
+### Schedule
+* Quick Check-in - __5 minutes__
+    * Quick Check-in
+* Project 2 Presentations - __40 minutes__
+    * 10 min/person
+        * 5 Minute for presenting
+        * 5 Minutes for feedback
+* Wrap Up -  __5 minutes__
+    * Wednesday's plan
+
+### REMINDERS
+
+* DO YOUR READING RESPONSES!
+* If you haven't already, turn your final project proposal in!
+
