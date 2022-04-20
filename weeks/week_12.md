@@ -1,4 +1,4 @@
-# Week 11 - Resource Lives
+# Week 12- Resource Lives
 
 > "Extraction provides the raw materials that drive capital’s creative destruction, whether it involves mining, land grabbing, extensive cultivation of cash crops, gentrification of urban neighbourhoods, or the continuous pressure placed on human activity and life to transform it into a source of value." - Sandro Mezzadra and Brett Neilson
 
@@ -42,7 +42,7 @@ __ASSIGNED__
 * [Landsat 8 Band Usage](https://landsat.gsfc.nasa.gov/satellites/landsat-8/landsat-8-bands/)
 * [Sentinel Hub](https://www.sentinel-hub.com/explore/eobrowser/)
 
-## Monday
+## Wednesday
 
 ### Topics
 * Project 2 Presentations
