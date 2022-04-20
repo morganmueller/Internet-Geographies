@@ -1,4 +1,4 @@
-# Week 12- Not Quite Rare Earth
+# Week 13 - Not Quite Rare Earth
 
 > "The Bayan Obo mine in Inner Mongolia, China, was once a sacred Mongolian site and an area in which competing empires fought for control. How did this place beccome ethe single greatest sourcce of rare earth elements in the world?" - Klinger
 

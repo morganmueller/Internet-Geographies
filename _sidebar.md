@@ -13,7 +13,7 @@
     * [Week 10](weeks/week_10.md)
     * [Week 11](weeks/week_11.md)
     * [Week 12](weeks/week_12.md)
-    * [Week 12](weeks/week_13.md)
+    * [Week 13](weeks/week_13.md)
 
 
 
