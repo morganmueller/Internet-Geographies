@@ -1,4 +1,4 @@
-# Week 12- Resource Lives
+# Week 12 - Resource Lives
 
 > "Extraction provides the raw materials that drive capital’s creative destruction, whether it involves mining, land grabbing, extensive cultivation of cash crops, gentrification of urban neighbourhoods, or the continuous pressure placed on human activity and life to transform it into a source of value." - Sandro Mezzadra and Brett Neilson
 
