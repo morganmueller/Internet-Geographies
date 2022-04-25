@@ -27,7 +27,7 @@
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
-### Assigned (**Due Monday April 18th**)
+### Assigned (Due Monday May 2nd)
 
 __ASSIGNED__
 * **READING**
