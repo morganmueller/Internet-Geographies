@@ -52,7 +52,7 @@ __ASSIGNED__
 ### Schedule
 * Quick Check-in - __5 minutes__
     * Quick Check-in
-* Group Work Session - __60 minutes__
+* Group Work Session - __85 minutes__
 * Wrap Up -  __5 minutes__
     * Wednesday's plan
 
