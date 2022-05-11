@@ -4,6 +4,10 @@
 
 > Also based on and adapted from Joey K. Lee's All Maps Lie Course
 
+
+## SUBMITTION LINK: 
+[Link](https://forms.gle/QdSCAndD628miVuJ7)
+
 ## COURSE PROJECT
 
 Throughout the semester we have covered a variety of topics related to and tangentially related to the internet and its complex entanglement of people, industries, and legacies. You should begin to think about a fluid, capacious **research topic, related to our course material, that you’d like to explore through a critical lens**. This research will culminate in either:
@@ -77,6 +81,8 @@ You can find inspiration from example projects here:
 Please do not email me five separate files or five separate links, or hand me five separate documents; **your final submission should be one integrated collection, with all components synthesized and contextualized.** If your work consists of analog, performative, or ephemeral media that doesn’t readily lend itself to submission, you’ll need to share with me some coherent form of documentation. 
 
 You’ll submit your project **before the start of the final class on May 16**, and during that class each student will deliver a presentation/documentation of their work. 
+
+__SUBMITTION LINK__: [Link](https://forms.gle/QdSCAndD628miVuJ7)
 
 ## FAQ
 
